@@ -1,0 +1,805 @@
+line,question,question_type
+1,What is svm?,svm
+2,What is svm fullform?,svm
+3,What is svm abbreviation?,svm
+4,What is ment by support vector machine algorithm?,svm
+5,What is the support vector machine?,svm
+6,What is svm algorithm?,svm
+7,What is support vector machine algorithm in machine learning?,svm
+8,What is support vector machine algorithm in data science?,svm
+9,What is a support vector machine algorithm?,svm
+10,Defination of support vector machine algorithm?,svm
+11,What is support vector machine?,svm
+12,Tell me support vector machine?,svm
+13,What about support vector machine?,svm
+14,About support vector machine?,svm
+15,support vector machine?,svm
+16,Do you know support vector machine?,svm
+17,What do you know about support vector machine?,svm
+18,support vector machine?,svm
+19,What is the goal of  support vector machine?,svm
+20,Why is the support vector machine?,svm
+21,where we choose only support vector machine in data sciences?,svm
+22,When we choose support vector machine?,svm
+23,can we  choose support vector machine?,svm
+24,reason to support vector machine machine learning?,svm
+25,Why do we use the support vector machine?,svm
+26,purpose of the support vector machine?,svm
+27,What are the uses of svm?,svm
+28,What are the uses of support vector machine?,svm
+29,Tell me the benefits of support vector machine?,svm
+30,what are  uses of svm?,svm
+31,What about the uses of support vector machine?,svm
+32,Are there any benefits  of support vector machine?,svm
+33,Why to use support vector machine?,svm
+34,Why do we need to use support vector machine?,svm
+35,Why we need to use support vector machine?,svm
+36,Are there any uses of support vector machine?,svm
+37,Uses of support vector machine?,svm
+38,What classification analysis in support vector machine?,svm
+39,Tell me about classification analysis in support vector machine?,svm
+40,What do you know about classification analysis in support vector machine?,svm
+41,How classification analysis works ?,svm
+42,Tell me  classification analysis?,svm
+43,About the classification analysis?,svm
+44,Let me about classification analysis?,svm
+45,What do you say about classification analysis?,svm
+46,What does classification analysismean?,svm
+47,Explain classification analysis?,svm
+48,Define classification analysis?,svm
+49,Can you explain about classification analysis in support vector machine?,svm
+50,What is regression analysis in support vector machine?,svm
+51,Tell me about regression analysis in support vector machine?,svm
+52,What do you know about regression analysis?,svm
+53,Do you know about regression analysis?,svm
+54,What is the process of regression analysis?,svm
+55,How regression analysis works in support vector machine?,svm
+56,Tell me regression analysis?,svm
+57,About regression analysis?,svm
+58,regression analysis?,svm
+59,What is regression analysis?,svm
+60,What do you say about regression analysis?,svm
+61,What does regression analysismean?,svm
+62,Explain regression analysis?,svm
+63,Define regression analysis?,svm
+64,Can you explain about regression analysis in support vector machine?,svm
+65,Can you say something about regression analysis?,svm
+66,Can you explain briefly about regression analysis?,svm
+67,Can you give a short summary about regression analysis in support vector machine?,svm
+68,what is hyperplane?,svm
+69,What is hyper plane?,svm
+70,What is hyper plane in svm?,svm
+71,What is hyper plane in support vector machine?,svm
+72,What is ment by hyper plane in support vector machine?,svm
+73,Definition of hyper plane in support vector machine?,svm
+74,What is a hyper plane in  support vector machine?,svm
+75,What is the hyper plane in  support vector machine?,svm
+76,Do you know about hyper plane in  support vector machine?,svm
+77,Tell me about hyper plane in  support vector machine?,svm
+78,why we can use a hyper plane in  support vector machine?,svm
+79,what do you konw about the hyper plane in  support vector machine?,svm
+80,what is a hyper plane?,svm
+81,About the hyper plane in  support vector machine?,svm
+82,Which is the best hyper plane in support vector machine?,svm
+83,Best hyper plane in support vector machine?,svm
+84,What is  best hyper plane in support vector machine?,svm
+85,Which is best hyper plane in  support vector machine?,svm
+86,Which is the best hyper plane of support vector machine in machine learning?,svm
+87,Do you know best hyper plane in  support vector machine?,svm
+88,Tell me which is best hyper plane in  support vector machine?,svm
+89,why we can called is best hyper plane in  support vector machine?,svm
+90,what do you konw best hyper plane in  support vector machine?,svm
+91,which is a best hyper plane?,svm
+92,About the best hyper plane in  support vector machine?,svm
+93,What is homogeneous partition in support vector machine?,svm
+94,What is ment by homogeneous partition in svm?,svm
+95,Definition of homogeneous partition in support vector machine?,svm
+96,What is a homogeneous partition in  support vector machine?,svm
+97,What is the homogeneous partition in  support vector machine?,svm
+98,Do you know about homogeneous partition in  support vector machine?,svm
+99,Tell me about homogeneous partition in  support vector machine?,svm
+100,why we can use a homogeneous partition in  support vector machine?,svm
+101,what do you konw about the homogeneous partition in  support vector machine?,svm
+102,what is  homogeneous partition?,svm
+103,homogeneous partition in svm ?,svm
+104,About the homogeneous partition in  support vector machine?,svm
+105,What is Support Vector Classifier in support vector machine?,svm
+106,What is ment by Support Vector Classifier in support vector machine?,svm
+107,Definition of Support Vector Classifier in support vector machine?,svm
+108,What is a Support Vector Classifier in  support vector machine?,svm
+109,What is the Support Vector Classifier in  support vector machine?,svm
+110,Do you know about Support Vector Classifier in  support vector machine?,svm
+111,Tell me about Support Vector Classifier in  support vector machine?,svm
+112,why we can use a Support Vector Classifier in  support vector machine?,svm
+113,what do you konw abput the Support Vector Classifiere in  support vector machine?,svm
+114,what is a Support Vector Classifier?,svm
+115,About the Support Vector Classifier in  support vector machine?,svm
+116,What are the uses of svm?,svm
+117,What are the uses of Support Vector Classifier in support vector machine?,svm
+118,Tell me the uses of Support Vector Classifier in support vector machine?,svm
+119,What about the uses of Support Vector Classifier in support vector machine?,svm
+120,What are the advantages of Support Vector Classifier in support vector machine?,svm
+121,Are there any advantages of Support Vector Classifier in support vector machine?,svm
+122,Why to use Support Vector Classifier insupport vector machine?,svm
+123,Why do we need to use Support Vector Classifier in support vector machine?,svm
+124,Why we need to use Support Vector Classifier in support vector machine?,svm
+125,Are there any uses of Support Vector Classifier in support vector machine?,svm
+126,Uses of Support Vector Classifier in svm?,svm
+127,What is maximum margin classifier in support vector machine?,svm
+128,explain maximum margin classifier in support vector machine?,svm
+129,maximum margin classifier in svm?,svm
+130,maximum margin classifier?,svm
+131,Definition of maximum margin classifier in support vector machine?,svm
+132,What is a maximum margin classifier in  support vector machine?,svm
+133,maximum margin classifier in  support vector machine?,svm
+134,Do you know about maximum margin classifier in  support vector machine?,svm
+135,Tell me about maximum margin classifier in  support vector machine?,svm
+136,About maximum margin classifier in  support vector machine?,svm
+137,What do you know about maximum margin classifier in  support vector machine?,svm
+138,What are the uses of maximum margin Classifier in support vector machine?,svm
+139,Tell me the uses of maximum margin Classifier in support vector machine?,svm
+140,What about the uses of maximum margin Classifier in support vector machine?,svm
+141,What are the uses of maximum margin Classifier in support vector machine?,svm
+142,Are there any uses of maximum margin Classifier in support vector machine?,svm
+143,Why to use maximum margin Classifier insupport vector machine?,svm
+144,Why do we need to use maximum margin Classifier in support vector machine?,svm
+145,Why we need to use maximum margin Classifier in support vector machine?,svm
+146,Are there any uses of maximum marginr Classifier in support vector machine?,svm
+147,Uses of maximum margin Classifier?,svm
+148,What is soft margin classifier in support vector machine?,svm
+149,What is ment by soft margin classifier in support vector machine?,svm
+150,What is ment by soft margin classifier?,svm
+151,Definition of soft margin classifier in support vector machine?,svm
+152,What is a soft margin classifier in  support vector machine?,svm
+153,What is the soft margin classifier in  support vector machine?,svm
+154,Do you know about soft margin classifier in  support vector machine?,svm
+155,Tell me about soft margin classifier in  support vector machine?,svm
+156,What do you know about soft margin classifier in  support vector machine?,svm
+157,Tell me soft margin classifier in  support vector machine?,svm
+158,Tell me soft margin classifier of support vector machine in machine learning?,svm
+159,What are the uses of soft margin Classifier in support vector machine?,svm
+160,What are the uses of soft margin Classifier in support vector machine?,svm
+161,Tell me the uses of soft margin Classifier in support vector machine?,svm
+162,What about the uses of soft margin Classifier in support vector machine?,svm
+163,What are the advantages of soft margin Classifier in support vector machine?,svm
+164,Are there any advantages of soft margin Classifier in support vector machine?,svm
+165,Why to use soft margin Classifier insupport vector machine?,svm
+166,Why do we need to use soft margin Classifier in support vector machine?,svm
+167,Why we need to use soft margin Classifier in support vector machine?,svm
+168,Are there any uses of soft marginr Classifier in support vector machine?,svm
+169,Uses of soft margin Classifier?,svm
+170,what is the primary difference between Support Vector Classifier and maximum margin classifier?,svm
+171,How Support Vector Classifier is differ from maximum margin classifier?,svm
+172,Tell me about Support Vector Classifier and maximum margin classifier?,svm
+173,What do you know about Support Vector Classifier and maximum margin classifier?,svm
+174,Do you know about Support Vector Classifier and maximum margin classifier?,svm
+175,distinguish between Support Vector Classifier and maximum margin classifier?,svm
+176,mention some differences between Support Vector Classifier and maximum margin classifier?,svm
+177,what are main difeferences between Support Vector Classifier and maximum margin classifier?,svm
+178,tell me some differences between Support Vector Classifier and maximum margin classifier?,svm
+179,list out some differences betwen Support Vector Classifier and maximum margin classifier?,svm
+180,what is difference between Support Vector Classifier and maximum margin classifier?,svm
+181,what is difference between Support Vector Classifier and maximum margin classifier?,svm
+182,Differentiate between Support Vector Classifier and maximum margin classifier?,svm
+183,what is the primary difference between maximum margin classifier and soft margin classifier?,svm
+184,How maximum margin classifier is differ from soft margin classifier?,svm
+185,Tell me about maximum margin classifier and soft margin classifier?,svm
+186,What do you know about maximum margin classifier and soft margin classifier?,svm
+187,Do you know about maximum margin classifier and soft margin classifier?,svm
+188,distinguish between maximum margin classifier and soft margin classifier?,svm
+189,mention some differences between maximum margin classifier and soft margin classifier?,svm
+190,what are main difeferences between maximum margin classifier and soft margin classifier?,svm
+191,tell me some differences between maximum margin classifier and soft margin classifier?,svm
+192,list out some differences betwen maximum margin classifier and soft margin classifier?,svm
+193,what is difference between maximum margin classifier and soft margin classifier?,svm
+194,what is difference between maximum margin classifier and soft margin classifier?,svm
+195,Differentiate between maximum margin classifier and soft margin classifier?,svm
+196,what is the primary difference between Support Vector Classifier and soft margin classifier?,svm
+197,How Support Vector Classifier is differ from soft margin classifier?,svm
+198,Tell me about Support Vector Classifier and soft margin classifier?,svm
+199,What do you know about Support Vector Classifier and soft margin classifier?,svm
+200,Do you know about Support Vector Classifier and soft margin classifier?,svm
+201,distinguish between Support Vector Classifier and soft margin classifier?,svm
+202,mention some differences between Support Vector Classifier and soft margin classifier?,svm
+203,what are main difeferences between  Support Vector Classifier and soft margin classifier?,svm
+204,tell me some differences between Support Vector Classifier and soft margin classifier?,svm
+205,list out some differences betwen Support Vector Classifier and soft margin classifier?,svm
+206,what is difference between Support Vector Classifier and soft margin classifier?,svm
+207,what is difference between Support Vector Classifier and soft margin classifier?,svm
+208,Differentiate between Support Vector Classifier and soft margin classifier?,svm
+209,what is hyper plane?,svm
+210,How to draw a hyper plane in support vector machine?,svm
+211,How to draw a hyper plane?,svm
+212,How can we draw a hyper plane in support vector machine?,svm
+213,what is the way of draw a hyper plane in support vector machine?,svm
+214,How to draw a hyper plane in support vector machine?,svm
+215,How to draw a hyper plane of support vector machine in machine learning?,svm
+216,What is a process of draw hyper plane in support vector machine?,svm
+217,How to draw a hyper plane of machine learning?,svm
+218,What is the kernel?,svm
+219,What is the kernel trick?,svm
+220,What is the kernel trick in support vector machine?,svm
+221,What is the kernel trick in svm?,svm
+222,kernel trick in svm?,svm
+223,Deifination of kernel trick?,svm
+224,What is ment by kernel trick in support vector machine?,svm
+225,Do you know about kernel trick in support vector machine?,svm
+226,What is kernel trick?,svm
+227,Tell me about the kernel trick in support vector machine?,svm
+228,What do you know kernel trick in support vector machine?,svm
+229,Define kernel trick in support vector machine?,svm
+230,What is kernel function ?,svm
+231,Tell me about kernel function ?,svm
+232,What do you know about kernel function ?,svm
+233,Do you know about kernel function ?,svm
+234,What is the process of kernel function ?,svm
+235,How kernel function  works ?,svm
+236,About kernel function ?,svm
+237,kernel function ?,svm
+238,What is kernel function ?,svm
+239,What do you say about kernel function ?,svm
+240,What does kernel function mean?,svm
+241,Explain kernel function ?,svm
+242,Define kernel function ?,svm
+243,Can you explain about kernel function ?,svm
+244,Can you say something about kernel function ?,svm
+245,Can you explain briefly about kernel function ?,svm
+246,Can you give a short summary about kernel function ?,svm
+247,What are the uses of kernel trick in support vector machine?,svm
+248,What are the uses of kernel trick in support vector machine?,svm
+249,Tell me the uses of kernel trick in support vector machine?,svm
+250,What about the uses of kernel trick?,svm
+251,What are the advantages of kernel trick?,svm
+252,Are there any advantages of kernel trick in support vector machine?,svm
+253,Why to use kernel trick?,svm
+254,Why do we need to use kernel trick in support vector machine?,svm
+255,Why we need to use kernel trick?,svm
+256,Are there any uses of kernel trick?,svm
+257,Uses of kernel trick in support vector machine?,svm
+258,What are types of  kernel functions?,svm
+259,Tell me types of  kernel functions?,svm
+260,Do you know types of   kernel functions?,svm
+261,Types of   kernel functions?,svm
+262,Different types of   kernel functions?,svm
+263,What are the different types of  kernel functions?,svm
+264,how many types of  kernel functions are there?,svm
+265,What are the important types of  kernel functions?,svm
+266,list out different types of  kernel functions?,svm
+267,what are the various types of  kernel functions?,svm
+268,list out various types of  kernel functions?,svm
+269,mention some  kernel functionsmethods?,svm
+270,say different  kernel functionsmethods?,svm
+271,do you know the various types of  kernel functions?,svm
+272,Types of kernel tricks in support vector machine?,svm
+273,What are the types of kernel tricks in support vector machine?,svm
+274,Types of kernel tricks in support vector machine?,svm
+275,How many types of kernel tricks in support vector machine?,svm
+276,What are the types of kernel tricks?,svm
+277,Do you konw the types of kernel tricks in support vector machine?,svm
+278,Do you konw about the types of kernel tricks in support vector machine?,svm
+279,Types of kerne trickl ?,svm
+280,What are kernel tricks in support vector machine?,svm
+281,Do you konw the types of kernel tricks in support vector machine?,svm
+282,Types of kernel tricks of support vector machine in machine learning?,svm
+283,Tell me the types of kernel tricks in support vector machine?,svm
+284,Tell me about one kernal function?,svm
+285,What is linear kernel?,svm
+286,What is  linear kernel support vector machine?,svm
+287,What is a linear kernel?,svm
+288,Defination of linear kernel?,svm
+289,What is linear kernel?,svm
+290,Tell me about linear kernel?,svm
+291,Tell me linear kernel?,svm
+292,What about linear kernel?,svm
+293,About linear kernel?,svm
+294,linear kernel?,svm
+295,Do you know linear kernel?,svm
+296,What do you know about linear kernel?,svm
+297,What do you know linear kernel in machine learning?,svm
+298,What do you know linear kernel in support vector machine?,svm
+299,What are the uses of linear kernel?,svm
+300,What are the uses of linear kernel?,svm
+301,Tell me the uses of linear kernel?,svm
+302,What about the uses of linear kernel?,svm
+303,What are the advantages of linear kernel?,svm
+304,Are there any advantages of linear kernel?,svm
+305,HWhy to use linear kernel?,svm
+306,Why do we need to use linear kernel?,svm
+307,Why we need to use linear kernel?,svm
+308,Are there any uses of linear kernel?,svm
+309,Uses of linear kernel?,svm
+310,What is polynomial kernel?,svm
+311,What is  polynomial kernel support vector machine?,svm
+312,What is a polynomial kernel?,svm
+313,Defination of polynomial kernel?,svm
+314,What is polynomial kernel?,svm
+315,Tell me about polynomial kernel?,svm
+316,Tell me polynomial kernel?,svm
+317,What about polynomial kernel?,svm
+318,About polynomial kernel?,svm
+319,polynomial kernel?,svm
+320,Do you know polynomial kernel?,svm
+321,What do you know about polynomial kernel?,svm
+322,What do you know polynomial kernel in machine learning?,svm
+323,What do you know polynomial kernel in support vector machine?,svm
+324,Defination of gaussian kernel in svm?,svm
+325,What is gaussian kernel?,svm
+326,Tell me about gaussian kernel?,svm
+327,Tell me gaussian kernel?,svm
+328,What about gaussian kernel?,svm
+329,About gaussian kernel?,svm
+330,gaussian kernel?,svm
+331,Do you know gaussian kernel?,svm
+332,What do you know about gaussian kernel?,svm
+333,What do you know gaussian kernel in machine learning?,svm
+334,What do you know gaussian kernel in support vector machine?,svm
+335,Defination of radial kernel?,svm
+336,What is radial kernel?,svm
+337,Tell me radial kernel?,svm
+338,Tell me radial kernel?,svm
+339,What about radial kernel?,svm
+340,About radial kernel?,svm
+341,radial kernel?,svm
+342,Do you know radial kernel?,svm
+343,What do you know about radial kernel?,svm
+344,What do you know radial kernel in machine learning?,svm
+345,What do you know radial kernel in support vector machine?,svm
+346,What is ment by dot product support vector machine?,svm
+347,dot product in svm?,svm
+348,What is the dot product in support vector machine?,svm
+349,What is dot product technique?,svm
+350,What is dot product in machine learning?,svm
+351,What is dot product data science?,svm
+352,What is a dot product?,svm
+353,Defination of dot product?,svm
+354,What is dot product?,svm
+355,Tell me about dot product?,svm
+356,Tell me dot product?,svm
+357,What about dot product?,svm
+358,About dot product?,svm
+359,What is a bias in support vector machine?,svm
+360,How to occure  a bias?,svm
+361,Defination of bias?,svm
+362,Tell me about bias ?,svm
+363,About bias ?,svm
+364,bias ?,svm
+365,Do you know about bias ?,svm
+366,What do you know about bias ?,svm
+367,What is high bias in data science?,svm
+368,What is a high bias?,svm
+369,Defination of high bias?,svm
+370,What is high bias ?,svm
+371,Tell me about high bias ?,svm
+372,Tell me high bias ?,svm
+373,What about high bias ?,svm
+374,About high bias ?,svm
+375,high bias ?,svm
+376,Do you know high bias ?,svm
+377,What do you know about high bias ?,svm
+378,What do you know high bias ?,svm
+379,What is the goal of high bias ?,svm
+380,What is low bias in data science?,svm
+381,What is a low bias?,svm
+382,Defination of low bias?,svm
+383,What is low bias ?,svm
+384,Tell me about low bias ?,svm
+385,Tell me low bias ?,svm
+386,What about low bias ?,svm
+387,About low bias ?,svm
+388,low bias ?,svm
+389,Do you know low bias ?,svm
+390,What do you know about low bias ?,svm
+391,What do you know low bias ?,svm
+392,What is the goal of low bias ?,svm
+393,What is high varince in data science?,svm
+394,What is a high varince?,svm
+395,Defination of high varince?,svm
+396,What is high varince ?,svm
+397,Tell me about high varince ?,svm
+398,Tell me high varince ?,svm
+399,What about high varince ?,svm
+400,About high varince ?,svm
+401,high varince ?,svm
+402,Do you know high varince ?,svm
+403,What do you know about high varince ?,svm
+404,What do you know high varince ?,svm
+405,What is the goal of high varince ?,svm
+406,What is low varince in data science?,svm
+407,What is a low varince?,svm
+408,Defination of low varince?,svm
+409,What is low varince ?,svm
+410,Tell me about low varince ?,svm
+411,Tell me low varince ?,svm
+412,What about low varince ?,svm
+413,About low varince ?,svm
+414, low varince ?,svm
+415,Do you know low varince ?,svm
+416,What do you know about low varince ?,svm
+417,What do you know low varince ?,svm
+418,What is the goal of low varince ?,svm
+419,what  the primary difference between bias and vaiance?,svm
+420,How bias is differ from vaiance?,svm
+421,Tell me about bias and vaiance?,svm
+422,What do you know about bias and vaiance?,svm
+423,Do you know about bias and vaiance?,svm
+424,distinguish between bias and vaiance?,svm
+425,mention some differences between bias and vaiance?,svm
+426,what are main difeferences between  bias and vaiance?,svm
+427,tell me some differences between bias and vaiance?,svm
+428,list out some differences betwen bias and vaiance?,svm
+429,Differentiate between bias and vaiance?,svm
+430,What is parameter in support vector machine?,svm
+431,What is  parameter in python?,svm
+432,What is a parameter in support vector machine?,svm
+433,Defination of parameter?,svm
+434,What is parameter in support vector machine?,svm
+435,Tell me about parameter in support vector machine?,svm
+436,Tell me parameter?,svm
+437,What about parameter in support vector machine?,svm
+438,About parameter?,svm
+439,parameter in support vector machine?,svm
+440,Do you know parameter?,svm
+441,What do you know about parameter?,svm
+442,parameter in support vector machine?,svm
+443,What are the types of parameters in support vector machine?,svm
+444,Types of parameters in support vector machine?,svm
+445,How many types of parameters in support vector machine?,svm
+446,What are the types of parameters?,svm
+447,Do you konw the types of parameters in support vector machine?,svm
+448,Do you konw about the types of parameters in support vector machine?,svm
+449,Types of parameters in svm?,svm
+450,Do you konw the types of parameters in support vector machine?,svm
+451,Types of parameters of support vector machine in machine learning?,svm
+452,Tell me the types of parameters in support vector machine?,svm
+453,What is a c parameter in support vector machine?,svm
+454,Defination of c parameter in support vector machine?,svm
+455,What is c parameter in support vector machine?,svm
+456,Tell me about c parameter in support vector machine?,svm
+457,Tell me c parameter in support vector machine?,svm
+458,What about c parameter in support vector machine?,svm
+459,About c parameter in support vector machine?,svm
+460,c parameter in support vector machine?,svm
+461,Do you know c parameter in support vector machine?,svm
+462,What do you know about c parameter in support vector machine?,svm
+463,What do you know c parameter in svm?,svm
+464,What do you know c parameter in support vector machine?,svm
+465,What is gamma parameter in support vector machine?,svm
+466,What is gamma parameter in python?,svm
+467,What is a gamma parameter in svm?,svm
+468,Defination of gamma parameter in support vector machine?,svm
+469,What is gamma parameter?,svm
+470,Tell me about gamma parameter in support vector machine?,svm
+471,Tell me gamma parameter in support vector machine?,svm
+472,What about gamma parameter in support vector machine?,svm
+473,About gamma parameter in support vector machine?,svm
+474,gamma parameter in support vector machine?,svm
+475,Do you know gamma parameter?,svm
+476,What is two dimensional space in support vector machine?,svm
+477,What is two dimensional space in python?,svm
+478,What is a two dimensional space?,svm
+479,Defination of two dimensional space in support vector machine?,svm
+480,What is two dimensional space?,svm
+481,Tell me about two dimensional space in support vector machine?,svm
+482,Tell me two dimensional space in support vector machine?,svm
+483,What about two dimensional space in support vector machine?,svm
+484,About two dimensional space in support vector machine?,svm
+485,two dimensional space in support vector machine?,svm
+486,Do you know two dimensional space?,svm
+487,What is three dimensional space in support vector machine?,svm
+488,What is three dimensional space in python?,svm
+489,What is a three dimensional space?,svm
+490,Defination of three dimensional space in support vector machine?,svm
+491,What is three dimensional space?,svm
+492,Tell me about three dimensional space in support vector machine?,svm
+493,Tell me three dimensional space in support vector machine?,svm
+494,What about three dimensional space in support vector machine?,svm
+495,About three dimensional space in support vector machine?,svm
+496,three dimensional space in support vector machine?,svm
+497,Do you know three dimensional space?,svm
+498,What are the support vectors in support vector machine?,svm
+499,What are the support vectors?,svm
+500,Deifination of support vectors in support vector machine?,svm
+501,What is ment by support vectors in support vector machine?,svm
+502,Do you know about support vectors in support vector machine?,svm
+503,Which are support vectors in support vector machine?,svm
+504,Tell me about the support vectors in support vector machine?,svm
+505,Tell me support vectors in support vector machine?,svm
+506,What do you know support vectors in support vector machine?,svm
+507,What do you know about support vectors in support vector machine?,svm
+508,What are the advantages in support vector machine?,svm
+509,What are the advantages of support vector machine in machine learning?,svm
+510,Advantages in support vector machine?,svm
+511,advantages of support vector machine?,svm
+512,Do you know about advantages in support vector machine?,svm
+513,Which are advantages in support vector machine?,svm
+514,Tell me advantages of support vector machine?,svm
+515,Tell me advantages in support vector machine?,svm
+516,What do you know advantages of svm?,svm
+517,What do you know about advantages support vector machine?,svm
+518,What are the disadvantages of svm?,svm
+519,What are the disadvantages in support vector machine?,svm
+520,What are the disadvantages of support vector machine in machine learning?,svm
+521,disadvantages in support vector machine?,svm
+522,disadvantages in support vector machine?,svm
+523,Do you know about disadvantages in support vector machine?,svm
+524,Which are disadvantages in support vector machine?,svm
+525,Tell me disadvantages in support vector machine?,svm
+526,Tell me disadvantages in support vector machine?,svm
+527,What do you know disadvantages in support vector machine?,svm
+528,What do you know about disadvantages support vector machine?,svm
+529,What is cost parameter in support vector machine?,svm
+530,What is ment by cost parameter in support vector machine?,svm
+531,Definition of cost parameter in support vector machine?,svm
+532,What is a cost parameter in  support vector machine?,svm
+533,What is the cost parameter in  support vector machine?,svm
+534,Do you know about cost parameter in  support vector machine?,svm
+535,Tell me about cost parameter in  support vector machine?,svm
+536,why we can use a cost parameter in  support vector machine?,svm
+537,what do you konw about the cost parameter in  support vector machine?,svm
+538,what is a cost parameter?,svm
+539,About the cost parameter in  support vector machine?,svm
+540,What is generalization error in support vector machine?,svm
+541,What is generalization error of svm?,svm
+542,What is the generalization error in support vector machine?,svm
+543,What is a generalization error?,svm
+544,Defination generalization error in support vector machine?,svm
+545,Tell me about generalization error in support vector machine?,svm
+546,Tell me generalization error in support vector machine?,svm
+547,What about generalization error in support vector machine?,svm
+548,About generalization error in support vector machine?,svm
+549,  generalization error in support vector machine?,svm
+550,Do you know generalization error in support vector machine?,svm
+551,What do you know about generalization error in support vector machine?,svm
+552,What is metrics module in support vector machine?,svm
+553,What is metrics module of support vector machine in machine learning?,svm
+554,What is the metrics module in support vector machine?,svm
+555,What is a metrics module?,svm
+556,Defination metrics module in support vector machine?,svm
+557,Tell me about metrics module in support vector machine?,svm
+558,Tell me metrics module in support vector machine?,svm
+559,What about metrics module in support vector machine?,svm
+560,About metrics module in support vector machine?,svm
+561,  metrics module in support vector machine?,svm
+562,What is Splitting the Data in support vector machine?,svm
+563,What is Splitting the Data of support vector machine in machine learning?,svm
+564,What is the Splitting the Data in support vector machine?,svm
+565,What is a Splitting the Data?,svm
+566,Defination Splitting the Data in support vector machine?,svm
+567,Tell me about Splitting the Data in support vector machine?,svm
+568,Tell me Splitting the Data in support vector machine?,svm
+569,What about Splitting the Data in support vector machine?,svm
+570,About Splitting the Data in support vector machine?,svm
+571,  Splitting the Data in support vector machine?,svm
+572,Which is the best split ratio in model building?,svm
+573,Best split ratio in model building?,svm
+574,What is  best split ratio in model building?,svm
+575,Which is best split ratio in svm?,svm
+576,Which is the best split ratio in model building in machine learning?,svm
+577,Do you know best split ratio in model building?,svm
+578,Tell me which is best split ratio in model building?,svm
+579,why we can called is best split ratio in model building?,svm
+580,what do you konw best split ratio in model building?,svm
+581,which is a best split ratio in model building in suppot vector machine?,svm
+582,About the best split ratio in model building?,svm
+583,can you explain about best split ratio in svm?,svm
+584,Which type of data is best to support vector machine?,svm
+585,What type of data is to best to support vector machine in machine learning?,svm
+586,What type of data is best to support vector machine?,svm
+587,Tell me about the type data is best to support vector machine?,svm
+588,Tell me which type of data is best to support vector machine?,svm
+589,What about type of data is best to support vector machine?,svm
+590,About what type data is best to support vector machine?,svm
+591,  type of data is best to support vector machine?,svm
+592,What do you know about the type of data is best to support vector machine?,svm
+593,What is the goal of support vector machine?,svm
+594,What is goal of support vector machine algorithm?,svm
+595,What is goal of support vector machine algorithm in machine learning?,svm
+596,What is goal of support vector machine algorithm in data science?,svm
+597,goal of support vector machine algorithm?,svm
+598,What is the goal in support vector machine?,svm
+599,Tell me about goal of support vector machine?,svm
+600,Tell me goal of support vector machine?,svm
+601,What about goal of support vector machine?,svm
+602,About goal of support vector machine?    ,svm
+603,What is the maximization problem in support vector machine?,svm
+604,What is maximization problem in support vector?,svm
+605,What is maximization problem in support vector machine?,svm
+606,What is maximization problem in support vector machine algorithm?,svm
+607,maximization problem in support vector machine?,svm
+608,What is the maximization problem in support vector machine?,svm
+609,Tell me about maximization problem in support vector machine?,svm
+610,Tell me maximization problem in support vector machine?,svm
+611,What about maximization problem in support vector machine?,svm
+612,About maximization problem in support vector machine?    ,svm
+613,What is slack variable in support vector machine?,svm
+614,What is slack variable in python?,svm
+615,What is a slack variable?,svm
+616,Defination of slack variable in support vector machine?,svm
+617,What is slack variable?,svm
+618,Tell me about slack variable in support vector machine?,svm
+619,Tell me slack variable in support vector machine?,svm
+620,What about slack variable in support vector machine?,svm
+621,About slack variable in support vector machine?,svm
+622,  slack variable in support vector machine?,svm
+623,Do you know slack variable?,svm
+624,What are the types of dot products in support vector machine?,svm
+625,Types of dot products in support vector machine?,svm
+626,How many types of dot products in support vector machine?,svm
+627,What are the types of dot products?,svm
+628,Do you konw the types of dot products in support vector machine?,svm
+629,Do you konw about the types of dot products in support vector machine?,svm
+630,Types of dot products?,svm
+631,Do you konw the types of dot products in support vector machine?,svm
+632,Types of dot products of support vector machine in machine learning?,svm
+633,Tell me the types of dot products in support vector machine?,svm
+634,What is inner product in support vector machine?,svm
+635,inner product in svm?,svm
+636,Defination of inner product in support vector machine?,svm
+637,What is inner product?,svm
+638,Tell me about inner product in support vector machine?,svm
+639,Tell me inner product in support vector machine?,svm
+640,What about inner product in support vector machine?,svm
+641,About inner product in support vector machine?,svm
+642,  inner product in support vector machine?,svm
+643,Do you know inner product?,svm
+644,What is Projection product in svm?,svm
+645,What is a Projection product?,svm
+646,Defination of Projection product in support vector machine?,svm
+647,What is Projection product?,svm
+648,Tell me about Projection product in support vector machine?,svm
+649,Tell me Projection in support vector machine?,svm
+650,What about Projection product in support vector machine?,svm
+651,About Projection product in support vector machine?,svm
+652,  Projection product in support vector machine?,svm
+653,Do you know Projection product?,svm
+654,Where can support vector machine be applicable?,svm
+655,applications of support vector machine ?,svm
+656,Main applications of support vector machine ?,svm
+657,what are the applications of support vector machine ?,svm
+658,where do we applicable svm?,svm
+659,tell me some applications of support vector machine ?,svm
+660,list out some applications of support vector machine ?,svm
+661,what is the applications of support vector machine ?,svm
+662,where is support vector machine applicable?,svm
+663,list me few applications of support vector machine ?,svm
+664,Where can roc curve in support vector machine be used?,svm
+665,Uses of roc curve in support vector machine ?,svm
+666,Main Uses of roc curve in support vector machine ?,svm
+667,what are the Uses of roc curve in support vector machine ?,svm
+668,where do we use roc curve in support vector machine ?,svm
+669,tell me some uses of roc curve in support vector machine ?,svm
+670,list out some Uses of roc curve in svm?,svm
+671,what is the use of roc curve in support vector machine ?,svm
+672,where is roc curve in support vector machine Uses?,svm
+673,list me few uses of roc curve in support vector machine ?,svm
+674,what are the real time examples of roc curve in support vector machine ?,svm
+675,list some examples of roc curve in support vector machine ?,svm
+676,What are the Libraries of support vector machine in python?,svm
+677,What are the Libraries of svm?,svm
+678,Libraries of support vector machine in python?,svm
+679,Libraries of support vector machine in python?,svm
+680,Do you know about Libraries of support vector machine in python?,svm
+681,Which are Libraries of support vector machine in python?,svm
+682,Tell me Libraries of support vector Machine in python?,svm
+683,Tell me Libraries of support vector machine in python?,svm
+684,What do you know Libraries vector machine in python?,svm
+685,What do you know about Libraries of support vector machine in python?,svm
+686,what is the primary difference between support vector machine algorithm and other algorithms?,svm
+687,How support vector machine algorithm is differ from other algorithms?,svm
+688,Tell me about support vector machine algorithm and other algorithms?,svm
+689,What do you know about support vector machine algorithm and other algorithms?,svm
+690,Do you know about support vector machine algorithm and other algorithms?,svm
+691,distinguish between support vector machine algorithm and other algorithms?,svm
+692,mention some differences between support vector machine algorithm and other algorithms?,svm
+693,what are main difeferences between  support vector machine algorithm and other algorithms?,svm
+694,tell me some differences between support vector machine algorithm and other algorithms?,svm
+695,list out some differences betwen support vector machine algorithm and other algorithms?,svm
+696,what is difference between support vector machine algorithm and other algorithms?,svm
+697,what is difference between support vector machine algorithm and other algorithms?,svm
+698,Differentiate between support vector machine algorithm and other algorithms?,svm
+699,assumptions of svm ?,svm
+700,Main assumptions of svm ?,svm
+701,what are the assumptions of svm ?,svm
+702,tell me some assumptions of svm ?,svm
+703,list out some assumptions of svm ?,svm
+704,list me few assumptions of svm ?,svm
+705,list some assumptions of svm ?,svm
+706,Can you list out the assumptions of svm ?,svm
+707, assumptions of svm ?,svm
+708,List of assumptions of svm ?,svm
+709,how do we increase accuracy of  SVM model ?,svm
+710,assumptions of support vector machines ?,svm
+711,Main assumptions of support vector machines ?,svm
+712,what are the assumptions of support vector machines ?,svm
+713,tell me some assumptions of support vector machines ?,svm
+714,list out some assumptions of support vector machines ?,svm
+715,list me few assumptions of support vector machines ?,svm
+716,list some assumptions of support vector machines ?,svm
+717,Can you list out the assumptions of support vector machines ?,svm
+718,assumptions of support vector machines ?,svm
+719,List of assumptions of support vector machines ?,svm
+720,What is linearly seperable data?,svm
+721,Tell me about linearly seperable data?,svm
+722,What do you know about linearly seperable data?,svm
+723,Do you know about linearly seperable data?,svm
+724,What is the process of linearly seperable data?,svm
+725,How linearly seperable data works ?,svm
+726,Tell me linearly seperable data?,svm
+727,About linearly seperable data?,svm
+728,Let me know about linearly seperable data?,svm
+729,What do you say about linearly seperable data?,svm
+730,What does linearly seperable datamean?,svm
+731,Explain linearly seperable data?,svm
+732,Define linearly seperable data?,svm
+733,Can you explain about linearly seperable data?,svm
+734,Can you say something about linearly seperable data?,svm
+735,Can you explain briefly about linearly seperable data?,svm
+736,Short summary about linearly seperable data?,svm
+737,What is non-linearly seperable data?,svm
+738,Tell me about non-linearly seperable data?,svm
+739,What do you know about non-linearly seperable data?,svm
+740,Do you know about non-linearly seperable data?,svm
+741,What is the process of non-linearly seperable data?,svm
+742,How non-linearly seperable data works ?,svm
+743,Tell me non-linearly seperable data?,svm
+744,About non-linearly seperable data?,svm
+745,Let me know about non-linearly seperable data?,svm
+746,What do you say about non-linearly seperable data?,svm
+747,What does non-linearly seperable datamean?,svm
+748,Explain non-linearly seperable data?,svm
+749,Define non-linearly seperable data?,svm
+750,Can you explain about non-linearly seperable data?,svm
+751,Can you say something about non-linearly seperable data?,svm
+752,Can you explain briefly about non-linearly seperable data?,svm
+753,Short summary about non-linearly seperable data?,svm
+754,What is misclassification data?,svm
+755,Tell me about misclassification data?,svm
+756,What do you know about misclassification data?,svm
+757,Do you know about misclassification data?,svm
+758,What is the process of misclassification data?,svm
+759,How misclassification data works ?,svm
+760,Tell me misclassification data?,svm
+761,About misclassification data?,svm
+762,Let me know about misclassification data?,svm
+763,What do you say about misclassification data?,svm
+764,What does misclassification datamean?,svm
+765,Explain misclassification data?,svm
+766,Define misclassification data?,svm
+767,Can you explain about misclassification data?,svm
+768,Can you say something about misclassification data?,svm
+769,Can you explain briefly about misclassification data?,svm
+770,Short summary about misclassification data?,svm
+771,What is k-fold cross validation?,svm
+772,Tell me about k-fold cross validation?,svm
+773,What do you know about k-fold cross validation?,svm
+774,Do you know about k-fold cross validation?,svm
+775,What is the process of k-fold cross validation?,svm
+776,How k-fold cross validation works ?,svm
+777,Tell me k-fold cross validation?,svm
+778,About k-fold cross validation?,svm
+779,Let me know about k-fold cross validation?,svm
+780,What do you say about k-fold cross validation?,svm
+781,What does k-fold cross validationmean?,svm
+782,Explain k-fold cross validation?,svm
+783,Define k-fold cross validation?,svm
+784,Can you explain about k-fold cross validation?,svm
+785,Can you say something about k-fold cross validation?,svm
+786,Can you explain briefly about k-fold cross validation?,svm
+787,Short summary about k-fold cross validation?,svm
+788,What is best fit line?,svm
+789,Tell me about best fit line?,svm
+790,What do you know about best fit line?,svm
+791,Do you know about best fit line?,svm
+792,What is the process of best fit line?,svm
+793,How best fit line works ?,svm
+794,Tell me best fit line?,svm
+795,About best fit line?,svm
+796,Let me know about best fit line?,svm
+797,What do you say about best fit line?,svm
+798,What does best fit linemean?,svm
+799,Explain best fit line?,svm
+800,Define best fit line?,svm
+801,Can you explain about best fit line?,svm
+802,Can you say something about best fit line?,svm
+803,Can you explain briefly about best fit line?,svm
+804,Short summary about best fit line?,svm

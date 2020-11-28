@@ -1,0 +1,812 @@
+line,question,question_type
+1,What is ensembling learning ?,random forest
+2,Tell me about ensembling learning ?,random forest
+3,What do you know about ensembling learning ?,random forest
+4,Do you know about ensembling learning ?,random forest
+5,What is the process of ensembling learning ?,random forest
+6,Let me know about ensembling learning ?,random forest
+7,What do you say about ensembling learning ?,random forest
+8,What does ensembling learning mean?,random forest
+9,Explain ensembling learning ?,random forest
+10,Define ensembling learning ?,random forest
+11,Can you explain about ensembling learning ?,random forest
+12,say something about ensembling learning ?,random forest
+13,explain briefly about ensembling learning ?,random forest
+14,give a short summary about ensembling learning ?,random forest
+15,What is random forest technique?,random forest
+16,What is known as random forest?,random forest
+17,Tell me about random forest?,random forest
+18,What do you know about random forest?,random forest
+19,Do you know about random forest?,random forest
+20,What is the process of random forest?,random forest
+21,How random forest works ?,random forest
+22,Let me know about random forest?,random forest
+23,What do you say about random forest?,random forest
+24,What does random forest mean?,random forest
+25,Explain random forest?,random forest
+26,Define random forest?,random forest
+27,explain me about random forest?,random forest
+28,Can you say something about random forest?,random forest
+29,Briefly explain about random forest?,random forest
+30,Give a short summary about random forest?,random forest
+31,What is bagging?,random forest
+32,Tell me about bagging?,random forest
+33,What do you know about bagging?,random forest
+34,Do you know about bagging?,random forest
+35,What is the process of bagging?,random forest
+36,How bagging works ?,random forest
+37,Let me know about bagging?,random forest
+38,What do you say about bagging?,random forest
+39,What does bagging mean?,random forest
+40,Explain bagging?,random forest
+41,Define bagging?,random forest
+42,Can you explain about bagging?,random forest
+43,Say something about bagging?,random forest
+44,Can you explain briefly about bagging?,random forest
+45,Give a short summary about bagging?,random forest
+46,What is decision tree?,random forest
+47,Tell me about decision tree?,random forest
+48,What do you know about decision tree?,random forest
+49,What is the process of decision tree?,random forest
+50,How decision tree works ?,random forest
+51,Let me know about decision tree?,random forest
+52,What do you say about decision tree?,random forest
+53,What does decision tree mean?,random forest
+54,Explain decision tree?,random forest
+55,Define decision tree?,random forest
+56,Can you explain about decision tree?,random forest
+57,Say something about decision tree?,random forest
+58,Briefly explain about decision tree?,random forest
+59,Give a short summary about decision tree?,random forest
+60,What is decision stumps?,random forest
+61,Tell me about decision stumps?,random forest
+62,What do you know about decision stumps?,random forest
+63,What is the process of decision stumps?,random forest
+64,How decision stumps works ?,random forest
+65,Let me know about decision stumps?,random forest
+66,What is decision stumps?,random forest
+67,What do you say about decision stumps?,random forest
+68,What does decision stumps mean?,random forest
+69,Explain decision stumps?,random forest
+70,Define decision stumps?,random forest
+71,Can you explain about decision stumps?,random forest
+72,Say something about decision stumps?,random forest
+73,Briefly explain about decision stumps?,random forest
+74,Give a short summary about decision stumps?,random forest
+75,What is adaboost?,random forest
+76,Tell me about adaboost?,random forest
+77,What do you know about adaboost?,random forest
+78,Do you know about adaboost?,random forest
+79,What is the process of adaboost?,random forest
+80,How adaboost works ?,random forest
+81,Let me know about adaboost?,random forest
+82,What is adaboost?,random forest
+83,What do you say about adaboost?,random forest
+84,What does adaboostmean?,random forest
+85,Explain adaboost?,random forest
+86,Define adaboost?,random forest
+87,Can you explain about adaboost?,random forest
+88,Say something about adaboost?,random forest
+89,Explain briefly about adaboost?,random forest
+90,Give a short summary about adaboost?,random forest
+91,What is random forest mechanism?,random forest
+92,Tell me about random forest mechanism?,random forest
+93,What do you know about random forest mechanism?,random forest
+94,What is the process of random forest mechanism?,random forest
+95,How random forest mechanism works ?,random forest
+96,Let me know about random forest mechanism?,random forest
+97,What do you say about random forest mechanism?,random forest
+98,What does random forest mechanism mean?,random forest
+99,Explain random forest mechanism?,random forest
+100,Define random forest mechanism?,random forest
+101,Can you explain about random forest mechanism?,random forest
+102,Say something about random forest mechanism?,random forest
+103,Briefly explain about random forest mechanism?,random forest
+104,Give a short summary about random forest mechanism?,random forest
+105,What is root node in random forest?,random forest
+106,Tell me about root node in random forest?,random forest
+107,What do you know about root node?,random forest
+108,Do you know about root node in random forest?,random forest
+109,What is the process of root node in random forest?,random forest
+110,How root node works  in random forest ?,random forest
+111,Let me know about root node in random forest?,random forest
+112,What is root node in random forest?,random forest
+113,What do you say about root node in random forest?,random forest
+114,What does root node mean in random forest?,random forest
+115,Explain root node in random forest?,random forest
+116,Define root node in random forest?,random forest
+117,Can you explain about root node in random forest?,random forest
+118,Explain something about root node in random forest?,random forest
+119,Briefly explain about root node in random forest?,random forest
+120,Give a short summary about root node in random forest?,random forest
+121,What is leaf node in random forest?,random forest
+122,Tell me about leaf node in random forest?,random forest
+123,What do you know about leaf node in random forest?,random forest
+124,Do you know about leaf node in random forest?,random forest
+125,What is the process of leaf node in random forest?,random forest
+126,How leaf node works in random forest?,random forest
+127,Let me know about leaf node in random forest?,random forest
+128,What is leaf node in random forest?,random forest
+129,What do you say about leaf node in random forest?,random forest
+130,What does leaf nodemean in random forest?,random forest
+131,Explain leaf node?,random forest
+132,Define leaf node?,random forest
+133,Can you explain about leaf node?,random forest
+134,Say something about leaf node?,random forest
+135,Briefly explain about leaf node?,random forest
+136,Give a short summary about leaf node?,random forest
+137,What is descision_node?,random forest
+138,Tell me about descision_node?,random forest
+139,What do you know about descision_node?,random forest
+140,Do you know about descision_node?,random forest
+141,What is the process of descision_node?,random forest
+142,How descision_node works ?,random forest
+143,Let me know about descision_node?,random forest
+144,What is descision_node?,random forest
+145,What do you say about descision_node?,random forest
+146,What does descision_node mean?,random forest
+147,Explain descision_node?,random forest
+148,Define descision_node?,random forest
+149,Can you explain about descision_node?,random forest
+150,Say something about descision_node?,random forest
+151,Briefly explain about descision_node?,random forest
+152,Give a short summary about descision_node?What is entropy?,random forest
+153,Tell me about entropy?,random forest
+154,What do you know about entropy?,random forest
+155,Do you know about entropy?,random forest
+156,What is the process of entropy?,random forest
+157,How entropy works ?,random forest
+158,Let me know about entropy?,random forest
+159,What is entropy?,random forest
+160,What do you say about entropy?,random forest
+161,What does entropymean?,random forest
+162,Explain entropy?,random forest
+163,Define entropy?,random forest
+164,Can you explain about entropy?,random forest
+165,Say something about entropy?,random forest
+166,Briefly explain about entropy?,random forest
+167,Can you give a short summary about entropy?,random forest
+168,What is splitting?,random forest
+169,Tell me about splitting?,random forest
+170,What do you know about splitting?,random forest
+171,Do you know about splitting?,random forest
+172,What is the process of splitting?,random forest
+173,How splitting works ?,random forest
+174,Let me know about splitting?,random forest
+175,What do you say about splitting?,random forest
+176,What does splitting mean?,random forest
+177,Explain splitting?,random forest
+178,Define splitting?,random forest
+179,Can you explain about splitting?,random forest
+180,Say something about splitting?,random forest
+181,Explain briefly about splitting?,random forest
+182,Give a short summary about splitting?,random forest
+183,What is pruning?,random forest
+184,Tell me about pruning?,random forest
+185,What do you know about pruning?,random forest
+186,Do you know about pruning?,random forest
+187,What is the process of pruning?,random forest
+188,How pruning works ?,random forest
+189,Let me know about pruning?,random forest
+190,What do you say about pruning?,random forest
+191,What does pruning mean?,random forest
+192,Explain pruning?,random forest
+193,Define pruning?,random forest
+194,Can you explain about pruning?,random forest
+195,Say about pruning?,random forest
+196,Briefly tell about pruning?,random forest
+197,Give me Short summary about pruning?,random forest
+198,What is structure_of random forest?,random forest
+199,Tell me about structure_of random forest?,random forest
+200,What do you know about structure_of random forest?,random forest
+201,Do you know about structure-of random forest?,random forest
+202,What is the process of structure_of random forest?,random forest
+203,How structure_of random forest works ?,random forest
+204,Let me know about structure_of random forest?,random forest
+205,What do you say about structure_of random forest?,random forest
+206,What does structure_of random forest mean?,random forest
+207,Explain the structure_of random forest?,random forest
+208,Define the structure_of random forest?,random forest
+209,Say something about random forests structure?,random forest
+210,Explain briefly about the structure_of random forest?,random forest
+211,What is branch?,random forest
+212,Tell me about branch?,random forest
+213,What do you know about branch?,random forest
+214,Do you know about branch?,random forest
+215,Let me know about branch?,random forest
+216,What do you say about branch?,random forest
+217,What does branch mean?,random forest
+218,Explain branch?,random forest
+219,Define branch?,random forest
+220,Give a breif note branch?,random forest
+221,Breif note on branch?,random forest
+222,What is parent node?,random forest
+223,Tell me about parent node?,random forest
+224,What do you know about parent node?,random forest
+225,Do you know about parent node?,random forest
+226,What is the process of parent node?,random forest
+227,How parent node works ?,random forest
+228,Let me know about parent node?,random forest
+229,What do you say about parent node?,random forest
+230,What does parent nodemean?,random forest
+231,Explain parent node?,random forest
+232,Define parent node?,random forest
+233,Can you explain about parent node?,random forest
+234,Can you Say something about parent node?,random forest
+235,Explain briefly about parent node?,random forest
+236,short summary about parent node?,random forest
+237,What is child node?,random forest
+238,Tell me about child node?,random forest
+239,What do you know about child node?,random forest
+240,Do you know about child node?,random forest
+241,What is the process of child node?,random forest
+242,How child node works ?,random forest
+243,Tell me child node?,random forest
+244,Let me know about child node?,random forest
+245,What is child node?,random forest
+246,What do you say about child node?,random forest
+247,What does child node mean?,random forest
+248,Explain child node?,random forest
+249,Define child node?,random forest
+250,Can you explain about child node?,random forest
+251,Say something about child node?,random forest
+252,Briefly explain about child node?,random forest
+253,Give a short summary about child node?,random forest
+254,What is gradient boosting?,random forest
+255,Tell me about gradient boosting?,random forest
+256,What do you know about gradientboosting?,random forest
+257,Do you know about gradientboosting?,random forest
+258,What is the process of gradientboosting?,random forest
+259,How gradientboosting works ?,random forest
+260,Tell me gradientboosting?,random forest
+261,Let me know about gradientboosting?,random forest
+262,What is gradientboosting?,random forest
+263,What do you say about gradientboosting?,random forest
+264,What does gradientboosting mean?,random forest
+265,Explain gradientboosting?,random forest
+266,Define gradientboosting?,random forest
+267,Can you explain about gradientboosting?,random forest
+268,Can you say something about gradientboosting?,random forest
+269,Can you explain briefly about gradientboosting?,random forest
+270,Can you give a short summary about gradientboosting?,random forest
+271,What is gradient?,random forest
+272,Tell me about gradient?,random forest
+273,What do you know about gradient?,random forest
+274,Do you know about gradient?,random forest
+275,What is the process of gradient?,random forest
+276,How gradient works ?,random forest
+277,Tell me gradient?,random forest
+278,Let me know about gradient?,random forest
+279,What is gradient?,random forest
+280,What do you say about gradient?,random forest
+281,What does gradient mean?,random forest
+282,Explain gradient?,random forest
+283,Define gradient?,random forest
+284,Can you explain about gradient?,random forest
+285,Can you say something about gradient?,random forest
+286,Can you explain briefly about gradient?,random forest
+287,Give a short summary about gradient?,random forest
+288,short note on gradient?,random forest
+289,What is pseudo residual?,random forest
+290,Tell me about pseudo residual?,random forest
+291,What do you know about pseudo residual?,random forest
+292,Do you know about pseudo residual?,random forest
+293,What is the process of pseudo residual?,random forest
+294,How pseudo residual works ?,random forest
+295,Tell me pseudo residual?,random forest
+296,Let me know about pseudo residual?,random forest
+297,What is pseudo residual?,random forest
+298,What do you say about pseudo residual?,random forest
+299,What does pseudo residualmean?,random forest
+300,Explain pseudo residual?,random forest
+301,Define pseudo residual?,random forest
+302,Can you explain about pseudo residual?,random forest
+303,Can you say something about pseudo residual?,random forest
+304,Can you explain briefly about pseudo residual?,random forest
+305,Can you give a short summary about pseudo residual?,random forest
+306,What is varience in reduction?,random forest
+307,Tell me about varience in reduction?,random forest
+308,What do you know about varience in reduction?,random forest
+309,Do you know about varience in reduction?,random forest
+310,What is the process of varience in reduction?,random forest
+311,How varience in reduction works ?,random forest
+312,Tell me varience in reduction?,random forest
+313,Let me know about varience in reduction?,random forest
+314,What is varience in reduction?,random forest
+315,What do you say about varience in reduction?,random forest
+316,What does varience in reductionmean?,random forest
+317,Explain varience in reduction?,random forest
+318,Define varience in reduction?,random forest
+319,Can you explain about varience in reduction?,random forest
+320,Can you say something about varience in reduction?,random forest
+321,Can you explain briefly about varience in reduction?,random forest
+322,Can you give a short summary about varience in reduction?,random forest
+323,What is weighted average?,random forest
+324,Tell me about weighted average?,random forest
+325,What do you know about weighted average?,random forest
+326,Do you know about weighted average?,random forest
+327,What is the process of weighted average?,random forest
+328,How weighted average works ?,random forest
+329,Tell me weighted average?,random forest
+330,Let me know about weighted average?,random forest
+331,What is weighted average?,random forest
+332,What do you say about weighted average?,random forest
+333,What does weighted averagemean?,random forest
+334,Explain weighted average?,random forest
+335,Define weighted average?,random forest
+336,Can you explain about weighted average?,random forest
+337,Say something about weighted average?,random forest
+338,Can you explain briefly about weighted average?,random forest
+339,Give a breif note about weighted average?,random forest
+340,What is loss function?,random forest
+341,Tell me about loss function?,random forest
+342,What do you know about loss function?,random forest
+343,Do you know about loss function?,random forest
+344,What is the process of loss function?,random forest
+345,How loss function works ?,random forest
+346,Tell me loss function?,random forest
+347,Let me know about loss function?,random forest
+348,What is loss function?,random forest
+349,What do you say about loss function?,random forest
+350,What does loss functionmean?,random forest
+351,Explain loss function?,random forest
+352,Define loss function?,random forest
+353,Can you explain about loss function?,random forest
+354,Say something about loss function?,random forest
+355,Explain briefly about loss function?,random forest
+356,Give a short summary about loss function?,random forest
+357,What is XGBoost?,random forest
+358,Tell me about XGBoost?,random forest
+359,What do you know about XGBoost?,random forest
+360,Do you know about XGBoost?,random forest
+361,What is the process of XGBoost?,random forest
+362,How XGBoost works ?,random forest
+363,Tell me XGBoost?,random forest
+364,Let me know about XGBoost?,random forest
+365,What is XGBoost?,random forest
+366,What do you say about XGBoost?,random forest
+367,What does XGBoost mean?,random forest
+368,Explain XGBoost?,random forest
+369,Define XGBoost?,random forest
+370,Can you explain about XGBoost?,random forest
+371,Say something about XGBoost?,random forest
+372,Explain briefly about XGBoost?,random forest
+373,Can you give a short note about XGBoost?,random forest
+374,What is learning rate?,random forest
+375,Tell me about learning rate?,random forest
+376,What do you know about learning rate?,random forest
+377,Do you know about learning rate?,random forest
+378,What is the process of learning rate?,random forest
+379,How learning rate works ?,random forest
+380,Tell me learning rate?,random forest
+381,Let me know about learning rate?,random forest
+382,What is learning rate?,random forest
+383,What do you say about learning rate?,random forest
+384,What does learning ratemean?,random forest
+385,Explain learning rate?,random forest
+386,Define learning rate?,random forest
+387,Can you explain about learning rate?,random forest
+388,Say something about learning rate?,random forest
+389,Explain briefly about learning rate?,random forest
+390,Give a short note about learning rate?,random forest
+391,What is ada boost?,random forest
+392,Tell me about ada boost?,random forest
+393,What do you know about ada boost?,random forest
+394,Do you know about ada boost?,random forest
+395,What is the process of ada boost?,random forest
+396,How ada boost works ?,random forest
+397,Tell me ada boost?,random forest
+398,Let me know about ada boost?,random forest
+399,What is ada boost?,random forest
+400,What do you say about ada boost?,random forest
+401,What does ada boostmean?,random forest
+402,Explain ada boost?,random forest
+403,Define ada boost?,random forest
+404,Explain about ada boost?,random forest
+405,Say something about ada boost?,random forest
+406,Briefly tell about ada boost?,random forest
+407,Give a short note about ada boost?,random forest
+408,What is weak learner?,random forest
+409,Tell me about weak learner?,random forest
+410,What do you know about weak learner?,random forest
+411,Do you know about weak learner?,random forest
+412,What is the process of weak learner?,random forest
+413,How weak learner works ?,random forest
+414,Tell me weak learner?,random forest
+415,Let me know about weak learner?,random forest
+416,What is weak learner?,random forest
+417,What do you say about weak learner?,random forest
+418,What does weak learnermean?,random forest
+419,Explain weak learner?,random forest
+420,Define weak learner?,random forest
+421,Can you explain about weak learner?,random forest
+422,Say something about weak learner?,random forest
+423,Briefly tell about weak learner?,random forest
+424,Give a short note about weak learner?,random forest
+425,What is random forest classifier?,random forest
+426,Tell me about random forest classifier?,random forest
+427,What do you know about random forest classifier?,random forest
+428,Do you know about random forest classifier?,random forest
+429,What is the process of random forest classifier?,random forest
+430,How random forest classifier works ?,random forest
+431,Tell me random forest classifier?,random forest
+432,Let me know about random forest classifier?,random forest
+433,What is random forest classifier?,random forest
+434,What do you say about random forest classifier?,random forest
+435,What does random forest classifier mean?,random forest
+436,Explain random forest classifier?,random forest
+437,Define random forest classifier?,random forest
+438,Can you explain about random forest classifier?,random forest
+439,Can you say something about random forest classifier?,random forest
+440,Briefly explain about random forest classifier?,random forest
+441,Give a short note about random forest classifier?,random forest
+442,What is random forest regressor?,random forest
+443,Tell me about random forest regressor?,random forest
+444,What do you know about random forest regressor?,random forest
+445,Do you know about random forest regressor?,random forest
+446,What is the process of random forest regressor?,random forest
+447,How random forest regressor works ?,random forest
+448,Tell me random forest regressor?,random forest
+449,Let me know about random forest regressor?,random forest
+450,What is random forest regressor?,random forest
+451,What do you say about random forest regressor?,random forest
+452,What does random forest regressor mean?,random forest
+453,Explain random forest regressor?,random forest
+454,Define random forest regressor?,random forest
+455,Can you explain about random forest regressor?,random forest
+456,Say something about random forest regressor?,random forest
+457,Briefly explain about random forest regressor?,random forest
+458,Give a short note about random forest regressor?,random forest
+459,What is randomness?,random forest
+460,Tell me about randomness?,random forest
+461,What do you know about randomness?,random forest
+462,Do you know about randomness?,random forest
+463,What is the process of randomness?,random forest
+464,How randomness works ?,random forest
+465,Let me know about randomness?,random forest
+466,What is randomness?,random forest
+467,What do you say about randomness?,random forest
+468,What does randomnessmean?,random forest
+469,Explain randomness?,random forest
+470,Can you explain about randomness?,random forest
+471,Say something about randomness?,random forest
+472,Briefly explain about randomness?,random forest
+473,Give a short summary about randomness?,random forest
+474,Brief note on randomness?,random forest
+475,What is base score?,random forest
+476,Tell me about base score?,random forest
+477,What do you know about base score?,random forest
+478,Do you know about base score?,random forest
+479,What is the process of base score?,random forest
+480,How base score works ?,random forest
+481,Tell me base score?,random forest
+482,Let me know about base score?,random forest
+483,What is base score?,random forest
+484,What do you say about base score?,random forest
+485,What does base scoremean?,random forest
+486,Explain base score?,random forest
+487,Define base score?,random forest
+488,Can you explain about base score?,random forest
+489,Say something about base score?,random forest
+490,Brief note on base score?,random forest
+491,Give a short summary about base score?,random forest
+492,What is depth of tree?,random forest
+493,Tell me about depth of tree?,random forest
+494,What do you know about depth of tree?,random forest
+495,Do you know about depth of tree?,random forest
+496,What is the process of depth of tree?,random forest
+497,How depth of tree works ?,random forest
+498,Tell me depth of tree?,random forest
+499,Let me know about depth of tree?,random forest
+500,What is depth of tree?,random forest
+501,What do you say about depth of tree?,random forest
+502,What does depth of treemean?,random forest
+503,Explain depth of tree?,random forest
+504,Define depth of tree?,random forest
+505,Can you explain about depth of tree?,random forest
+506,Say something about depth of tree?,random forest
+507,Briefly explain about depth of tree?,random forest
+508,Give a short note on depth of tree?what is the primary difference between Bagging and Boosting?,random forest
+509,How Bagging is differ from Boosting?,random forest
+510,Tell me about Bagging and Boosting?,random forest
+511,What do you know about Bagging and Boosting?,random forest
+512,Do you know about Bagging and Boosting?,random forest
+513,distinguish between Bagging and Boosting?,random forest
+514,mention some differences between Bagging and Boosting?,random forest
+515,what are main difeferences between  Bagging and Boosting?,random forest
+516,tell me some differences between Bagging and Boosting?,random forest
+517,list out some differences betwen Bagging and Boosting?,random forest
+518,what is difference between Bagging and Boosting?,random forest
+519,Differentiate between Bagging and Boosting?,random forest
+520,comparison between Bagging and Boosting?,random forest
+521,compare Bagging and Boosting?Is Random Forest always better than decision tree?,random forest
+522,what is the primary difference between desicion tree and random forest?,random forest
+523,How desicion tree is differ from random forest?,random forest
+524,Tell me about desicion tree and random forest?,random forest
+525,What do you know about desicion tree and random forest?,random forest
+526,Do you know about desicion tree and random forest?,random forest
+527,distinguish between desicion tree and random forest?,random forest
+528,mention some differences between desicion tree and random forest?,random forest
+529,what are main difeferences between  desicion tree and random forest?,random forest
+530,tell me some differences between desicion tree and random forest?,random forest
+531,list out some differences betwen desicion tree and random forest?,random forest
+532,what is difference between desicion tree and random forest?,random forest
+533,Differentiate between desicion tree and random forest?,random forest
+534,comparison between desicion tree and random forest?,random forest
+535,compare desicion tree and random forest?What are the types of boosting?,random forest
+536,Tell me types of boosting?,random forest
+537,Do you know types of  boosting?,random forest
+538,Types of  boosting?,random forest
+539,Different types of  boosting?,random forest
+540,What are the different types of boosting?,random forest
+541,how many types of boosting are there?,random forest
+542,What are the important types of boosting?,random forest
+543,list out different types of boosting?,random forest
+544,what are the various types of boosting?,random forest
+545,list out various types of boosting?,random forest
+546,mention some boosting methods?,random forest
+547,say different boosting methods?,random forest
+548,Do you know the various types of boosting?,random forest
+549,Where can random forest be used?,random forest
+550,Main benefits of random forest algorithm?,random forest
+551,what are the uses of random forest ?,random forest
+552,where do we use random forest ?,random forest
+553,tell me some uses of random forest ?,random forest
+554,list out some benefits of random forest ?,random forest
+555,what is the use of random forest algorithm?,random forest
+556,what are the real time examples of random forest ?,random forest
+557,list some examples of random forest ?what is the primary difference between error and residual?,random forest
+558,How error is differ from residual?,random forest
+559,Tell me about error and residual?,random forest
+560,What do you know about error and residual?,random forest
+561,Do you know about error and residual?,random forest
+562,distinguish between error and residual?,random forest
+563,mention some differences between error and residual?,random forest
+564,what are main difeferences between  error and residual?,random forest
+565,tell me some differences between error and residual?,random forest
+566,list out some differences betwen error and residual?,random forest
+567,what is difference between error and residual?,random forest
+568,Differentiate between error and residual?,random forest
+569,comparison between error and residual?Where can random forest be applicable?,random forest
+570,applications of random forest ?,random forest
+571,Main applications of random forest ?,random forest
+572,what are the applications of random forest ?,random forest
+573,where do we applicable random forest ?,random forest
+574,tell me some applications of random forest ?,random forest
+575,list out some applications of random forest ?,random forest
+576,what is the applications of random forest ?,random forest
+577,where is random forest applicable?,random forest
+578,list me know few applications of random forest ?,random forest
+579,advantages of random forest ?,random forest
+580,Main advantages of random forest ?,random forest
+581,what are the advantages of random forest ?,random forest
+582,tell me some advantages of random forest ?,random forest
+583,list out some advantages of random forest ?,random forest
+584,list me few advantages of random forest ?,random forest
+585,list some advantages of random forest ?,random forest
+586,Can you list out the advantages of random forest ?,random forest
+587,List of advantages of random forest ?,random forest
+588,advantages of bagging ?,random forest
+589,Main advantages of bagging ?,random forest
+590,what are the advantages of bagging ?,random forest
+591,tell me some advantages of bagging ?,random forest
+592,list out some advantages of bagging ?,random forest
+593,list me few advantages of bagging ?,random forest
+594,list some advantages of bagging ?,random forest
+595,Can you list out the advantages of bagging ?,random forest
+596,List of advantages of bagging ?,random forest
+597,advantages of boosting ?,random forest
+598,Main advantages of boosting ?,random forest
+599,what are the advantages of boosting ?,random forest
+600,tell me some advantages of boosting ?,random forest
+601,list out some advantages of boosting ?,random forest
+602,list me few advantages of boosting ?,random forest
+603,list some advantages of boosting ?,random forest
+604,Can you list out the advantages of boosting ?,random forest
+605,List of advantages of boosting ?,random forest
+606,advantages of gradient boosting ?,random forest
+607,Main advantages of gradient boosting ?,random forest
+608,what are the advantages of gradient boosting ?,random forest
+609,tell me some advantages of gradient boosting ?,random forest
+610,list out some advantages of gradient boosting ?,random forest
+611,list me few advantages of gradient boosting ?,random forest
+612,list some advantages of gradient boosting ?,random forest
+613,Can you list out the advantages of gradient boosting ?,random forest
+614,List of advantages of gradient boosting ?,random forest
+615,advantages of XGboost ?,random forest
+616,Main advantages of XGboost ?,random forest
+617,what are the advantages of XGboost ?,random forest
+618,tell me some advantages of XGboost ?,random forest
+619,list out some advantages of XGboost ?,random forest
+620,list me few advantages of XGboost ?,random forest
+621,list some advantages of XGboost ?,random forest
+622,Can you list out the advantages of XGboost ?,random forest
+623,List of advantages of XGboost ?,random forest
+624,advantages of adaboost ?,random forest
+625,Main advantages of adaboost ?,random forest
+626,what are the advantages of adaboost ?,random forest
+627,tell me some advantages of adaboost ?,random forest
+628,list out some advantages of adaboost ?,random forest
+629,list me few advantages of adaboost ?,random forest
+630,list some advantages of adaboost ?,random forest
+631,Can you list out the advantages of adaboost ?,random forest
+632,List of advantages of adaboost ?,random forest
+633,advantages of random forest classifier ?,random forest
+634,Main advantages of random forest classifier ?,random forest
+635,what are the advantages of random forest classifier ?,random forest
+636,tell me some advantages of random forest classifier ?,random forest
+637,list out some advantages of random forest classifier ?,random forest
+638,list me few advantages of random forest classifier ?,random forest
+639,list some advantages of random forest classifier ?,random forest
+640,Can you list out the advantages of random forest classifier ?,random forest
+641,List of advantages of random forest classifier ?,random forest
+642,advantages of random forest regressor ?,random forest
+643,Main advantages of random forest regressor ?,random forest
+644,what are the advantages of random forest regressor ?,random forest
+645,tell me some advantages of random forest regressor ?,random forest
+646,list out some advantages of random forest regressor ?,random forest
+647,list me few advantages of random forest regressor ?,random forest
+648,list some advantages of random forest regressor ?,random forest
+649,Can you list out the advantages of random forest regressor ?,random forest
+650,List of advantages of random forest regressor ?disadvantages of random forest ?,random forest
+651,Main disadvantages of random forest ?,random forest
+652,what are the disadvantages of random forest ?,random forest
+653,tell me some disadvantages of random forest ?,random forest
+654,list out some disadvantages of random forest ?,random forest
+655,list me few disadvantages of random forest ?,random forest
+656,list some disadvantages of random forest ?,random forest
+657,Can you list out the disadvantages of random forest ?,random forest
+658,List of disadvantages of random forest ?,random forest
+659,disadvantages of bagging ?,random forest
+660,Main disadvantages of bagging ?,random forest
+661,what are the disadvantages of bagging ?,random forest
+662,tell me some disadvantages of bagging ?,random forest
+663,list out some disadvantages of bagging ?,random forest
+664,list me few disadvantages of bagging ?,random forest
+665,list some disadvantages of bagging ?,random forest
+666,Can you list out the disadvantages of bagging ?,random forest
+667,List of disadvantages of bagging ?,random forest
+668,disadvantages of boosting ?,random forest
+669,Main disadvantages of boosting ?,random forest
+670,what are the disadvantages of boosting ?,random forest
+671,tell me some disadvantages of boosting ?,random forest
+672,list out some disadvantages of boosting ?,random forest
+673,list me few disadvantages of boosting ?,random forest
+674,list some disadvantages of boosting ?,random forest
+675,Can you list out the disadvantages of boosting ?,random forest
+676,List of disadvantages of boosting ?,random forest
+677,disadvantages of gradient boosting ?,random forest
+678,Main disadvantages of gradient boosting ?,random forest
+679,what are the disadvantages of gradient boosting ?,random forest
+680,tell me some disadvantages of gradient boosting ?,random forest
+681,list out some disadvantages of gradient boosting ?,random forest
+682,list me few disadvantages of gradient boosting ?,random forest
+683,list some disadvantages of gradient boosting ?,random forest
+684,Can you list out the disadvantages of gradient boosting ?,random forest
+685,List of disadvantages of gradient boosting ?,random forest
+686,disadvantages of XGboost ?,random forest
+687,Main disadvantages of XGboost ?,random forest
+688,what are the disadvantages of XGboost ?,random forest
+689,tell me some disadvantages of XGboost ?,random forest
+690,list out some disadvantages of XGboost ?,random forest
+691,list me few disadvantages of XGboost ?,random forest
+692,list some disadvantages of XGboost ?,random forest
+693,Can you list out the disadvantages of XGboost ?,random forest
+694, disadvantages of XGboost ?,random forest
+695,List of disadvantages of XGboost ?,random forest
+696,disadvantages of adaboost ?,random forest
+697,Main disadvantages of adaboost ?,random forest
+698,what are the disadvantages of adaboost ?,random forest
+699,tell me some disadvantages of adaboost ?,random forest
+700,list out some disadvantages of adaboost ?,random forest
+701,list me few disadvantages of adaboost ?,random forest
+702,list some disadvantages of adaboost ?,random forest
+703,Can you list out the disadvantages of adaboost ?,random forest
+704, disadvantages of adaboost ?,random forest
+705,List of disadvantages of adaboost ?,random forest
+706,assumptions of random forest ?,random forest
+707,Main assumptions of random forest ?,random forest
+708,what are the assumptions of random forest ?,random forest
+709,tell me some assumptions of random forest ?,random forest
+710,list out some assumptions of random forest ?,random forest
+711,list me few assumptions of random forest ?,random forest
+712,list some assumptions of random forest ?,random forest
+713,Can you list out the assumptions of random forest ?,random forest
+714,what are the assumptions of random forest ?,random forest
+715,List of assumptions of random forest ?,random forest
+716,What is feature selection in random forest?,random forest
+717,Tell me about feature selection in random forest?,random forest
+718,What do you know about feature selection in random forest?,random forest
+719,Do you know about feature selection in random forest?,random forest
+720,What is the process of feature selection in random forest?,random forest
+721,How feature selection in random forest works ?,random forest
+722,Tell me feature selection in random forest?,random forest
+723,About feature selection in random forest?,random forest
+724,Let me know about feature selection in random forest?,random forest
+725,What is feature selection in random forest?,random forest
+726,What do you say about feature selection in random forest?,random forest
+727,What does feature selection in random forest mean?,random forest
+728,Explain feature selection in random forest?,random forest
+729,Define feature selection in random forest?,random forest
+730,Can you explain about feature selection in random forest?,random forest
+731,Can you say something about feature selection in random forest?,random forest
+732,Can you explain briefly about feature selection in random forest?,random forest
+733,Can you give a short summary about feature selection in random forest?,random forest
+734,Does random forest do feature selection?,random forest
+735,What is ensemble models?,random forest
+736,Tell me about ensemble models?,random forest
+737,What do you know about ensemble models?,random forest
+738,Do you know about ensemble models?,random forest
+739,What is the process of ensemble models?,random forest
+740,How ensemble models works ?,random forest
+741,Tell me ensemble models?,random forest
+742,About ensemble models?,random forest
+743,Let me know about ensemble models?,random forest
+744,What do you say about ensemble models?,random forest
+745,What does ensemble models mean?,random forest
+746,Explain ensemble models?,random forest
+747,Define ensemble models?,random forest
+748,Can you explain about ensemble models?,random forest
+749,Can you say something about ensemble models?,random forest
+750,Can you explain briefly about ensemble models?,random forest
+751,Can you give a short summary about ensemble models?What are the features  of random forest?,random forest
+752,Tell me types of features of random forest?,random forest
+753,Do you know types of  features of random forest?,random forest
+754,Types of  features  of random forest?,random forest
+755,Different types of  features  of random forest?,random forest
+756,What are the different types of features  of random forest?,random forest
+757,how many types of features  of random forest are there?,random forest
+758,What are the important types of features of random forest?,random forest
+759,list out different types of features of random forest?,random forest
+760,what are the various types of features of random forest?,random forest
+761,features of random forest?,random forest
+762,mention some features of random forest methods?,random forest
+763,say different features  of random forest methods?,random forest
+764,do you know the various types of features of random forest?,random forest
+765,What is overfitting problem?,random forest
+766,Tell me about overfitting problem?,random forest
+767,What do you know about overfitting problem?,random forest
+768,Do you know about overfitting problem?,random forest
+769,What is the process of overfitting problem?,random forest
+770,How overfitting problem works ?,random forest
+771,Tell me overfitting problem?,random forest
+772,About overfitting problem?,random forest
+773,Let me know about overfitting problem?,random forest
+774,What do you say about overfitting problem?,random forest
+775,What does overfitting proble mmean?,random forest
+776,Explain overfitting problem?,random forest
+777,Define overfitting problem?,random forest
+778,Can you explain about overfitting problem?,random forest
+779,Can you say something about overfitting problem?,random forest
+780,Can you explain briefly about overfitting problem?,random forest
+781,Can you give a short summary about overfitting problem?What are the packages  to build the  random forest?,random forest
+782,Tell me types of packages to build the random forest?,random forest
+783,Do you know types of  packages to build the random forest?,random forest
+784,Types of  packages  to build the random forest?,random forest
+785,Different types of  packages  to build the random forest?,random forest
+786,What are the different types of packages  to build the random forest?,random forest
+787,how many types of packages  to build the random forest are there?,random forest
+788,What are the important types of packages to build the random forest?,random forest
+789,list out different types of packages to build the random forest?,random forest
+790,what are the various types of packages to build the random forest?,random forest
+791,packages to build the random forest?,random forest
+792,mention some packages to build the random forest methods?,random forest
+793,say different packages  to build the random forest methods?,random forest
+794,do you know the various types to build the packages of random forest?,random forest
+795,What is boosting?,random forest
+796,Tell me about boosting?,random forest
+797,What do you know about boosting?,random forest
+798,Do you know about boosting?,random forest
+799,What is the process of boosting?,random forest
+800,How boosting works ?,random forest
+801,Tell me boosting?,random forest
+802,About boosting?,random forest
+803,Let me know about boosting?,random forest
+804,What do you say about boosting?,random forest
+805,What does boosting mean?,random forest
+806,Explain boosting?,random forest
+807,Define boosting?,random forest
+808,Can you explain about boosting?,random forest
+809,Can you say something about boosting?,random forest
+810,Can you explain briefly about boosting?,random forest
+811,Can you give a short summary about boosting?,random forest

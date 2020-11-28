@@ -1,0 +1,393 @@
+line,question,question_type
+1,What is ment by Decision tree algorithm?,decision tree
+2,What is Decision tree algorithm?,decision tree
+3,What is Decision tree algorithm in machine learning?,decision tree
+4,What is Decision treealgorithm in data science?,decision tree
+5,What is a Decision tree algorithm?,decision tree
+6,Defination of Decision tree algorithm?,decision tree
+7,What is Decision tree?,decision tree
+8,Tell me Decision tree,decision tree
+9,What about Decision tree?,decision tree
+10,About Decision tree?,decision tree
+11,Let me know about Decision tree?,decision tree
+12,Do you know Decision tree?,decision tree
+13,What do you know about Decision tree?,decision tree
+14,Decision tree?,decision tree
+15,What is the goal of  Decision tree?,decision tree
+16,Why is the Decision tree?,decision tree
+17,where we choose only Decision tree in data sciences?,decision tree
+18,When we choose sDecision tree?,decision tree
+19,can we  choose Decision tree?,decision tree
+20,reason to Decision tree in machine learning?,decision tree
+21,Why do we use the Decision tree?,decision tree
+22,purpose of the Decision tree?,decision tree
+23,What are the uses of Decision tree?,decision tree
+24,Tell me the benefits of Decision treee?,decision tree
+25,What about the benefits of Decision tree?,decision tree
+26,Are there any benefits  of Decision tree?,decision tree
+27,Why we need to uses Decision tree?,decision tree
+28,Are there any uses of Decision tree?,decision tree
+29,what the Uses of Decision tree?,decision tree
+30,benefits of Decision tree?,decision tree
+31,Are there any uses of Decision tree?,decision tree
+32,Is decision tree a classification or regression analysis?,decision tree
+33,the decision tree a classification or regression analysis in machine learning?,decision tree
+34,decision tree a classification or regression analysis?,decision tree
+35,Is this decision tree a classification or regression analysis?,decision tree
+36,the decision tree is a classification or regression analysis?,decision tree
+37,the decision tree is a regression or regression analysis?,decision tree
+38,the decision tree a classification or regression analysis?,decision tree
+39,Is decision tree classification or regression? ,decision tree
+40,Is decision tree a supervised or unsupervised learning?,decision tree
+41,the decision tree a supervised or unsupervised in machine learning?,decision tree
+42,decision tree a supervised or unsupervised learning?,decision tree
+43,Is this decision tree a supervised or unsupervised?,decision tree
+44,the decision tree is a supervised or unsupervised?,decision tree
+45,the decision tree is a supervised or unsupervised learning alogrithm?,decision tree
+46,the decision tree a supervised or unsupervised?,decision tree
+47,Is decision tree supervised or unsupervised learning alogrithm? ,decision tree
+48,what is the primary difference between classification and regression?,decision tree
+49,How classification is differ from regression?,decision tree
+50,Tell me about classification and regression?,decision tree
+51,What do you know about classification and regression?,decision tree
+52,Do you know about classification and regression?,decision tree
+53,distinguish between classification and regression?,decision tree
+54,mention some differences between classification and regression?,decision tree
+55,what are main difeferences between  classification and regressionr?,decision tree
+56,tell me some differences between classification and regression?,decision tree
+57,list out some differences betwen classification and regression?,decision tree
+58,what is difference between classification and regression?,decision tree
+59,what is difference between classification and regression?,decision tree
+60,Differentiate between classification and regression?What is regression analysis?,decision tree
+61,Tell me about regression ?,decision tree
+62,What do you know about regression analysis?,decision tree
+63,Do you know about regression ?,decision tree
+64,What is the process of regression analysis?,decision tree
+65,How regression  works in decision tree?,decision tree
+66,Tell me regression analysis?,decision tree
+67,About regression analysis?,decision tree
+68,Let me know about regression analysis?,decision tree
+69,What do you say about regression analysis?,decision tree
+70,Explain regression analysis?,decision tree
+71,Define regression analysis?,decision tree
+72,Can you explain about regression analysis in decision tree?,decision tree
+73,Can you give a short summary about regression analysis in decision tree?,decision tree
+74,What is classification analysis?,decision tree
+75,Tell me about classification analysis?,decision tree
+76,What do you know about classification analysis?,decision tree
+77,Do you know about classification analysis?,decision tree
+78,What is the process of classification analysis?,decision tree
+79,How classification analysis works in decision tree?,decision tree
+80,Tell me classification analysis?,decision tree
+81,About classification analysis?,decision tree
+82,Let me know about classification analysis?,decision tree
+83,What do you say about classification analysis?,decision tree
+84,Explain classification analysis?,decision tree
+85,Define classification analysis?,decision tree
+86,Can you explain about classification analysis in decision tree?,decision tree
+87,Can you give a short summary about classification analysis in decision tree?,decision tree
+88,What is a node in decision tree?,decision tree
+89,What is ment by node in decision tree?,decision tree
+90,Definition of node in decision tree?,decision tree
+91,What is node?,decision tree
+92,What is the node in decision tree?,decision tree
+93,Do you know about node in decision,decision tree
+94,Tell me about node in decision tree?,decision tree
+95,why we can use a node in decision tree?,decision tree
+96,what do you konw about the node in decision tree?,decision tree
+97,what is a node,decision tree
+98,About the node in decision tree?What are the types of nodes?,decision tree
+99,Types of nodes?,decision tree
+100,How many types of nodes?,decision tree
+101,What are the types of nodes in decision tree?,decision tree
+102,Do you konw the types of nodes in decision tree?,decision tree
+103,Do you konw about the types of nodes?,decision tree
+104,Types of nodes in decision tree?,decision tree
+105,What are nodes in decision tree?,decision tree
+106,Do you konw the types of nodes?,decision tree
+107,Types of nodes in decision tree in machine learning?,decision tree
+108,Tell me the types of nodes?,decision tree
+109,What is decision nodes in decision tree?,decision tree
+110,What is ment by decision nodes?,decision tree
+111,Definition of decision nodes in decision tree?,decision tree
+112,What is decision nodes?,decision tree
+113,What is the decision nodes in decision tree?,decision tree
+114,Do you know about decision nodes in decision tree?,decision tree
+115,Tell me about decision nodes?,decision tree
+116,why we can use a decision nodes?,decision tree
+117,what do you konw about decision nodes?,decision tree
+118,what is a decision nodes?,decision tree
+119,About the decision nodes in decision tree?,decision tree
+120,What is end nodes in decision tree?,decision tree
+121,What is ment by end nodes?,decision tree
+122,Definition of end nodes in decision tree?,decision tree
+123,What is end nodes?,decision tree
+124,What is the end nodes in decision tree?,decision tree
+125,Do you know about end nodes in decision tree?,decision tree
+126,Tell me about end nodes?,decision tree
+127,why we can use a end nodes?,decision tree
+128,what do you konw about end nodes?,decision tree
+129,what is a end nodes?,decision tree
+130,About the end nodes in decision tree?What is a root node in decision tree?,decision tree
+131,What is ment by root node in decision tree?,decision tree
+132,Definition of root node in decision tree?,decision tree
+133,What is root node?,decision tree
+134,What is the root node in decision tree?,decision tree
+135,Do you know about root node in decision,decision tree
+136,Tell me about root node in decision tree?,decision tree
+137,why we can use a root node in decision tree?,decision tree
+138,what do you konw about the root node in decision tree?,decision tree
+139,what is root node,decision tree
+140,About the root node in decision tree?,decision tree
+141,why to call first node as  root node in decision tree?,decision tree
+142,first node as root node in decision tree?What is a internal node in decision tree?,decision tree
+143,What is ment by internal node in decision tree?,decision tree
+144,Definition of internal node in decision tree?,decision tree
+145,What is internal node?,decision tree
+146,What is the internal node in decision tree?,decision tree
+147,Do you know about internal node in decision,decision tree
+148,Tell me about internal node in decision tree?,decision tree
+149,why we can use a internal node in decision tree?,decision tree
+150,what do you konw about the internal node in decision tree?,decision tree
+151,what is internal node,decision tree
+152,About the internal node in decision tree?,decision tree
+153,What is a leaf node in decision tree?,decision tree
+154,What is ment by leaf node in decision tree?,decision tree
+155,Definition of leaf node in decision tree?,decision tree
+156,What is leaf node?,decision tree
+157,What is the leaf node in decision tree?,decision tree
+158,Do you know about leaf node in decision,decision tree
+159,Tell me about leaf node in decision tree?,decision tree
+160,why we can use a leaf node in decision tree?,decision tree
+161,what do you konw about the leaf node in decision tree?,decision tree
+162,what is leaf node,decision tree
+163,About the leaf node in decision tree?,decision tree
+164,What is Greedy alogrithm?,decision tree
+165,What is ment by Greedy alogrithm in decision tree?,decision tree
+166,What is ment by Greedy alogrithm?,decision tree
+167,Definition of Greedy alogrithm?,decision tree
+168,What is a Greedy alogrithm in  decision tree?,decision tree
+169,What is the Greedy alogrithm?,decision tree
+170,Do you know about Greedy alogrithm?,decision tree
+171,Tell me about Greedy alogrithm in decision tree?,decision tree
+172,What do you know about Greedy alogrithm in decision tree?,decision tree
+173,Greedy alogrithm?,decision tree
+174,Tell me Greedy alogrithm?,decision tree
+175,Tell me Greedy alogrithm of decision tree in machine learning?,decision tree
+176,Where can decision tree be applicable?,decision tree
+177,applications of decision tere ?,decision tree
+178,Main applications of decision tree ?,decision tree
+179,what are the applications of decision tree?,decision tree
+180,where do we applicable decision tree?,decision tree
+181,tell me some applications of sdecision tree?,decision tree
+182,list out some applications of decision tree ?,decision tree
+183,what is the applications of decision tree?,decision tree
+184,where is decision tree applicable?,decision tree
+185,list me few applications of decision tree ?,decision tree
+186,How to split a node in decision tree?,decision tree
+187,How to split a node?,decision tree
+188,How can we split a node in decision tree?,decision tree
+189,what is the way of split a node in decision tree?,decision tree
+190,What is the preocedure of to split a node in decision tree?,decision tree
+191,What is the process to follow to split a node in decision tree?,decision tree
+192,How to split a node into two nodes?,decision tree
+193,How to split a node of decision tree in machine learning?,decision tree
+194,What is a processes of split a node into two nodes in decision tree?,decision tree
+195,How to split a node into two nodes?,decision tree
+196,How to decide to split a node in decision tree?,decision tree
+197,How to decide to split a node?,decision tree
+198,How can we decide to split a node in decision tree?,decision tree
+199,what is the way of decide to split a node in decision tree?,decision tree
+200,What is the preocedure of decide to split a node in decision tree?,decision tree
+201,What is the process to follow decide  to split a node in decision tree?,decision tree
+202,How decide to to spilt a node in decision tree?,decision tree
+203,How decide to to split a node of decision tree in machine learning?,decision tree
+204,What is a processes of decide to split a node in decision tree?,decision tree
+205,How decide to to split a node of machine learning?,decision tree
+206,What are the methods are used to split a node?,decision tree
+207,Tell me the methods of split a node in decision tree?,decision tree
+208,What about the methods of split a node,decision tree
+209,What are the methods of split a node in decision tree?,decision tree
+210,Are there any methods are used to split a node in decision tree?,decision tree
+211,What  methods are used to split a node in decision tree?,decision tree
+212,methods are used to split a node?,decision tree
+213,Are there any methods are used to split a node in decision tree?,decision tree
+214,what methods are used to split a node? ,decision tree
+215,What is entropy,decision tree
+216,What is ment by entropy in decision tree?,decision tree
+217,What is ment by entropy?,decision tree
+218,Definition of entropy?,decision tree
+219,What is a entropy in  decision tree?,decision tree
+220,What is the entropy?,decision tree
+221,Do you know about entropy?,decision tree
+222,Tell me about entropy in decision tree?,decision tree
+223,What do you know about entropy in decision tree?,decision tree
+224,entropy?,decision tree
+225,Tell me entropy?,decision tree
+226,Tell me entropy of decision tree in machine learning?What is information gain,decision tree
+227,What is ment by information gain in decision tree?,decision tree
+228,What is ment by information gain?,decision tree
+229,Definition of information gain?,decision tree
+230,What is a information gain in  decision tree?,decision tree
+231,What is the information gain?,decision tree
+232,Do you know about information gain?,decision tree
+233,Tell me about information gain in decision tree?,decision tree
+234,What do you know about information gain in decision tree?,decision tree
+235,information gain?,decision tree
+236,Tell me information gain?,decision tree
+237,Tell me information gain of decision tree in machine learning?,decision tree
+238,how to measure information gain in  decision tree?,decision tree
+239,calculate information gain?,decision tree
+240,process of calculate information gain?,decision tree
+241,Tell me about calculating the information gain in decision tree?,decision tree
+242,What do you know about calculate the information gain in decision tree?,decision tree
+243,calculate the information gain?,decision tree
+244,calculate the information gain?,decision tree
+245,Tell me the process of calculating information gain?What is gini index,decision tree
+246,What is ment by gini index in decision tree?,decision tree
+247,What is ment by gini index?,decision tree
+248,Definition of gini index?,decision tree
+249,What is a gini index in  decision tree?,decision tree
+250,What is the gini index?,decision tree
+251,Do you know about gini index?,decision tree
+252,Tell me about gini index in decision tree?,decision tree
+253,What do you know about gini index in decision tree?,decision tree
+254,gini index?,decision tree
+255,Tell me gini index?,decision tree
+256,Tell me gini index of decision tree in machine learning?what is probability,decision tree
+257,explain probability,decision tree
+258,define probability,decision tree
+259,what is ment by probability,decision tree
+260,what do you mean by probability,decision tree
+261,tell about probability,decision tree
+262,what does probability mean,decision tree
+263,what is probability of an event,decision tree
+264,explain probability of an event,decision tree
+265,what are events,decision tree
+266,explain events in decision tree,decision tree
+267,define events?,decision tree
+268,what is ment by events,decision tree
+269,what do you mean by events,decision tree
+270,tell about events,decision tree
+271,what does events mean,decision tree
+272,what is events of decision tree,decision tree
+273,explain event,decision tree
+274,events in decision treeWhat are the advantages of decision tree?,decision tree
+275,What are the advantages of decision tree in machine learning?,decision tree
+276,Advantages in decision tree?,decision tree
+277,advantages of decision tree?,decision tree
+278,Do you know about advantages in decision tree?,decision tree
+279,Which are advantages in decision tree?,decision tree
+280,Tell me advantages of decision tree?,decision tree
+281,Tell me advantages in decision tree?,decision tree
+282,What do you know advantages decision tree?,decision tree
+283,What are advantages decision tree?   ,decision tree
+284,What are the disadvantages of decision tree?,decision tree
+285,What are the disadvantages of decision tree in machine learning?,decision tree
+286,disadvantages in decision tree?,decision tree
+287,disadvantages of decision tree?,decision tree
+288,Do you know about disadvantages in decision tree?,decision tree
+289,Which are disadvantages in decision tree?,decision tree
+290,Tell me disadvantages of decision tree?,decision tree
+291,Tell me disadvantages in decision tree?,decision tree
+292,What do you know disadvantages decision tree?,decision tree
+293,What are disadvantages decision tree?,decision tree
+294,What is pruning in decision tree?,decision tree
+295,Tell me about pruning?,decision tree
+296,What do you know about pruning?,decision tree
+297,Do you know about pruning?,decision tree
+298,How pruning works ?,decision tree
+299,Let me know about pruning?,decision tree
+300,What do you say about pruning?,decision tree
+301,What does pruning mean?,decision tree
+302,Explain pruning?,decision tree
+303,Define pruning?,decision tree
+304,Can you explain about pruning?,decision tree
+305,about pruning in decision tree?,decision tree
+306,What is splitting?,decision tree
+307,Tell me about splitting?,decision tree
+308,What do you know about splitting in decision tree?,decision tree
+309,Do you know about splitting?,decision tree
+310,What is the process of splitting?,decision tree
+311,How splitting works?,decision tree
+312,About splitting?,decision tree
+313,Let me know about splitting?,decision tree
+314,What do you say about splitting in decision tree?,decision tree
+315,What does splitting mean?,decision tree
+316,Explain splitting in decision tree?,decision tree
+317,Define splitting?,decision tree
+318,Can you say something about splitting?,decision tree
+319,Can you explain briefly about splitting?,decision tree
+320,what is the primary difference between decision tree algorithm and other algorithms?,decision tree
+321,How decision tree  algorithm is differ from other algorithms?,decision tree
+322,What do you know about decision tree  algorithm and other algorithms?,decision tree
+323,distinguish between decision tree  algorithm and other algorithms?,decision tree
+324,mention some differences between decision tree  algorithm and other algorithms?,decision tree
+325,what are main difeferences between  decision tree  algorithm and other algorithms?,decision tree
+326,tell me some differences between decision tree  algorithm and other algorithms?,decision tree
+327,list out some differences betwen decision tree  algorithm and other algorithms?,decision tree
+328,what is difference between decision tree  algorithm and other algorithms?,decision tree
+329,Differentiate between decision tree  algorithm and other algorithms?   ,decision tree
+330,What are the types of decision trees?,decision tree
+331,Types of decision trees?,decision tree
+332,How many types of decision trees?,decision tree
+333,Do you konw the types of decision trees?,decision tree
+334,Do you konw about the types of decision trees?,decision tree
+335,What are decision trees?,decision tree
+336,Types of decision trees in machine learning?,decision tree
+337,Tell me the types of decision trees?What are the libraries  used for decision tree?,decision tree
+338,What are the libraries used for decision tree in machine learning?,decision tree
+339,libraries used  for decision tree?,decision tree
+340,libraries used for decision tree?,decision tree
+341,Do you know about libraries used for decision tree?,decision tree
+342,Which are libraries used for decision tree?,decision tree
+343,Tell me libraries used for decision tree?,decision tree
+344,Tell me libraries used for decision tree?,decision tree
+345,What do you know libraries used for decision tree?,decision tree
+346,What are libraries used for decision tree?,decision tree
+347,What is branch node in decision tree?,decision tree
+348,Tell me about branch node?,decision tree
+349,What do you know about branch node?,decision tree
+350,Do you know about branch node?,decision tree
+351,How branch node works ?,decision tree
+352,Let me know about branch node?,decision tree
+353,What do you say about branch node?,decision tree
+354,What does branch node mean?,decision tree
+355,Explain branch node?,decision tree
+356,Define branch node?,decision tree
+357,Can you explain about branch node?,decision tree
+358,about branch node in decision tree?,decision tree
+359,What is labels in decision tree?,decision tree
+360,Tell me about labels?,decision tree
+361,What do you know about labels?,decision tree
+362,Do you know about labels?,decision tree
+363,Let me know about labels?,decision tree
+364,What do you say about labels?,decision tree
+365,What does labels mean?,decision tree
+366,Explain labels?,decision tree
+367,Define labels?,decision tree
+368,Can you explain about labels?,decision tree
+369,about labels in decision tree?,decision tree
+370,What is classification tree?,decision tree
+371,Tell me about classification tree?,decision tree
+372,What do you know about classification tree?,decision tree
+373,Do you know about classification tree?,decision tree
+374,What is the process of classification tree?,decision tree
+375,How classification tree works ?,decision tree
+376,Tell me classification tree?,decision tree
+377,About classification tree?,decision tree
+378,Let me know about classification tree?,decision tree
+379,What is classification tree?,decision tree
+380,What do you say about classification tree?,decision tree
+381,What does classification tree mean?,decision tree
+382,Explain classification tree?,decision tree
+383,Define classification tree?,decision tree
+384,Can you explain about classification tree?,decision tree
+385,Can you say something about classification tree?What are the types of packages to build a decisipac_builon tree?,decision tree
+386,Types of packages to build a decision tree?,decision tree
+387,How many types of packages to build a decision tree?,decision tree
+388,Do you konw the types of packages to build a decision tree?,decision tree
+389,Do you konw about the types of packages to build a decision tree?,decision tree
+390,What are packages to build a decision tree?,decision tree
+391,packages to build a decision tree?,decision tree
+392,Tell me the types of packages to build a decision tree?,decision tree

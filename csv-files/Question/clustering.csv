@@ -1,0 +1,965 @@
+line,question,question_type
+1,what is clustering?,clustering
+2,define so called clustering algorithm?,clustering
+3,explain the term clustering?,clustering
+4,is clustering an unsupervised learning?,clustering
+5,can you explain about clustering?,clustering
+6,can you say something about clustering?,clustering
+7,any example of unsupervised learning technique,clustering
+8,where can i use clustering?,clustering
+9,what does clustering mean?,clustering
+10,can you explain briefly about clustering?,clustering
+11,can you give a short summary about clustering?,clustering
+12,clustering?,clustering
+13,what are the types of clustering?,clustering
+14,what are different clustering techniques?,clustering
+15,how many types of clustering techniques are there?,clustering
+16,what are the important types of clustering?,clustering
+17,list out different clustering techniques?,clustering
+18,what are the various types of clustering methods?,clustering
+19,list out various types of clutering methods?,clustering
+20,mention some clustering methods,clustering
+21,say different clustering methods used?,clustering
+22,do you know the various types of clustering methods?,clustering
+23,what are the applications of clustering?,clustering
+24,list out some appplications of clustering?,clustering
+25,where is clustering applied?,clustering
+26,where is clustering applicable?,clustering
+27,list me few applications of clustering?,clustering
+28,list out some appplications of clustering?,clustering
+29,what are the real time examples of clustering?,clustering
+30,can you give list of clustering applications?,clustering
+31,what is meant by k-means ?,clustering
+32,define the term known as k-means ?,clustering
+33,explain the  k-means?,clustering
+34,is k-means an unsupervised learning?,clustering
+35,can you explain about k-means?,clustering
+36,can you say something about k-means clustering?,clustering
+37,explain any one of clustering techniques,clustering
+38,where can i use k-means algorithm?,clustering
+39,what does k-means mean?,clustering
+40,can you explain briefly about k-means?,clustering
+41,can you give a short summary about k-means clustering?,clustering
+42,what is k-medoids ?,clustering
+43,define k-medoids ?,clustering
+44,explain k-medoids ?,clustering
+45,can you explain about k-medoids clustering?,clustering
+46,can you say something about k-medoids ?,clustering
+47,explain k-medoids clustering technique,clustering
+48,where can i use k-medoids ?,clustering
+49,what does k-medoids clustering mean?,clustering
+50,can you explain briefly about k-medoids ?,clustering
+51,can you give a short summary about k-medoids clustering?,clustering
+52,what is hierarchical ?,clustering
+53,define hierarchical clustering?,clustering
+54,explain hierarchical ?,clustering
+55,can you explain about hierarchical clustering?,clustering
+56,can you say something about hierarchical ?,clustering
+57,explain hierarchical  technique,clustering
+58,where can i use hierarchical ?,clustering
+59,what does hierarchical clustering mean?,clustering
+60,can you explain briefly about hierarchical ?,clustering
+61,can you give a short summary about hierarchical clustering?,clustering
+62,what is dendrogram?,clustering
+63,define dendrogram?,clustering
+64,explain dendrogram?,clustering
+65,can you explain about dendrogram?,clustering
+66,can you say something about dendrogram?,clustering
+67,explain cluster dendrogram,clustering
+68,where can i use dendrogram?,clustering
+69,what does dendrogram mean?,clustering
+70,can you explain briefly about dendrogram?,clustering
+71,can you give a short summary about dendrogram?,clustering
+72,what chart is used to visualize hierarchical cluster?,clustering
+73,what is used to represent hierarchical cluster visually?,clustering
+74,what is Hierarchy?,clustering
+75,define the word Hierarchy?,clustering
+76,explain Hierarchy?,clustering
+77,can you explain about Hierarchy?,clustering
+78,can you say something about Hierarchy?,clustering
+79,explain the term Hierarchy,clustering
+80,tell me about Hierarchy?,clustering
+81,what does Hierarchy mean?,clustering
+82,can you explain briefly about Hierarchy?,clustering
+83,can you give a short summary about Hierarchy?,clustering
+84,what is the general meaning of Hierarchy?,clustering
+85,What is cluster variance?,clustering
+86,Tell me about cluster variance?,clustering
+87,What do you know about cluster variance?,clustering
+88,Do you know about cluster variance?,clustering
+89,What is the process of cluster variance?,clustering
+90,How cluster variance works ?,clustering
+91,Tell me cluster variance?,clustering
+92,About cluster variance?,clustering
+93,Let me know about cluster variance?,clustering
+94,Do you know cluster variance?,clustering
+95,What do you say about cluster variance?,clustering
+96,What does cluster variance mean?,clustering
+97,Explain cluster variance?,clustering
+98,Define cluster variance?,clustering
+99,Can you explain about cluster variance?,clustering
+100,Can you say something about cluster variance?,clustering
+101,Can you explain briefly about cluster variance?,clustering
+102,Can you give a short summary about cluster variance?,clustering
+103,What are cluster centroids?,clustering
+104,Tell me about cluster centroids?,clustering
+105,What do you know about cluster centroids?,clustering
+106,Do you know about cluster centroids?,clustering
+107,What is the process of cluster centroids?,clustering
+108,How cluster centroids works ?,clustering
+109,Tell me cluster centroids?,clustering
+110,About cluster centroids?,clustering
+111,Let me know about cluster centroids?,clustering
+112,Do you know cluster centroids?,clustering
+113,What do you say about cluster centroids?,clustering
+114,What does cluster centroids mean?,clustering
+115,Explain cluster centroids?,clustering
+116,Define cluster centroids?,clustering
+117,Can you explain about cluster centroids?,clustering
+118,Can you say something about cluster centroids?,clustering
+119,Can you explain briefly about cluster centroids?,clustering
+120,Can you give a short summary about cluster centroids?,clustering
+121,What is mean shift algorithm?,clustering
+122,Tell me about mean shift technique?,clustering
+123,What do you know about mean shift cluster?,clustering
+124,Do you know about mean shift algorithm technique?,clustering
+125,What is the process of mean shift ?,clustering
+126,How mean shift technique works ?,clustering
+127,Tell me mean shift ?,clustering
+128,anything About the term mean shift ?,clustering
+129,Let me know about mean shift ?,clustering
+130,Do you know mean shift ?,clustering
+131,What do you say about mean shift ?,clustering
+132,What does mean shift  mean?,clustering
+133,Explain mean shift ?,clustering
+134,Define mean shift ?,clustering
+135,Can you explain about mean shift ?,clustering
+136,Can you say something about mean shift ?,clustering
+137,Can you explain briefly about mean shift ?,clustering
+138,Can you give a short summary about mean shift ?,clustering
+139,What is good clustering?,clustering
+140,Tell me about good clustering?,clustering
+141,What do you know about good clustering?,clustering
+142,Do you know about good clustering?,clustering
+143,What is the process of good clustering?,clustering
+144,Tell me good clustering?,clustering
+145,About good clustering?,clustering
+146,Let me know about good clustering?,clustering
+147,Do you know good clustering?,clustering
+148,What do you say about good clustering?,clustering
+149,What does good clustering mean?,clustering
+150,Explain good clustering?,clustering
+151,Define good clustering?,clustering
+152,Can you explain about good clustering?,clustering
+153,Can you say something about good clustering?,clustering
+154,Can you explain briefly about good clustering?,clustering
+155,Can you give a short summary about good clustering?,clustering
+156,Where can clustering techniques be used?,clustering
+157,Uses of clustering techniques ?,clustering
+158,Main Uses of clustering techniques ?,clustering
+159,what are the uses of clustering techniques?,clustering
+160,where do we use clustering techniques ?,clustering
+161,tell me some uses of clustering techniques ?,clustering
+162,list out some uses of clustering techniques ?,clustering
+163,what is the use of clustering techniques ?,clustering
+164,where is clustering techniques usable?,clustering
+165,list me few uses of clustering techniques ?,clustering
+166,what are the real time examples of clustering techniques ?,clustering
+167,provide few examples of clustering techniques ?,clustering
+168,Where can clustering techniques be applied?,clustering
+169,applications of clustering techniques ?,clustering
+170,Main applications of clustering techniques ?,clustering
+171,what are the applications of clustering techniques ?,clustering
+172,where do we apply clustering techniques ?,clustering
+173,tell me some a of clustering techniques ?,clustering
+174,list out some applications of clustering techniques ?,clustering
+175,what is the application of clustering techniques ?,clustering
+176,where is clustering techniques applicable?,clustering
+177,list me few applications of clustering techniques ?,clustering
+178,what are the real time applications of clustering techniques ?,clustering
+179,list some applications of clustering techniques ?,clustering
+180,any business applications of clustering?,clustering
+181,Main business applications of clustering techniques ?,clustering
+182,what are the business applications of clustering techniques ?,clustering
+183,where do we apply clustering?,clustering
+184,tell me some business applications of clustering  ?,clustering
+185,list out some business applications of clustering techniques ?,clustering
+186,what is the business application of clustering?,clustering
+187,where is clustering techniques applicable?,clustering
+188,list me few business applications of clustering ?,clustering
+189,what are the real time business applications of clustering?,clustering
+190,list some business applications of clustering techniques ?,clustering
+191,What is exclusive clustering?,clustering
+192,Tell me about exclusive clustering?,clustering
+193,What do you know about exclusive clustering?,clustering
+194,Do you know about exclusive clustering?,clustering
+195,What is the process of exclusive clustering?,clustering
+196,How exclusive clustering works ?,clustering
+197,Tell me exclusive clustering?,clustering
+198,About exclusive clustering?,clustering
+199,line question clustering, clustering
+200,Let me know about exclusive clustering?,clustering
+201,What do you say about exclusive clustering?,clustering
+202,What does exclusive clustering mean?,clustering
+203,Explain exclusive clustering?,clustering
+204,Define exclusive clustering?,clustering
+205,Can you explain about exclusive clustering?,clustering
+206,Can you say something about exclusive clustering?,clustering
+207,Can you explain briefly about exclusive clustering?,clustering
+208,Can you give a short summary about exclusive clustering?,clustering
+209,What is overlapping clustering?,clustering
+210,Tell me about overlapping clustering?,clustering
+211,What do you know about overlapping clustering?,clustering
+212,Do you know about overlapping clustering?,clustering
+213,What is the process of overlapping clustering?,clustering
+214,How overlapping clustering works ?,clustering
+215,Tell me overlapping clustering?,clustering
+216,About overlapping clustering?,clustering
+217,Let me know about overlapping clustering?,clustering
+218,What do you say about overlapping clustering?,clustering
+219,What does overlapping clustering mean?,clustering
+220,Explain overlapping clustering?,clustering
+221,Define overlapping clustering?,clustering
+222,Can you explain about overlapping clustering?,clustering
+223,Can you say something about overlapping clustering?,clustering
+224,Can you explain briefly about overlapping clustering?,clustering
+225,Can you give a short summary about overlapping clustering?,clustering
+226,What is k value?,clustering
+227,Tell me about k value?,clustering
+228,What do you know about k value?,clustering
+229,Do you know about k value?,clustering
+230,What is the process of k value?,clustering
+231,How k value works ?,clustering
+232,Tell me k value?,clustering
+233,About k value?,clustering
+234,Let me know about k value?,clustering
+235,What do you say about k value?,clustering
+236,What does k value mean?,clustering
+237,Explain k value?,clustering
+238,Define k value?,clustering
+239,Can you explain about k value?,clustering
+240,Can you say something about k value?,clustering
+241,Can you explain briefly about k value?,clustering
+242,Can you give a short summary about k value?,clustering
+243,What is total variance?,clustering
+244,Tell me about total variance?,clustering
+245,What do you know about total variance?,clustering
+246,Do you know about total variance?,clustering
+247,What is the process of total variance?,clustering
+248,How total variance works ?,clustering
+249,Tell me total variance?,clustering
+250,About total variance?,clustering
+251,Let me know about total variance?,clustering
+252,What do you say about total variance?,clustering
+253,What does total variance mean?,clustering
+254,Explain total variance?,clustering
+255,Define total variance?,clustering
+256,Can you explain about total variance?,clustering
+257,Can you say something about total variance?,clustering
+258,Can you explain briefly about total variance?,clustering
+259,Can you give a short summary about total variance?,clustering
+260,What is elbow curve?,clustering
+261,Tell me about elbow curve?,clustering
+262,What do you know about elbow curve?,clustering
+263,Do you know about elbow curve?,clustering
+264,What is the process of elbow curve?,clustering
+265,How elbow curve works ?,clustering
+266,Tell me elbow curve?,clustering
+267,About elbow curve?,clustering
+268,Let me know about elbow curve?,clustering
+269,What do you say about elbow curve?,clustering
+270,What does elbow curve mean?,clustering
+271,Explain elbow curve?,clustering
+272,Define elbow curve?,clustering
+273,Can you explain about elbow curve?,clustering
+274,Can you say something about elbow curve?,clustering
+275,Can you explain briefly about elbow curve?,clustering
+276,Can you give a short summary about elbow curve?,clustering
+277,What is elbow point?,clustering
+278,Tell me about elbow point?,clustering
+279,What do you know about elbow point?,clustering
+280,Do you know about elbow point?,clustering
+281,What is the process of elbow point?,clustering
+282,How elbow point works ?,clustering
+283,Tell me elbow point?,clustering
+284,About elbow point?,clustering
+285,Let me know about elbow point?,clustering
+286,What do you say about elbow point?,clustering
+287,What does elbow point mean?,clustering
+288,Explain elbow point?,clustering
+289,Define elbow point?,clustering
+290,Can you explain about elbow point?,clustering
+291,Can you say something about elbow point?,clustering
+292,Can you explain briefly about elbow point?,clustering
+293,Can you give a short summary about elbow point?,clustering
+294,What is variability?,clustering
+295,Tell me about variability?,clustering
+296,What do you know about variability?,clustering
+297,Do you know about variability?,clustering
+298,What is the process of variability?,clustering
+299,How variability works ?,clustering
+300,Tell me variability?,clustering
+301,About variability?,clustering
+302,Let me know about variability?,clustering
+303,What is variability?,clustering
+304,What do you say about variability?,clustering
+305,What does variability mean?,clustering
+306,Explain variability?,clustering
+307,Define variability?,clustering
+308,Can you explain about variability?,clustering
+309,Can you say something about variability?,clustering
+310,Can you explain briefly about variability?,clustering
+311,Can you give a short summary about variability?,clustering
+312,What is dissimilarity?,clustering
+313,Tell me about dissimilarity?,clustering
+314,What do you know about dissimilarity?,clustering
+315,Do you know about dissimilarity?,clustering
+316,What is the process of dissimilarity?,clustering
+317,How dissimilarity works ?,clustering
+318,Tell me dissimilarity?,clustering
+319,About dissimilarity?,clustering
+320,Let me know about dissimilarity?,clustering
+321,What do you say about dissimilarity?,clustering
+322,What does dissimilarity mean?,clustering
+323,Explain dissimilarity?,clustering
+324,Define dissimilarity?,clustering
+325,Can you explain about dissimilarity?,clustering
+326,Can you say something about dissimilarity?,clustering
+327,Can you explain briefly about dissimilarity?,clustering
+328,Can you give a short summary about dissimilarity?,clustering
+329,What is euclidean distance?,clustering
+330,Tell me about euclidean distance?,clustering
+331,What do you know about euclidean distance?,clustering
+332,Do you know about euclidean distance?,clustering
+333,What is the process of euclidean distance?,clustering
+334,How euclidean distance works ?,clustering
+335,Tell me euclidean distance?,clustering
+336,About euclidean distance?,clustering
+337,Let me know about euclidean distance?,clustering
+338,What do you say about euclidean distance?,clustering
+339,What does euclidean distance mean?,clustering
+340,Explain euclidean distance?,clustering
+341,Define euclidean distance?,clustering
+342,Can you explain about euclidean distance?,clustering
+343,Can you say something about euclidean distance?,clustering
+344,Can you explain briefly about euclidean distance?,clustering
+345,Can you give a short summary about euclidean distance?,clustering
+346,What is linkage metric?,clustering
+347,Tell me about linkage metrics?,clustering
+348,What do you know about linkage metrics?,clustering
+349,Do you know about linkage metrics?,clustering
+350,What is the process of linkage metrics?,clustering
+351,How linkage metrics works ?,clustering
+352,Tell me linkage metrics?,clustering
+353,About linkage metrics?,clustering
+354,Let me know about linkage metrics?,clustering
+355,What do you say about linkage metrics?,clustering
+356,What does linkage metrics mean?,clustering
+357,Explain linkage metrics?,clustering
+358,Define linkage metrics?,clustering
+359,Can you explain about linkage metrics?,clustering
+360,Can you say something about linkage metrics?,clustering
+361,Can you explain briefly about linkage metrics?,clustering
+362,Can you give a short summary about linkage metrics?,clustering
+363,What is z scaling?,clustering
+364,Tell me about z scaling?,clustering
+365,What do you know about z scaling?,clustering
+366,Do you know about z scaling?,clustering
+367,What is the process of z scaling?,clustering
+368,How z scaling works ?,clustering
+369,Tell me z scaling?,clustering
+370,About z scaling?,clustering
+371,Let me know about z scaling?,clustering
+372,What do you say about z scaling?,clustering
+373,What does z scaling mean?,clustering
+374,Explain z scaling?,clustering
+375,Define z scaling?,clustering
+376,Can you explain about z scaling?,clustering
+377,Can you say something about z scaling?,clustering
+378,Can you explain briefly about z scaling?,clustering
+379,Can you give a short summary about z scaling?,clustering
+380,What is fuzzy c means clustering?,clustering
+381,Tell me about fuzzy c means clustering?,clustering
+382,What do you know about fuzzy c means clustering?,clustering
+383,Do you know about fuzzy c means clustering?,clustering
+384,What is the process of fuzzy c means clustering?,clustering
+385,How fuzzy c means works ?,clustering
+386,Tell me fuzzy c means clustering?,clustering
+387,About fuzzy c means clustering?,clustering
+388,Let me know about fuzzy c means clustering?,clustering
+389,What do you say about fuzzy c means clustering?,clustering
+390,What does fuzzy c means clustering mean?,clustering
+391,Explain fuzzy c means clustering?,clustering
+392,Define fuzzy c means clustering?,clustering
+393,Can you explain about fuzzy c means clustering?,clustering
+394,Can you say something about fuzzy c means clustering?,clustering
+395,Can you explain briefly about fuzzy c means clustering?,clustering
+396,Can you give a short summary about fuzzy c means clustering?,clustering
+397,What is divisive clustering?,clustering
+398,Tell me about divisive clustering?,clustering
+399,What do you know about divisive clustering?,clustering
+400,Do you know about divisive clustering?,clustering
+401,What is the process of divisive clustering?,clustering
+402,How divisive clustering works ?,clustering
+403,Tell me divisive clustering?,clustering
+404,About divisive clustering?,clustering
+405,Let me know about divisive clustering?,clustering
+406,What do you say about divisive clustering?,clustering
+407,What does divisive clustering mean?,clustering
+408,Explain divisive clustering?,clustering
+409,Define divisive clustering?,clustering
+410,Can you explain about divisive clustering?,clustering
+411,Can you say something about divisive clustering?,clustering
+412,Can you explain briefly about divisive clustering?,clustering
+413,Can you give a short summary about divisive clustering?,clustering
+414,What is agglomerative clustering?,clustering
+415,Tell me about agglomerative clustering?,clustering
+416,What do you know about agglomerative clustering?,clustering
+417,Do you know about agglomerative clustering?,clustering
+418,What is the process of agglomerative clustering?,clustering
+419,How agglomerative clustering works ?,clustering
+420,Tell me agglomerative clustering?,clustering
+421,About agglomerative clustering?,clustering
+422,Let me know about agglomerative clustering?,clustering
+423,What do you say about agglomerative clustering?,clustering
+424,What does agglomerative clustering mean?,clustering
+425,Explain agglomerative clustering?,clustering
+426,Define agglomerative clustering?,clustering
+427,Can you explain about agglomerative clustering?,clustering
+428,Can you say something about agglomerative clustering?,clustering
+429,Can you explain briefly about agglomerative clustering?,clustering
+430,Can you give a short summary about agglomerative clustering?,clustering
+431,What is cosine distance measure?,clustering
+432,Tell me about cosine distance measure?,clustering
+433,What do you know about cosine distance measure?,clustering
+434,Do you know about cosine distance measure?,clustering
+435,What is the process of cosine distance measure?,clustering
+436,How cosine distance measure works ?,clustering
+437,Tell me cosine distance measure?,clustering
+438,About cosine distance measure?,clustering
+439,Let me know about cosine distance measure?,clustering
+440,What do you say about cosine distance measure?,clustering
+441,What does cosine distance measure mean?,clustering
+442,Explain cosine distance measure?,clustering
+443,Define cosine distance measure?,clustering
+444,Can you explain about cosine distance measure?,clustering
+445,Can you say something about cosine distance measure?,clustering
+446,Can you explain briefly about cosine distance measure?,clustering
+447,Can you give a short summary about cosine distance measure?,clustering
+448,What is squared euclidean distance?,clustering
+449,Tell me about squared euclidean distance?,clustering
+450,What do you know about squared euclidean distance?,clustering
+451,Do you know about squared euclidean distance?,clustering
+452,What is the process of squared euclidean distance?,clustering
+453,How squared euclidean distance works ?,clustering
+454,Tell me squared euclidean distance?,clustering
+455,About squared euclidean distance?,clustering
+456,Let me know about squared euclidean distance?,clustering
+457,What do you say about squared euclidean distance?,clustering
+458,What does squared euclidean distance mean?,clustering
+459,Explain squared euclidean distance?,clustering
+460,Define squared euclidean distance?,clustering
+461,Can you explain about squared euclidean distance?,clustering
+462,Can you say something about squared euclidean distance?,clustering
+463,Can you explain briefly about squared euclidean distance?,clustering
+464,Can you give a short summary about squared euclidean distance?,clustering
+465,What is manhattan distance measure?,clustering
+466,Tell me about manhattan distance measure?,clustering
+467,What do you know about manhattan distance measure?,clustering
+468,Do you know about manhattan distance measure?,clustering
+469,What is the process of manhattan distance measure?,clustering
+470,How manhattan distance measure works ?,clustering
+471,Tell me manhattan distance measure?,clustering
+472,About manhattan distance measure?,clustering
+473,Let me know about manhattan distance measure?,clustering
+474,What do you say about manhattan distance measure?,clustering
+475,What does manhattan distance measure mean?,clustering
+476,Explain manhattan distance measure?,clustering
+477,Define manhattan distance measure?,clustering
+478,Can you explain about manhattan distance measure?,clustering
+479,Can you say something about manhattan distance measure?,clustering
+480,Can you explain briefly about manhattan distance measure?,clustering
+481,Can you give a short summary about manhattan distance measure?,clustering
+482,What is convergence?,clustering
+483,Tell me about convergence?,clustering
+484,What do you know about convergence?,clustering
+485,Do you know about convergence?,clustering
+486,What is the process of convergence?,clustering
+487,How convergence works ?,clustering
+488,Tell me convergence?,clustering
+489,About convergence?,clustering
+490,Let me know about convergence?,clustering
+491,What do you say about convergence?,clustering
+492,What does convergence mean?,clustering
+493,Explain convergence?,clustering
+494,Define convergence?,clustering
+495,Can you explain about convergence?,clustering
+496,Can you say something about convergence?,clustering
+497,Can you explain briefly about convergence?,clustering
+498,Can you give a short summary about convergence?,clustering
+499,What is elbow method?,clustering
+500,Tell me about elbow method?,clustering
+501,What do you know about elbow method?,clustering
+502,Do you know about elbow method?,clustering
+503,What is the process of elbow method?,clustering
+504,How elbow method works ?,clustering
+505,Tell me elbow method?,clustering
+506,About elbow method?,clustering
+507,Let me know about elbow method?,clustering
+508,What do you say about elbow method?,clustering
+509,What does elbow method mean?,clustering
+510,Explain elbow method?,clustering
+511,Define elbow method?,clustering
+512,Can you explain about elbow method?,clustering
+513,Can you say something about elbow method?,clustering
+514,Can you explain briefly about elbow method?,clustering
+515,Can you give a short summary about elbow method?,clustering
+516,What is wss?,clustering
+517,Tell me about wss?,clustering
+518,What do you know about wss?,clustering
+519,Do you know about wss?,clustering
+520,What is the process of wss?,clustering
+521,How wss works ?,clustering
+522,Tell me wss?,clustering
+523,About wss?,clustering
+524,Let me know about wss?,clustering
+525,What do you say about wss?,clustering
+526,What does wss mean?,clustering
+527,Explain wss?,clustering
+528,Define wss?,clustering
+529,Can you explain about wss?,clustering
+530,Can you say something about wss?,clustering
+531,Can you explain briefly about wss?,clustering
+532,Can you give a short summary about wss?,clustering
+533,What is intragroup variance?,clustering
+534,Tell me about intragroup variance?,clustering
+535,What do you know about intragroup variance?,clustering
+536,Do you know about intragroup variance?,clustering
+537,What is the process of intragroup variance?,clustering
+538,How intragroup variance works ?,clustering
+539,Tell me intragroup variance?,clustering
+540,About intragroup variance?,clustering
+541,Let me know about intragroup variance?,clustering
+542,What do you say about intragroup variance?,clustering
+543,What does intragroup variance mean?,clustering
+544,Explain intragroup variance?,clustering
+545,Define intragroup variance?,clustering
+546,Can you explain about intragroup variance?,clustering
+547,Can you say something about intragroup variance?,clustering
+548,Can you explain briefly about intragroup variance?,clustering
+549,Can you give a short summary about intragroup variance?,clustering
+550,What is intergroup variance?,clustering
+551,Tell me about intergroup variance?,clustering
+552,What do you know about intergroup variance?,clustering
+553,Do you know about intergroup variance?,clustering
+554,What is the process of intergroup variance?,clustering
+555,How intergroup variance works ?,clustering
+556,Tell me intergroup variance?,clustering
+557,About intergroup variance?,clustering
+558,Let me know about intergroup variance?,clustering
+559,What do you say about intergroup variance?,clustering
+560,What does intergroup variance mean?,clustering
+561,Explain intergroup variance?,clustering
+562,Define intergroup variance?,clustering
+563,Can you explain about intergroup variance?,clustering
+564,Can you say something about intergroup variance?,clustering
+565,Can you explain briefly about intergroup variance?,clustering
+566,Can you give a short summary about intergroup variance?,clustering
+567,What is euclidean space?,clustering
+568,Tell me about euclidean space?,clustering
+569,What do you know about euclidean space?,clustering
+570,Do you know about euclidean space?,clustering
+571,What is the process of euclidean space?,clustering
+572,How euclidean space works ?,clustering
+573,Tell me euclidean space?,clustering
+574,About euclidean space?,clustering
+575,Let me know about euclidean space?,clustering
+576,What do you say about euclidean space?,clustering
+577,What does euclidean space mean?,clustering
+578,Explain euclidean space?,clustering
+579,Define euclidean space?,clustering
+580,Can you explain about euclidean space?,clustering
+581,Can you say something about euclidean space?,clustering
+582,Can you explain briefly about euclidean space?,clustering
+583,Can you give a short summary about euclidean space?,clustering
+584,What is euclidean norm?,clustering
+585,Tell me about euclidean norm?,clustering
+586,What do you know about euclidean norm?,clustering
+587,Do you know about euclidean norm?,clustering
+588,What is the process of euclidean norm?,clustering
+589,How euclidean norm works ?,clustering
+590,Tell me euclidean norm?,clustering
+591,About euclidean norm?,clustering
+592,Let me know about euclidean norm?,clustering
+593,What do you say about euclidean norm?,clustering
+594,What does euclidean norm mean?,clustering
+595,Explain euclidean norm?,clustering
+596,Define euclidean norm?,clustering
+597,Can you explain about euclidean norm?,clustering
+598,Can you say something about euclidean norm?,clustering
+599,Can you explain briefly about euclidean norm?,clustering
+600,Can you give a short summary about euclidean norm?,clustering
+601,What is average linkage?,clustering
+602,Tell me about average linkage?,clustering
+603,What do you know about average linkage?,clustering
+604,Do you know about average linkage?,clustering
+605,What is the process of average linkage?,clustering
+606,How average linkage works ?,clustering
+607,Tell me average linkage?,clustering
+608,About average linkage?,clustering
+609,Let me know about average linkage?,clustering
+610,What do you say about average linkage?,clustering
+611,What does average linkagemean?,clustering
+612,Explain average linkage?,clustering
+613,Define average linkage?,clustering
+614,Can you explain about average linkage?,clustering
+615,Can you say something about average linkage?,clustering
+616,Can you explain briefly about average linkage?,clustering
+617,Can you give a short summary about average linkage?,clustering
+618,What are cartesian coordinates?,clustering
+619,Tell me about cartesian coordinates?,clustering
+620,What do you know about cartesian coordinates?,clustering
+621,Do you know about cartesian coordinates?,clustering
+622,What is the process of cartesian coordinates?,clustering
+623,How cartesian coordinates works ?,clustering
+624,Tell me cartesian coordinates?,clustering
+625,About cartesian coordinates?,clustering
+626,Let me know about cartesian coordinates?,clustering
+627,What do you say about cartesian coordinates?,clustering
+628,What does cartesian coordinates mean?,clustering
+629,Explain cartesian coordinates?,clustering
+630,Define cartesian coordinates?,clustering
+631,Can you explain about cartesian coordinates?,clustering
+632,Can you say something about cartesian coordinates?,clustering
+633,Can you explain briefly about cartesian coordinates?,clustering
+634,Can you give a short summary about cartesian coordinates?,clustering
+635,What is single linkage clustering?,clustering
+636,Tell me about single linkage clustering?,clustering
+637,What do you know about single linkage clustering?,clustering
+638,Do you know about single linkage clustering?,clustering
+639,What is the process of single linkage clustering?,clustering
+640,How single linkage clustering works ?,clustering
+641,Tell me single linkage clustering?,clustering
+642,About single linkage clustering?,clustering
+643,Let me know about single linkage clustering?,clustering
+644,What do you say about single linkage clustering?,clustering
+645,What does single linkage clustering mean?,clustering
+646,Explain single linkage clustering?,clustering
+647,Define single linkage clustering?,clustering
+648,Can you explain about single linkage clustering?,clustering
+649,Can you say something about single linkage clustering?,clustering
+650,Can you explain briefly about single linkage clustering?,clustering
+651,Can you give a short summary about single linkage clustering?,clustering
+652,What is similarity?,clustering
+653,Tell me about similarity?,clustering
+654,What do you know about similarity?,clustering
+655,Do you know about similarity?,clustering
+656,What is the process of similarity?,clustering
+657,How similarity works ?,clustering
+658,Tell me similarity?,clustering
+659,About similarity?,clustering
+660,Let me know about similarity?,clustering
+661,What do you say about similarity?,clustering
+662,What does similaritymean?,clustering
+663,Explain similarity?,clustering
+664,Define similarity?,clustering
+665,Can you explain about similarity?,clustering
+666,Can you say something about similarity?,clustering
+667,Can you explain briefly about similarity?,clustering
+668,Can you give a short summary about similarity?,clustering
+669,What is distance matrix?,clustering
+670,Tell me about distance matrix?,clustering
+671,What do you know about distance matrix?,clustering
+672,Do you know about distance matrix?,clustering
+673,What is the process of distance matrix?,clustering
+674,How distance matrix works ?,clustering
+675,Tell me distance matrix?,clustering
+676,About distance matrix?,clustering
+677,Let me know about distance matrix?,clustering
+678,What do you say about distance matrix?,clustering
+679,What does distance matrixmean?,clustering
+680,Explain distance matrix?,clustering
+681,Define distance matrix?,clustering
+682,Can you explain about distance matrix?,clustering
+683,Can you say something about distance matrix?,clustering
+684,Can you explain briefly about distance matrix?,clustering
+685,Can you give a short summary about distance matrix?,clustering
+686,What is scree plot?,clustering
+687,Tell me about scree plot?,clustering
+688,What do you know about scree plot?,clustering
+689,Do you know about scree plot?,clustering
+690,What is the process of scree plot?,clustering
+691,How scree plot works ?,clustering
+692,Tell me scree plot?,clustering
+693,About scree plot?,clustering
+694,Let me know about scree plot?,clustering
+695,What do you say about scree plot?,clustering
+696,What does scree plotmean?,clustering
+697,Explain scree plot?,clustering
+698,Define scree plot?,clustering
+699,Can you explain about scree plot?,clustering
+700,Can you say something about scree plot?,clustering
+701,Can you explain briefly about scree plot?,clustering
+702,Can you give a short summary about scree plot?,clustering
+703,What is outlier in clustering?,clustering
+704,Tell me about outlier in clustering?,clustering
+705,What do you know about outlier in clustering?,clustering
+706,Do you know about outlier in clustering?,clustering
+707,What is the process of outlier in clustering?,clustering
+708,How outlier in clustering works ?,clustering
+709,Tell me outlier in clustering?,clustering
+710,About outlier in clustering?,clustering
+711,Let me know about outlier in clustering?,clustering
+712,What do you say about outlier in clustering?,clustering
+713,What does outlier in clusteringmean?,clustering
+714,Explain outlier in clustering?,clustering
+715,Define outlier in clustering?,clustering
+716,Can you explain about outlier in clustering?,clustering
+717,Can you say something about outlier in clustering?,clustering
+718,Can you explain briefly about outlier in clustering?,clustering
+719,Can you give a short summary about outlier in clustering?,clustering
+720,What is cluster stability?,clustering
+721,Tell me about cluster stability?,clustering
+722,What do you know about cluster stability?,clustering
+723,Do you know about cluster stability?,clustering
+724,What is the process of cluster stability?,clustering
+725,How cluster stability works ?,clustering
+726,Tell me cluster stability?,clustering
+727,About cluster stability?,clustering
+728,Let me know about cluster stability?,clustering
+729,What do you say about cluster stability?,clustering
+730,What does cluster stabilitymean?,clustering
+731,Explain cluster stability?,clustering
+732,Define cluster stability?,clustering
+733,Can you explain about cluster stability?,clustering
+734,Can you say something about cluster stability?,clustering
+735,Can you explain briefly about cluster stability?,clustering
+736,Can you give a short summary about cluster stability?,clustering
+737,What is cluster seperation?,clustering
+738,Tell me about cluster seperation?,clustering
+739,What do you know about cluster seperation?,clustering
+740,Do you know about cluster seperation?,clustering
+741,What is the process of cluster seperation?,clustering
+742,How cluster seperation works ?,clustering
+743,Tell me cluster seperation?,clustering
+744,About cluster seperation?,clustering
+745,Let me know about cluster seperation?,clustering
+746,What do you say about cluster seperation?,clustering
+747,What does cluster seperationmean?,clustering
+748,Explain cluster seperation?,clustering
+749,Define cluster seperation?,clustering
+750,Can you explain about cluster seperation?,clustering
+751,Can you say something about cluster seperation?,clustering
+752,Can you explain briefly about cluster seperation?,clustering
+753,Can you give a short summary about cluster seperation?,clustering
+754,What is partitioning clustering?,clustering
+755,Tell me about partitioning clustering?,clustering
+756,What do you know about partitioning clustering?,clustering
+757,Do you know about partitioning clustering?,clustering
+758,What is the process of partitioning clustering?,clustering
+759,How partitioning clustering works ?,clustering
+760,Tell me partitioning clustering?,clustering
+761,About partitioning clustering?,clustering
+762,Let me know about partitioning clustering?,clustering
+763,What do you say about partitioning clustering?,clustering
+764,What does partitioning clusteringmean?,clustering
+765,Explain partitioning clustering?,clustering
+766,Define partitioning clustering?,clustering
+767,Can you explain about partitioning clustering?,clustering
+768,Can you say something about partitioning clustering?,clustering
+769,Can you explain briefly about partitioning clustering?,clustering
+770,Can you give a short summary about partitioning clustering?,clustering
+771,What is Trail and Error method?,clustering
+772,Tell me about Trail and Error method?,clustering
+773,What do you know about Trail and Error method?,clustering
+774,Do you know about Trail and Error method?,clustering
+775,What is the process of Trail and Error method?,clustering
+776,How Trail and Error method works ?,clustering
+777,Tell me Trail and Error method?,clustering
+778,About Trail and Error method?,clustering
+779,Let me know about Trail and Error method?,clustering
+780,What do you say about Trail and Error method?,clustering
+781,What does Trail and Error methodmean?,clustering
+782,Explain Trail and Error method?,clustering
+783,Define Trail and Error method?,clustering
+784,Can you explain about Trail and Error method?,clustering
+785,Can you say something about Trail and Error method?,clustering
+786,Can you explain briefly about Trail and Error method?,clustering
+787,Can you give a short summary about Trail and Error method?,clustering
+788,What is data segmentation?,clustering
+789,Tell me about data segmentation?,clustering
+790,What do you know about data segmentation?,clustering
+791,Do you know about data segmentation?,clustering
+792,What is the process of data segmentation?,clustering
+793,How data segmentation works ?,clustering
+794,Tell me data segmentation?,clustering
+795,About data segmentation?,clustering
+796,Let me know about data segmentation?,clustering
+797,What do you say about data segmentation?,clustering
+798,What does data segmentationmean?,clustering
+799,Explain data segmentation?,clustering
+800,Define data segmentation?,clustering
+801,Can you explain about data segmentation?,clustering
+802,Can you say something about data segmentation?,clustering
+803,Can you explain briefly about data segmentation?,clustering
+804,Can you give a short summary about data segmentation?,clustering
+805,What is homogeneous cluster?,clustering
+806,Tell me about homogeneous cluster?,clustering
+807,What do you know about homogeneous cluster?,clustering
+808,Do you know about homogeneous cluster?,clustering
+809,What is the process of homogeneous cluster?,clustering
+810,How homogeneous cluster works ?,clustering
+811,Tell me homogeneous cluster?,clustering
+812,About homogeneous cluster?,clustering
+813,Let me know about homogeneous cluster?,clustering
+814,What do you say about homogeneous cluster?,clustering
+815,What does homogeneous clustermean?,clustering
+816,Explain homogeneous cluster?,clustering
+817,Define homogeneous cluster?,clustering
+818,Can you explain about homogeneous cluster?,clustering
+819,Can you say something about homogeneous cluster?,clustering
+820,Can you explain briefly about homogeneous cluster?,clustering
+821,Can you give a short summary about homogeneous cluster?,clustering
+822,What is multivariate distance?,clustering
+823,Tell me about multivariate distance?,clustering
+824,What do you know about multivariate distance?,clustering
+825,Do you know about multivariate distance?,clustering
+826,What is the process of multivariate distance?,clustering
+827,How multivariate distance works ?,clustering
+828,Tell me multivariate distance?,clustering
+829,About multivariate distance?,clustering
+830,Let me know about multivariate distance?,clustering
+831,What do you say about multivariate distance?,clustering
+832,What does multivariate distancemean?,clustering
+833,Explain multivariate distance?,clustering
+834,Define multivariate distance?,clustering
+835,Can you explain about multivariate distance?,clustering
+836,Can you say something about multivariate distance?,clustering
+837,Can you explain briefly about multivariate distance?,clustering
+838,Can you give a short summary about multivariate distance?,clustering
+839,What is binary euclidean distance?,clustering
+840,Tell me about binary euclidean distance?,clustering
+841,What do you know about binary euclidean distance?,clustering
+842,Do you know about binary euclidean distance?,clustering
+843,What is the process of binary euclidean distance?,clustering
+844,How binary euclidean distance works ?,clustering
+845,Tell me binary euclidean distance?,clustering
+846,About binary euclidean distance?,clustering
+847,Let me know about binary euclidean distance?,clustering
+848,What do you say about binary euclidean distance?,clustering
+849,What does binary euclidean distancemean?,clustering
+850,Explain binary euclidean distance?,clustering
+851,Define binary euclidean distance?,clustering
+852,Can you explain about binary euclidean distance?,clustering
+853,Can you say something about binary euclidean distance?,clustering
+854,Can you explain briefly about binary euclidean distance?,clustering
+855,Can you give a short summary about binary euclidean distance?,clustering
+856,What is simple matching coefficient?,clustering
+857,Tell me about simple matching coefficient?,clustering
+858,What do you know about simple matching coefficient?,clustering
+859,Do you know about simple matching coefficient?,clustering
+860,What is the process of simple matching coefficient?,clustering
+861,How simple matching coefficient works ?,clustering
+862,Tell me simple matching coefficient?,clustering
+863,About simple matching coefficient?,clustering
+864,Let me know about simple matching coefficient?,clustering
+865,What do you say about simple matching coefficient?,clustering
+866,What does simple matching coefficientmean?,clustering
+867,Explain simple matching coefficient?,clustering
+868,Define simple matching coefficient?,clustering
+869,Can you explain about simple matching coefficient?,clustering
+870,Can you say something about simple matching coefficient?,clustering
+871,Can you explain briefly about simple matching coefficient?,clustering
+872,Can you give a short summary about simple matching coefficient?,clustering
+873,What is Gowers general dissimilarity coefficient?,clustering
+874,Tell me about Gowers general dissimilarity coefficient?,clustering
+875,What do you know about Gowers general dissimilarity coefficient?,clustering
+876,Do you know about Gowers general dissimilarity coefficient?,clustering
+877,What is the process of Gowers general dissimilarity coefficient?,clustering
+878,How Gowers general dissimilarity coefficient works ?,clustering
+879,Tell me Gowers general dissimilarity coefficient?,clustering
+880,About Gowers general dissimilarity coefficient?,clustering
+881,Let me know about Gowers general dissimilarity coefficient?,clustering
+882,What do you say about Gowers general dissimilarity coefficient?,clustering
+883,What does Gowers general dissimilarity coefficientmean?,clustering
+884,Explain Gowers general dissimilarity coefficient?,clustering
+885,Define Gowers general dissimilarity coefficient?,clustering
+886,Can you explain about Gowers general dissimilarity coefficient?,clustering
+887,Can you say something about Gowers general dissimilarity coefficient?,clustering
+888,Can you explain briefly about Gowers general dissimilarity coefficient?,clustering
+889,Can you give a short summary about Gowers general dissimilarity coefficient?,clustering
+890,What is Complete linkage?,clustering
+891,Tell me about Complete linkage?,clustering
+892,What do you know about Complete linkage?,clustering
+893,Do you know about Complete linkage?,clustering
+894,What is the process of Complete linkage?,clustering
+895,How Complete linkage works ?,clustering
+896,Tell me Complete linkage?,clustering
+897,About Complete linkage?,clustering
+898,Let me know about Complete linkage?,clustering
+899,What do you say about Complete linkage?,clustering
+900,What does Complete linkagemean?,clustering
+901,Explain Complete linkage?,clustering
+902,Define Complete linkage?,clustering
+903,Can you explain about Complete linkage?,clustering
+904,Can you say something about Complete linkage?,clustering
+905,Can you explain briefly about Complete linkage?,clustering
+906,Can you give a short summary about Complete linkage?,clustering
+907,What is Nearest neighbour?,clustering
+908,Tell me about Nearest neighbour?,clustering
+909,What do you know about Nearest neighbour?,clustering
+910,Do you know about Nearest neighbour?,clustering
+911,What is the process of Nearest neighbour?,clustering
+912,How Nearest neighbour works ?,clustering
+913,Tell me Nearest neighbour?,clustering
+914,About Nearest neighbour?,clustering
+915,Let me know about Nearest neighbour?,clustering
+916,What do you say about Nearest neighbour?,clustering
+917,What does Nearest neighbourmean?,clustering
+918,Explain Nearest neighbour?,clustering
+919,Define Nearest neighbour?,clustering
+920,Can you explain about Nearest neighbour?,clustering
+921,Can you say something about Nearest neighbour?,clustering
+922,Can you explain briefly about Nearest neighbour?,clustering
+923,Can you give a short summary about Nearest neighbour?,clustering
+924,What is farthest neighbour?,clustering
+925,Tell me about farthest neighbour?,clustering
+926,What do you know about farthest neighbour?,clustering
+927,Do you know about farthest neighbour?,clustering
+928,What is the process of farthest neighbour?,clustering
+929,How farthest neighbour works ?,clustering
+930,Tell me farthest neighbour?,clustering
+931,About farthest neighbour?,clustering
+932,Let me know about farthest neighbour?,clustering
+933,What do you say about farthest neighbour?,clustering
+934,What does farthest neighbourmean?,clustering
+935,Explain farthest neighbour?,clustering
+936,Define farthest neighbour?,clustering
+937,Can you explain about farthest neighbour?,clustering
+938,Can you say something about farthest neighbour?,clustering
+939,Can you explain briefly about farthest neighbour?,clustering
+940,Can you give a short summary about farthest neighbour?,clustering
+941,what is the primary difference between k-means and hierarchical?,clustering
+942,How k-means is differ from hierarchical?,clustering
+943,Tell me about k-means and hierarchical?,clustering
+944,What do you know about k-means and hierarchical?,clustering
+945,Do you know about k-means and hierarchical?,clustering
+946,distinguish between k-means and hierarchical?,clustering
+947,mention some differences between k-means and hierarchical?,clustering
+948,what are main difeferences between  k-means and hierarchical?,clustering
+949,tell me some differences between k-means and hierarchical?,clustering
+950,list out some differences betwen k-means and hierarchical?,clustering
+951,what is difference between k-means and hierarchical?,clustering
+952,Differentiate between k-means and hierarchical?,clustering
+953,what is the primary difference between k-means and KNN algorithm?,clustering
+954,How k-means is differ from KNN algorithm?,clustering
+955,Tell me about k-means and KNN algorithm?,clustering
+956,What do you know about k-means and KNN algorithm?,clustering
+957,Do you know about k-means and KNN algorithm?,clustering
+958,distinguish between k-means and KNN algorithm?,clustering
+959,mention some differences between k-means and KNN algorithm?,clustering
+960,what are main difeferences between  k-means and KNN algorithm?,clustering
+961,tell me some differences between k-means and KNN algorithm?,clustering
+962,list out some differences betwen k-means and KNN algorithm?,clustering
+963,what is difference between k-means and KNN algorithm?,clustering
+964,Differentiate between k-means and KNN algorithm?,clustering

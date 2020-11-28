@@ -1,0 +1,783 @@
+line,question,question_type
+1,What is neuron?,neural network
+2,Tell me about neuron?,neural network
+3,What do you know about neuron?,neural network
+4,Do you know about neuron?,neural network
+5,What is the process of neuron?,neural network
+6,How neuron works ?,neural network
+7,Let me know about neuron?,neural network
+8,What is neuron?,neural network
+9,What do you say about neuron?,neural network
+10,What does neuron mean?,neural network
+11,Explain neuron?,neural network
+12,Define neuron?,neural network
+13,Can you explain about neuron?,neural network
+14,Can you say something about neuron?,neural network
+15,Can you explain briefly about neuron?,neural network
+16,Can you give a short summary about neuron?,neural network
+17,biological neuron?,neural network
+18,What is  biological neuron?,neural network
+19,Tell me about biological  neuron?,neural network
+20,What do you know about biological  neuron?,neural network
+21,Do you know about biological  neuron?,neural network
+22,What is the process of biological  neuron?,neural network
+23,How biological  neuron works ?,neural network
+24,Let me know about biological  neuron?,neural network
+25,What is biological neuron?,neural network
+26,What do you say about biological  neuron?,neural network
+27,What does biological  neuron mean?,neural network
+28,Explain biological  neuron?,neural network
+29,Define biological  neuron?,neural network
+30,Can you explain about biological  neuron?,neural network
+31,Can you say something about biological  neuron?,neural network
+32,Can you explain briefly about biological  neuron?,neural network
+33,Can you give a short summary about biological  neuron?human brain?,neural network
+34,What is human brain?,neural network
+35,Tell me about human brain?,neural network
+36,What do you know about human brain?,neural network
+37,Do you know about human brain?,neural network
+38,What is the process of human brain?,neural network
+39,How human brain works ?,neural network
+40,Let me know about human brain?,neural network
+41,What is human brain?,neural network
+42,What do you say about human brain?,neural network
+43,What does human brain mean?,neural network
+44,Explain human brain?,neural network
+45,Define human brain?,neural network
+46,Can you explain about human brain?,neural network
+47,Can you say something about human brain?,neural network
+48,Can you explain briefly about human brain?,neural network
+49,Can you give a short summary about human brain?,neural network
+50,neural network?,neural network
+51,What is neural network?,neural network
+52,Tell me about neural network?,neural network
+53,What do you know about neural network?,neural network
+54,Do you know about neural network?,neural network
+55,What is the process of neural network?,neural network
+56,How neural network works ?,neural network
+57,Let me know about neural network?,neural network
+58,What is neural network?,neural network
+59,What do you say about neural network?,neural network
+60,What does neural network mean?,neural network
+61,Explain neural network?,neural network
+62,Define neural network?,neural network
+63,Can you explain about neural network?,neural network
+64,Can you say something about neural network?,neural network
+65,Can you explain briefly about neural network?,neural network
+66,Can you give a short summary about neural network?,neural network
+67,human neural network ?,neural network
+68,What is human neural network?,neural network
+69,Tell me about human neural network?,neural network
+70,What do you know about human neural network?,neural network
+71,Do you know about human neural network?,neural network
+72,What is the process of human neural network?,neural network
+73,How human neural network works ?,neural network
+74,Let me know about human neural network?,neural network
+75,What is human neural network?,neural network
+76,What do you say about human neural network?,neural network
+77,What does human neural network mean?,neural network
+78,Explain human neural network?,neural network
+79,Define human neural network?,neural network
+80,Can you explain about human neural network?,neural network
+81,Can you say something about human neural network?,neural network
+82,Can you explain briefly about human neural network?,neural network
+83,Can you give a short summary about human neural network?,neural network
+84,artificial neural network?,neural network
+85,What is artificial neural network?,neural network
+86,Tell me about artificial neural network?,neural network
+87,What do you know about artificial neural network?,neural network
+88,Do you know about artificial neural network?,neural network
+89,What is the process of artificial neural network?,neural network
+90,How artificial neural network works ?,neural network
+91,Let me know about artificial neural network?,neural network
+92,What is artificial neural network?,neural network
+93,What do you say about artificial neural network?,neural network
+94,What does artificial neural network mean?,neural network
+95,Explain artificial neural network?,neural network
+96,Define artificial neural network?,neural network
+97,Can you explain about artificial neural network?,neural network
+98,Can you say something about artificial neural network?,neural network
+99,Can you explain briefly about artificial neural network?,neural network
+100,Can you give a short summary about artificial neural network?,neural network
+101,What is ANN?,neural network
+102,Tell me about ANN?,neural network
+103,What do you know about ANN?,neural network
+104,Do you know about ANN?,neural network
+105,What is the process of ANN?,neural network
+106,How ANN works ?,neural network
+107,Let me know about ANN?,neural network
+108,What is ANN?,neural network
+109,What do you say about ANN?,neural network
+110,What does ANN mean?,neural network
+111,Explain ANN?,neural network
+112,Define ANN?,neural network
+113,Can you explain about ANN?,neural network
+114,Can you say something about ANN?,neural network
+115,Can you explain briefly about ANN?,neural network
+116,Can you give a short summary about ANN?,neural network
+117,artificial neuron ?,neural network
+118,What is artificial neuron?,neural network
+119,Tell me about artificial neuron?,neural network
+120,What do you know about artificial neuron?,neural network
+121,Do you know about artificial neuron?,neural network
+122,What is the process of artificial neuron?,neural network
+123,How artificial neuron works ?,neural network
+124,Let me know about artificial neuron?,neural network
+125,What is artificial neuron?,neural network
+126,What do you say about artificial neuron?,neural network
+127,What does artificial neuron mean?,neural network
+128,Explain artificial neuron?,neural network
+129,Define artificial neuron?,neural network
+130,Can you explain about artificial neuron?,neural network
+131,Can you say something about artificial neuron?,neural network
+132,Can you explain briefly about artificial neuron?,neural network
+133,Can you give a short summary about artificial neuron?preceptron?,neural network
+134,What is preceptron?,neural network
+135,Tell me about preceptron?,neural network
+136,What do you know about preceptron?,neural network
+137,Do you know about preceptron?,neural network
+138,What is the process of preceptron?,neural network
+139,How preceptron works ?,neural network
+140,Let me know about preceptron?,neural network
+141,What is preceptron?,neural network
+142,What do you say about preceptron?,neural network
+143,What does preceptron mean?,neural network
+144,Explain preceptron?,neural network
+145,Define preceptron?,neural network
+146,Can you explain about preceptron?,neural network
+147,Can you say something about preceptron?,neural network
+148,Can you explain briefly about preceptron?,neural network
+149,Can you give a short summary about preceptron?,neural network
+150,neural layer?,neural network
+151,What is neural layer?,neural network
+152,Tell me about neural layer?,neural network
+153,What do you know about neural layer?,neural network
+154,Do you know about neural layer?,neural network
+155,What is the process of neural layer?,neural network
+156,How neural layer works ?,neural network
+157,Let me know about neural layer?,neural network
+158,What is neural layer?,neural network
+159,What do you say about neural layer?,neural network
+160,What does neural layer mean?,neural network
+161,Explain neural layer?,neural network
+162,Define neural layer?,neural network
+163,Can you explain about neural layer?,neural network
+164,Can you say something about neural layer?,neural network
+165,Can you explain briefly about neural layer?,neural network
+166,Can you give a short summary about neural layer?,neural network
+167, activation function ?,neural network
+168,What is activation function?,neural network
+169,Tell me about activation function?,neural network
+170,What do you know about activation function?,neural network
+171,Do you know about activation function?,neural network
+172,What is the process of activation function?,neural network
+173,How activation function works ?,neural network
+174,Let me know about activation function?,neural network
+175,What is activation function?,neural network
+176,What do you say about activation function?,neural network
+177,What does activation function mean?,neural network
+178,Explain activation function?,neural network
+179,Define activation function?,neural network
+180,Can you explain about activation function?,neural network
+181,Can you say something about activation function?,neural network
+182,Can you explain briefly about activation function?,neural network
+183,Can you give a short summary about activation function?  weight?,neural network
+184,What is weight?,neural network
+185,Tell me about weight?,neural network
+186,What do you know about weight?,neural network
+187,Do you know about weight?,neural network
+188,What is the process of weight?,neural network
+189,How weight works ?,neural network
+190,Let me know about weight?,neural network
+191,What is weight?,neural network
+192,What do you say about weight?,neural network
+193,What does weight mean?,neural network
+194,Explain weight?,neural network
+195,Define weight?,neural network
+196,Can you explain about weight?,neural network
+197,Can you say something about weight?,neural network
+198,Can you explain briefly about weight?,neural network
+199,Can you give a short summary about weight?,neural network
+200,  input layer?,neural network
+201,What is input layer?,neural network
+202,Tell me about input layer?,neural network
+203,What do you know about input layer?,neural network
+204,Do you know about input layer?,neural network
+205,What is the process of input layer?,neural network
+206,How input layer works ?,neural network
+207,Let me know about input layer?,neural network
+208,What is input layer?,neural network
+209,What do you say about input layer?,neural network
+210,What does input layer mean?,neural network
+211,Explain input layer?,neural network
+212,Define input layer?,neural network
+213,Can you explain about input layer?,neural network
+214,Can you say something about input layer?,neural network
+215,Can you explain briefly about input layer?,neural network
+216,Can you give a short summary about input layer?  linear activation function?,neural network
+217,What is linear activation function?,neural network
+218,Tell me about linear activation function?,neural network
+219,What do you know about linear activation function?,neural network
+220,Do you know about linear activation function?,neural network
+221,What is the process of linear activation function?,neural network
+222,How linear activation function works ?,neural network
+223,About linear activation function?,neural network
+224,Let me know about linear activation function?,neural network
+225,What is linear activation function?,neural network
+226,What do you say about linear activation function?,neural network
+227,What does linear activation functionmean?,neural network
+228,Explain linear activation function?,neural network
+229,Define linear activation function?,neural network
+230,Can you explain about linear activation function?,neural network
+231,Can you say something about linear activation function?,neural network
+232,Can you explain briefly about linear activation function?,neural network
+233,Can you give a short summary about linear activation function? hyperbolic tangent activation function ?,neural network
+234,What is hyperbolic tangent activation function?,neural network
+235,Tell me about hyperbolic tangent activation function?,neural network
+236,What do you know about hyperbolic tangent activation function?,neural network
+237,Do you know about hyperbolic tangent activation function?,neural network
+238,What is the process of hyperbolic tangent activation function?,neural network
+239,How hyperbolic tangent activation function works ?,neural network
+240,About hyperbolic tangent activation function?,neural network
+241,Let me know about hyperbolic tangent activation function?,neural network
+242,What is hyperbolic tangent activation function?,neural network
+243,What do you say about hyperbolic tangent activation function?,neural network
+244,What does hyperbolic tangent activation functionmean?,neural network
+245,Explain hyperbolic tangent activation function?,neural network
+246,Define hyperbolic tangent activation function?,neural network
+247,Can you explain about hyperbolic tangent activation function?,neural network
+248,Can you say something about hyperbolic tangent activation function?,neural network
+249,Can you explain briefly about hyperbolic tangent activation function?,neural network
+250,Can you give a short summary about hyperbolic tangent activation function?,neural network
+251,  gaussian activation function??,neural network
+252,What is gaussian activation function?,neural network
+253,Tell me about gaussian activation function?,neural network
+254,What do you know about gaussian activation function?,neural network
+255,Do you know about gaussian activation function?,neural network
+256,What is the process of gaussian activation function?,neural network
+257,How gaussian activation function works ?,neural network
+258,About gaussian activation function?,neural network
+259,Let me know about gaussian activation function?,neural network
+260,What is gaussian activation function?,neural network
+261,What do you say about gaussian activation function?,neural network
+262,What does gaussian activation functionmean?,neural network
+263,Explain gaussian activation function?,neural network
+264,Define gaussian activation function?,neural network
+265,Can you explain about gaussian activation function?,neural network
+266,Can you say something about gaussian activation function?,neural network
+267,Can you explain briefly about gaussian activation function?,neural network
+268,Can you give a short summary about gaussian activation function?,neural network
+269,Relu?,neural network
+270,What is Relu?,neural network
+271,Tell me about Relu?,neural network
+272,What do you know about Relu?,neural network
+273,Do you know about Relu?,neural network
+274,What is the process of Relu?,neural network
+275,How Relu works ?,neural network
+276,About Relu?,neural network
+277,Let me know about Relu?,neural network
+278,What is Relu?,neural network
+279,What do you say about Relu?,neural network
+280,What does Relumean?,neural network
+281,Explain Relu?,neural network
+282,Define Relu?,neural network
+283,Can you explain about Relu?,neural network
+284,Can you say something about Relu?,neural network
+285,Can you explain briefly about Relu?,neural network
+286,Can you give a short summary about Relu?,neural network
+287, output layer ?,neural network
+288,What is output layer?,neural network
+289,Tell me about output layer?,neural network
+290,What do you know about output layer?,neural network
+291,Do you know about output layer?,neural network
+292,What is the process of output layer?,neural network
+293,How output layer works ?,neural network
+294,About output layer?,neural network
+295,Let me know about output layer?,neural network
+296,What is output layer?,neural network
+297,What do you say about output layer?,neural network
+298,What does output layermean?,neural network
+299,Explain output layer?,neural network
+300,Define output layer?,neural network
+301,Can you explain about output layer?,neural network
+302,Can you say something about output layer?,neural network
+303,Can you explain briefly about output layer?,neural network
+304,Can you give a short summary about output layer?,neural network
+305,hidden layer?,neural network
+306,What is hidden layer?,neural network
+307,Tell me about hidden layer?,neural network
+308,What do you know about hidden layer?,neural network
+309,Do you know about hidden layer?,neural network
+310,What is the process of hidden layer?,neural network
+311,How hidden layer works ?,neural network
+312,About hidden layer?,neural network
+313,Let me know about hidden layer?,neural network
+314,What is hidden layer?,neural network
+315,What do you say about hidden layer?,neural network
+316,What does hidden layermean?,neural network
+317,Explain hidden layer?,neural network
+318,Define hidden layer?,neural network
+319,Can you explain about hidden layer?,neural network
+320,Can you say something about hidden layer?,neural network
+321,Can you explain briefly about hidden layer?,neural network
+322,Can you give a short summary about hidden layer?  ,neural network
+323, key characteristics of neural network ?,neural network
+324,What is key characteristics of neural network?,neural network
+325,Tell me about key characteristics of neural network?,neural network
+326,What do you know about key characteristics of neural network?,neural network
+327,Do you know about key characteristics of neural network?,neural network
+328,What is the process of key characteristics of neural network?,neural network
+329,How key characteristics of neural network works ?,neural network
+330,About key characteristics of neural network?,neural network
+331,Let me know about key characteristics of neural network?,neural network
+332,What is key characteristics of neural network?,neural network
+333,What do you say about key characteristics of neural network?,neural network
+334,What does key characteristics of neural networkmean?,neural network
+335,Explain key characteristics of neural network?,neural network
+336,Define key characteristics of neural network?,neural network
+337,Can you explain about key characteristics of neural network?,neural network
+338,Can you say something about key characteristics of neural network?,neural network
+339,Can you explain briefly about key characteristics of neural network?,neural network
+340,Can you give a short summary about key characteristics of neural network?,neural network
+341, single layer network ?,neural network
+342,What is single layer network?,neural network
+343,Tell me about single layer network?,neural network
+344,What do you know about single layer network?,neural network
+345,Do you know about single layer network?,neural network
+346,What is the process of single layer network?,neural network
+347,How single layer network works ?,neural network
+348,About single layer network?,neural network
+349,Let me know about single layer network?,neural network
+350,What is single layer network?,neural network
+351,What do you say about single layer network?,neural network
+352,What does single layer networkmean?,neural network
+353,Explain single layer network?,neural network
+354,Define single layer network?,neural network
+355,Can you explain about single layer network?,neural network
+356,Can you say something about single layer network?,neural network
+357,Can you explain briefly about single layer network?,neural network
+358,Can you give a short summary about single layer network?,neural network
+359,  Binary Step Function ?,neural network
+360,What is Binary Step Function?,neural network
+361,Tell me about Binary Step Function?,neural network
+362,What do you know about Binary Step Function?,neural network
+363,Do you know about Binary Step Function?,neural network
+364,What is the process of Binary Step Function?,neural network
+365,How Binary Step Function works ?,neural network
+366,Let me know about Binary Step Function?,neural network
+367,What do you say about Binary Step Function?,neural network
+368,What does Binary Step Function mean?,neural network
+369,Explain Binary Step Function?,neural network
+370,Define Binary Step Function?,neural network
+371,Can you explain about Binary Step Function?,neural network
+372,Can you say something about Binary Step Function?,neural network
+373,Can you explain briefly about Binary Step Function?,neural network
+374,Can you give a short summary about Binary Step Function? Sigmoid activation function ?,neural network
+375,What is Sigmoid activation function?,neural network
+376,Tell me about Sigmoid activation function?,neural network
+377,What do you know about Sigmoid activation function?,neural network
+378,Do you know about Sigmoid activation function?,neural network
+379,What is the process of Sigmoid activation function?,neural network
+380,How Sigmoid activation function works ?,neural network
+381,Let me know about Sigmoid activation function?,neural network
+382,What do you say about Sigmoid activation function?,neural network
+383,What does Sigmoid activation function mean?,neural network
+384,Explain Sigmoid activation function?,neural network
+385,Define Sigmoid activation function?,neural network
+386,Can you explain about Sigmoid activation function?,neural network
+387,Can you say something about Sigmoid activation function?,neural network
+388,Can you explain briefly about Sigmoid activation function?,neural network
+389,Can you give a short summary about Sigmoid activation function? Logistic activation function ?,neural network
+390,What is Logistic activation function?,neural network
+391,Tell me about Logistic activation function?,neural network
+392,What do you know about Logistic activation function?,neural network
+393,Do you know about Logistic activation function?,neural network
+394,What is the process of Logistic activation function?,neural network
+395,How Logistic activation function works ?,neural network
+396,Let me know about Logistic activation function?,neural network
+397,What do you say about Logistic activation function?,neural network
+398,What does Logistic activation function mean?,neural network
+399,Explain Logistic activation function?,neural network
+400,Define Logistic activation function?,neural network
+401,Can you explain about Logistic activation function?,neural network
+402,Can you say something about Logistic activation function?,neural network
+403,Can you explain briefly about Logistic activation function?,neural network
+404,Can you give a short summary about Logistic activation function?,neural network
+405, Softmax activation function ?,neural network
+406,What is Softmax activation function?,neural network
+407,Tell me about Softmax activation function?,neural network
+408,What do you know about Softmax activation function?,neural network
+409,Do you know about Softmax activation function?,neural network
+410,What is the process of Softmax activation function?,neural network
+411,How Softmax activation function works ?,neural network
+412,Let me know about Softmax activation function?,neural network
+413,What do you say about Softmax activation function?,neural network
+414,What does Softmax activation function mean?,neural network
+415,Explain Softmax activation function?,neural network
+416,Define Softmax activation function?,neural network
+417,Can you explain about Softmax activation function?,neural network
+418,Can you say something about Softmax activation function?,neural network
+419,Can you explain briefly about Softmax activation function?,neural network
+420,Can you give a short summary about Softmax activation function?,neural network
+421,multiple layer network ?,neural network
+422,What is multiple layer network?,neural network
+423,Tell me about multiple layer network?,neural network
+424,What do you know about multiple layer network?,neural network
+425,Do you know about multiple layer network?,neural network
+426,What is the process of multiple layer network?,neural network
+427,How multiple layer network works ?,neural network
+428,About multiple layer network?,neural network
+429,Let me know about multiple layer network?,neural network
+430,What is multiple layer network?,neural network
+431,What do you say about multiple layer network?,neural network
+432,What does multiple layer networkmean?,neural network
+433,Explain multiple layer network?,neural network
+434,Define multiple layer network?,neural network
+435,Can you explain about multiple layer network?,neural network
+436,Can you say something about multiple layer network?,neural network
+437,Can you explain briefly about multiple layer network?,neural network
+438,Can you give a short summary about multiple layer network?,neural network
+439, feed forward network ?,neural network
+440,What is feed forward network?,neural network
+441,Tell me about feed forward network?,neural network
+442,What do you know about feed forward network?,neural network
+443,Do you know about feed forward network?,neural network
+444,What is the process of feed forward network?,neural network
+445,How feed forward network works ?,neural network
+446,About feed forward network?,neural network
+447,Let me know about feed forward network?,neural network
+448,What is feed forward network?,neural network
+449,What do you say about feed forward network?,neural network
+450,What does feed forward networkmean?,neural network
+451,Explain feed forward network?,neural network
+452,Define feed forward network?,neural network
+453,Can you explain about feed forward network?,neural network
+454,Can you say something about feed forward network?,neural network
+455,Can you explain briefly about feed forward network?,neural network
+456,Can you give a short summary about feed forward network?,neural network
+457, back propagation ?,neural network
+458,What is back propagation?,neural network
+459,Tell me about back propagation?,neural network
+460,What do you know about back propagation?,neural network
+461,Do you know about back propagation?,neural network
+462,What is the process of back propagation?,neural network
+463,How back propagation works ?,neural network
+464,About back propagation?,neural network
+465,Let me know about back propagation?,neural network
+466,What is back propagation?,neural network
+467,What do you say about back propagation?,neural network
+468,What does back propagationmean?,neural network
+469,Explain back propagation?,neural network
+470,Define back propagation?,neural network
+471,Can you explain about back propagation?,neural network
+472,Can you say something about back propagation?,neural network
+473,Can you explain briefly about back propagation?,neural network
+474,Can you give a short summary about back propagation?bias value  ?,neural network
+475,What is bias value?,neural network
+476,Tell me about bias value?,neural network
+477,What do you know about bias value?,neural network
+478,Do you know about bias value?,neural network
+479,What is the process of bias value?,neural network
+480,How bias value works ?,neural network
+481,About bias value?,neural network
+482,Let me know about bias value?,neural network
+483,What is bias value?,neural network
+484,What do you say about bias value?,neural network
+485,What does bias valuemean?,neural network
+486,Explain bias value?,neural network
+487,Define bias value?,neural network
+488,Can you explain about bias value?,neural network
+489,Can you say something about bias value?,neural network
+490,Can you explain briefly about bias value?,neural network
+491,Can you give a short summary about bias value?,neural network
+492, normalize ?,neural network
+493,What is normalize?,neural network
+494,Tell me about normalize?,neural network
+495,What do you know about normalize?,neural network
+496,Do you know about normalize?,neural network
+497,What is the process of normalize?,neural network
+498,How normalize works ?,neural network
+499,About normalize?,neural network
+500,Let me know about normalize?,neural network
+501,What is normalize?,neural network
+502,What do you say about normalize?,neural network
+503,What does normalizemean?,neural network
+504,Explain normalize?,neural network
+505,Define normalize?,neural network
+506,Can you explain about normalize?,neural network
+507,Can you say something about normalize?,neural network
+508,Can you explain briefly about normalize?,neural network
+509,Can you give a short summary about normalize? difference between feed propagation and back propagation ?,neural network
+510,what is the primary difference between feed propagation and back propagation?,neural network
+511,How feed propagation is differ from back propagation?,neural network
+512,Tell me about feed propagation and back propagation?,neural network
+513,What do you know about feed propagation and back propagation?,neural network
+514,Do you know about feed propagation and back propagation?,neural network
+515,distinguish between feed propagation and back propagation?,neural network
+516,mention some differences between feed propagation and back propagation?,neural network
+517,what are main difeferences between  feed propagation and back propagation?,neural network
+518,tell me some differences between feed propagation and back propagation?,neural network
+519,list out some differences betwen feed propagation and back propagation?,neural network
+520,what is difference between feed propagation and back propagation?,neural network
+521,what is difference between feed propagation and back propagation?,neural network
+522,Differentiate between feed propagation and back propagation?,neural network
+523,comparison between feed propagation and back propagation? types of activation functions ?,neural network
+524,What are types of activation functions?,neural network
+525,Tell me types of activation functions?,neural network
+526,Do you know types of  activation functions?,neural network
+527,Types of  activation functions?,neural network
+528,Different types of  activation functions?,neural network
+529,What are the different types of activation functions?,neural network
+530,how many types of activation functions are there?,neural network
+531,What are the important types of activation functions?,neural network
+532,list out different types of activation functions?,neural network
+533,what are the various types of activation functions?,neural network
+534,list out various types of activation functions?,neural network
+535,mention some activation functionsmethods?,neural network
+536,say different activation functionsmethods?,neural network
+537,do you know the various types of activation functions? types of neural layer ?,neural network
+538,What are types of neural layer?,neural network
+539,Tell me types of neural layer?,neural network
+540,Do you know types of  neural layer?,neural network
+541,Types of  neural layer?,neural network
+542,Different types of  neural layer?,neural network
+543,What are the different types of neural layer?,neural network
+544,how many types of neural layer are there?,neural network
+545,What are the important types of neural layer?,neural network
+546,list out different types of neural layer?,neural network
+547,what are the various types of neural layer?,neural network
+548,list out various types of neural layer?,neural network
+549,mention some neural layermethods?,neural network
+550,say different neural layermethods?,neural network
+551,do you know the various types of neural layer?,neural network
+552,  Use of neural network?,neural network
+553,Where can neural network be used?,neural network
+554,Uses of neural network ?,neural network
+555,Main Uses of neural network ?,neural network
+556,what are the Uses of neural network ?,neural network
+557,where do we use neural network ?,neural network
+558,tell me some uses of neural network ?,neural network
+559,list out some Uses of neural network ?,neural network
+560,what is the use of neural network ?,neural network
+561,where is neural network Uses?,neural network
+562,list me few uses of neural network ?,neural network
+563,what are the real time examples of neural network ?,neural network
+564,list some examples of neural network ?,neural network
+565, Use of artificial neural network ?,neural network
+566,Where can artificial neural network be used?,neural network
+567,Uses of artificial neural network ?,neural network
+568,Main Uses of artificial neural network ?,neural network
+569,what are the Uses of artificial neural network ?,neural network
+570,where do we use artificial neural network ?,neural network
+571,tell me some uses of artificial neural network ?,neural network
+572,list out some Uses of artificial neural network ?,neural network
+573,what is the use of artificial neural network ?,neural network
+574,where is artificial neural network Uses?,neural network
+575,list me few uses of artificial neural network ?,neural network
+576,what are the real time examples of artificial neural network ?,neural network
+577,list some examples of artificial neural network ?,neural network
+578, Use of ANN ?,neural network
+579,Where can ANN be used?,neural network
+580,Uses of ANN ?,neural network
+581,Main Uses of ANN ?,neural network
+582,what are the Uses of ANN ?,neural network
+583,where do we use ANN ?,neural network
+584,tell me some uses of ANN ?,neural network
+585,list out some Uses of ANN ?,neural network
+586,what is the use of ANN ?,neural network
+587,where is ANN Uses?,neural network
+588,list me few uses of ANN ?,neural network
+589,what are the real time examples of ANN ?,neural network
+590,list some examples of ANN ?,neural network
+591,Use of activation function ?,neural network
+592,Where can activation function be used?,neural network
+593,Uses of activation function ?,neural network
+594,Main Uses of activation function ?,neural network
+595,what are the Uses of activation function ?,neural network
+596,where do we use activation function ?,neural network
+597,tell me some uses of activation function ?,neural network
+598,list out some Uses of activation function ?,neural network
+599,what is the use of activation function ?,neural network
+600,where is activation function Uses?,neural network
+601,list me few uses of activation function ?,neural network
+602,what are the real time examples of activation function ?,neural network
+603,list some examples of activation function ?Use of linear activation function  ?,neural network
+604,Where can linear activation function be used?,neural network
+605,Uses of linear activation function ?,neural network
+606,Main Uses of linear activation function ?,neural network
+607,what are the Uses of linear activation function ?,neural network
+608,where do we use linear activation function ?,neural network
+609,tell me some uses of linear activation function ?,neural network
+610,list out some Uses of linear activation function ?,neural network
+611,what is the use of linear activation function ?,neural network
+612,where is linear activation function Uses?,neural network
+613,list me few uses of linear activation function ?,neural network
+614,what are the real time examples of linear activation function ?,neural network
+615,list some examples of linear activation function ?,neural network
+616,  Use of hyperbolic tangent activation function?,neural network
+617,Where can hyperbolic tangent activation function be used?,neural network
+618,Uses of hyperbolic tangent activation function ?,neural network
+619,Main Uses of hyperbolic tangent activation function ?,neural network
+620,what are the Uses of hyperbolic tangent activation function ?,neural network
+621,where do we use hyperbolic tangent activation function ?,neural network
+622,tell me some uses of hyperbolic tangent activation function ?,neural network
+623,list out some Uses of hyperbolic tangent activation function ?,neural network
+624,what is the use of hyperbolic tangent activation function ?,neural network
+625,where is hyperbolic tangent activation function Uses?,neural network
+626,list me few uses of hyperbolic tangent activation function ?,neural network
+627,what are the real time examples of hyperbolic tangent activation function ?,neural network
+628,list some examples of hyperbolic tangent activation function ? Use of Relu activation function ?,neural network
+629,Where can Relu activation function be used?,neural network
+630,Uses of Relu activation function ?,neural network
+631,Main Uses of Relu activation function ?,neural network
+632,what are the Uses of Relu activation function ?,neural network
+633,where do we use Relu activation function ?,neural network
+634,tell me some uses of Relu activation function ?,neural network
+635,list out some Uses of Relu activation function ?,neural network
+636,what is the use of Relu activation function ?,neural network
+637,where is Relu activation function Uses?,neural network
+638,list me few uses of Relu activation function ?,neural network
+639,what are the real time examples of Relu activation function ?,neural network
+640,list some examples of Relu activation function ?,neural network
+641, Use of feed forward network ?,neural network
+642,Where can feed forward network be used?,neural network
+643,Uses of feed forward network ?,neural network
+644,Main Uses of feed forward network ?,neural network
+645,what are the Uses of feed forward network ?,neural network
+646,where do we use feed forward network ?,neural network
+647,tell me some uses of feed forward network ?,neural network
+648,list out some Uses of feed forward network ?,neural network
+649,what is the use of feed forward network ?,neural network
+650,where is feed forward network Uses?,neural network
+651,list me few uses of feed forward network ?,neural network
+652,what are the real time examples of feed forward network ?,neural network
+653,list some examples of feed forward network ?,neural network
+654,Use of back propagation  ?,neural network
+655,Where can back propagation be used?,neural network
+656,Uses of back propagation ?,neural network
+657,Main Uses of back propagation ?,neural network
+658,what are the Uses of back propagation ?,neural network
+659,where do we use back propagation ?,neural network
+660,tell me some uses of back propagation ?,neural network
+661,list out some Uses of back propagation ?,neural network
+662,what is the use of back propagation ?,neural network
+663,where is back propagation Uses?,neural network
+664,list me few uses of back propagation ?,neural network
+665,what are the real time examples of back propagation ?,neural network
+666,list some examples of back propagation ?,neural network
+667,advantages of neural network ?,neural network
+668,Main advantages of neural network ?,neural network
+669,what are the advantages of neural network ?,neural network
+670,tell me some advantages of neural network ?,neural network
+671,list out some advantages of neural network ?,neural network
+672,list me few advantages of neural network ?,neural network
+673,list some advantages of neural network ?,neural network
+674,Can you list out the advantages of neural network ?,neural network
+675,advantages of neural network ?,neural network
+676,List of advantages of neural network ?advantages of artificial neural network ?,neural network
+677,Main advantages of artificial neural network ?,neural network
+678,what are the advantages of artificial neural network ?,neural network
+679,tell me some advantages of artificial neural network ?,neural network
+680,list out some advantages of artificial neural network ?,neural network
+681,list me few advantages of artificial neural network ?,neural network
+682,list some advantages of artificial neural network ?,neural network
+683,Can you list out the advantages of artificial neural network ?,neural network
+684, advantages of artificial neural network ?,neural network
+685,List of advantages of artificial neural network ?   ,neural network
+686,advantages of ANN ?,neural network
+687,Main advantages of ANN ?,neural network
+688,what are the advantages of ANN ?,neural network
+689,tell me some advantages of ANN ?,neural network
+690,list out some advantages of ANN ?,neural network
+691,list me few advantages of ANN ?,neural network
+692,list some advantages of ANN ?,neural network
+693,Can you list out the advantages of ANN ?,neural network
+694, advantages of ANN ?,neural network
+695,List of advantages of ANN ?   ,neural network
+696,advantages of activation function ?,neural network
+697,Main advantages of activation function ?,neural network
+698,what are the advantages of activation function ?,neural network
+699,tell me some advantages of activation function ?,neural network
+700,list out some advantages of activation function ?,neural network
+701,list me few advantages of activation function ?,neural network
+702,list some advantages of activation function ?,neural network
+703,Can you list out the advantages of activation function ?,neural network
+704, advantages of activation function ?,neural network
+705,List of advantages of activation function ?advantages of Relu?,neural network
+706,advantages of Relu activation function ?,neural network
+707,Main advantages of Relu activation function ?,neural network
+708,what are the advantages of Relu activation function ?,neural network
+709,tell me some advantages of Relu activation function ?,neural network
+710,list out some advantages of Relu activation function ?,neural network
+711,list me few advantages of Relu activation function ?,neural network
+712,list some advantages of Relu activation function ?,neural network
+713,Can you list out the advantages of Relu activation function ?,neural network
+714,advantages of Relu activation function ?,neural network
+715,List of advantages of Relu activation function ?,neural network
+716,advantages of feed forward network ?,neural network
+717,Main advantages of feed forward network ?,neural network
+718,what are the advantages of feed forward network ?,neural network
+719,tell me some advantages of feed forward network ?,neural network
+720,list out some advantages of feed forward network ?,neural network
+721,list me few advantages of feed forward network ?,neural network
+722,list some advantages of feed forward network ?,neural network
+723,Can you list out the advantages of feed forward network ?,neural network
+724, advantages of feed forward network ?,neural network
+725,List of advantages of feed forward network ?advantages of back propagation ?,neural network
+726,Main advantages of back propagation ?,neural network
+727,what are the advantages of back propagation ?,neural network
+728,tell me some advantages of back propagation ?,neural network
+729,list out some advantages of back propagation ?,neural network
+730,list me few advantages of back propagation ?,neural network
+731,list some advantages of back propagation ?,neural network
+732,Can you list out the advantages of back propagation ?,neural network
+733, advantages of back propagation ?,neural network
+734,List of advantages of back propagation ?,neural network
+735,disadvantages of neural network ?,neural network
+736,Main disadvantages of neural network ?,neural network
+737,what are the disadvantages of neural network ?,neural network
+738,tell me some disadvantages of neural network ?,neural network
+739,list out some disadvantages of neural network ?,neural network
+740,list me few disadvantages of neural network ?,neural network
+741,list some disadvantages of neural network ?,neural network
+742,Can you list out the disadvantages of neural network ?,neural network
+743, disadvantages of neural network ?,neural network
+744,List of disadvantages of neural network ?disadvantages of artificial neural network ?,neural network
+745,Main disadvantages of artificial neural network ?,neural network
+746,what are the disadvantages of artificial neural network ?,neural network
+747,tell me some disadvantages of artificial neural network ?,neural network
+748,list out some disadvantages of artificial neural network ?,neural network
+749,list me few disadvantages of artificial neural network ?,neural network
+750,list some disadvantages of artificial neural network ?,neural network
+751,Can you list out the disadvantages of artificial neural network ?,neural network
+752, disadvantages of artificial neural network ?,neural network
+753,List of disadvantages of artificial neural network ?disadvantages of ANN ?,neural network
+754,Main disadvantages of ANN ?,neural network
+755,what are the disadvantages of ANN ?,neural network
+756,tell me some disadvantages of ANN ?,neural network
+757,list out some disadvantages of ANN ?,neural network
+758,list me few disadvantages of ANN ?,neural network
+759,list some disadvantages of ANN ?,neural network
+760,Can you list out the disadvantages of ANN ?,neural network
+761, disadvantages of ANN ?,neural network
+762,List of disadvantages of ANN ?,neural network
+763,disadvantages of feed forward network ?,neural network
+764,Main disadvantages of feed forward network ?,neural network
+765,what are the disadvantages of feed forward network ?,neural network
+766,tell me some disadvantages of feed forward network ?,neural network
+767,list out some disadvantages of feed forward network ?,neural network
+768,list me few disadvantages of feed forward network ?,neural network
+769,list some disadvantages of feed forward network ?,neural network
+770,Can you list out the disadvantages of feed forward network ?,neural network
+771, disadvantages of feed forward network ?,neural network
+772,List of disadvantages of feed forward network ?,neural network
+773,disadvantages of back propagation ?,neural network
+774,Main disadvantages of back propagation ?,neural network
+775,what are the disadvantages of back propagation ?,neural network
+776,tell me some disadvantages of back propagation ?,neural network
+777,list out some disadvantages of back propagation ?,neural network
+778,list me few disadvantages of back propagation ?,neural network
+779,list some disadvantages of back propagation ?,neural network
+780,Can you list out the disadvantages of back propagation ?,neural network
+781,disadvantages of back propagation ?,neural network
+782,List of disadvantages of back propagation ?,neural network

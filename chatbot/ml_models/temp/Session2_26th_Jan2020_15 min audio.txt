@@ -1,0 +1,168 @@
+Good afternoon.
+If anybody had heavy briani.
+Sorry.
+Nobody.
+If it is not too heavy, then fine, otherwise you will be coming, uh, fish, I'll have to become elephant.
+He sleeps by opening their eyes right elephant stanchions.
+I'll have to stand here and sleep.
+So no heavy lunches.
+Alright, so let's discuss why did we, uh, learn yesterday?
+Whatever topics that you remember, OK, just.
+Say them, I'll just keep recording.
+Better take an Excel Sheet and record that.
+All right?
+Yeah, So what other things do you remember?
+Stages of Analytics.
+This is scripted diagnostic.
+Is scripted diagnostic productive on next?
+Misunderstanding.
+Information.
+Yeah.
+Very good next.
+Because I.
+Types.
+Great.
+Can you sing?
+OK.
+Next
+oh measurement.
+Measurement types all levels yeah.
+Hobby.
+Random.
+Probably.
+Stop.
+Ramadan.
+And property distribution is classified into.
+Problem.
+Continuous property.
+Goodnight
+right, what else?
+Again, online nobody is speaking out. I can hear you guys if you can speak out on mute yourself and speak.
+Play.
+So my yourself.
+OK, sorry my bad.
+We mention statistiques.
+Sampling.
+Man here we take discussed about property or lots of orders unbiased.
+Find non properties. Lots of nice.
+I asked techniques.
+And I remember we have asked you people to come up at 5.
+Different techniques, yeah?
+Then
+OK, and by us I said This is already there, OK?
+
+OK, good.
+Sorry OK.
+Sorry.
+I'm not.
+If you actually look at this right unbiased sampling, you have various techniques.
+Yeah, we want to basically show the results which we want right and do in order to get that thing done. We can have a lot of medications.
+Hey.
+And What is this default one?
+That's not.
+Does the default. I think that we have looked OK.
+Then
+we talked about.
+Major.
+Here we calculate.
+I mean basically is nothing but.
+Of course mean or average. There's nothing like somebody.
+How is it represented? What is the symbol?
+Is your present as you are?
+Thanks for Xbox.
+X minus 40 sample news for the population.
+Media.
+Median is the middle most value of the ordered, Baker said.
+And more.
+Frequently.
+Motors, most frequently occurring.
+Now when we have mean, why should we go with median?
+Because of.
+Exactly, there might be outliers which are influencing the mean calculation. It influences the mean and pulls that mean towards that outline.
+Right, so will not be able to actually interpret the data from the centrality perspective, the concentration perspective, right? Hence we go with medium calibration.
+Right?
+Next we discussed about.
+Make yourself dispersion and here we call a Calculator.
+Range is nothing but the boundary which is given by.
+Variance?
+Known as Sigma.
+Square or square?
+Standard deviation is Sigma.
+How do I define Sigma square?
+Great job.
+Edit distances of each data point from its center right.
+And then there was a.
+Concept that we discussed as part of this radius cannabis. What was that?
+There is a difference between population calculation. 9 sample delegation. What was that?
+Degrees of freedom.
+Actually we have N minus one in the denominator for sample standard deviation unsampled agents.
+Like
+so these are the things that we discussed yesterday. The latest proceed.
+OK, talk about expected value.
+No, if you look at the name, what does it sound like? Expected value.
+How is it sounded?
+Yeah.
+What is expected value actually mean?
+No.
+You got, So what is the value that we can expect when we're doing it expand?
+OK, so for example, you're running a business like this.
+Thank you you're selling iPad in an electronics store.
+You want to.
+Guess what could be the overall value on an average if I'm doing this business, let's say for one year.
+Or for life now.
+Right, so that result is called as expected one.
+So definition wise, from the definition wise, expected value is nothing but average.
+So it is also known as average of probability distribution.
+It's also known as a weighted average.
+So to explain right, if you read this.
+It should basically give you some hint on what we're talking about.
+It refers to what one would find at the repeated the experiment and N number of times until the average of all those outcomes.
+Right, so to define that, try to explain that. Let's let's go to this example again.
+If you're running the same business everyday for infinite number of times.
+Right then you might want to guess it will this business fear overall fruitful business or not? If I'm running just for generations in general.
+Infinite number of times.
+So what we basically do is we check what is the daily seats.
+And then if you do average of all these daily sales for infinite number of beeps, then what is the number of units on an average that you're going to send?
+Is your expected one?
+Right, and it is basically calculated using probability distributions, probability values.
+The formula basically is summation of X into the office, where X is the event.
+Probability of that event. This P office.
+Right, so let me explain this.
+So if you come, you have this business OK.
+It's being run from generation.
+And you suddenly decided to wear data scientist you don't want to run this business, which is your family business. We felt that it's not going to be fruitful, so you decided to become a data scientist.
+No, but that decision, right? I mean, it cannot simply move.
+From your current business, do you like you have to actually evaluate whether it is going to be fruitful order? If I change the parts?
+Then am I going to make more money?
+That is something that we actually have to evaluate.
+Let's see.
+This is the.
+Data that we have right on every day. If I'm running this business, this is the amount of.
+Say that I'm going to.
+OK, this is the data.
+No, let's say you want to, uh, check what would be the average say.
+If you're doing this business for hundreds.
+I think if you can calculate that money I mean.
+Value then you can judge whether this is going to be more fruitful or changing your career of becoming a data scientist, right? So let us try and analyze it for hundreds. I'm just trying to create a story here.
+Nobody wants to work.
+Best.
+Let's say I'm writing hundred days data here.
+I'm using Excel to just drive those dates. Number of leads for 100.
+No on every day.
+You want to track the seeds for these underdogs? OK? But if you look at this probability data, what does it say?
+What does it say?
+Probability of sales is given, right?
+So if you look at zero, yeah.
+40% Right Point Post. That means out of 100 days 40 days I will have no sex.
+So it could be random like this. OK, this 100 days could be like this.
+Well, I think you might have seen windowsills. Second, it could be 4 sales, two sales reasons like this. It could be random.
+But for calculation purposes I'm writing first 40 days as a 0.
+OK, just for calculation purposes.
+Then
+25% one iPad see that means 25 days order hundreds, right?
+Similarly, you'll have 20 days Fridays at 10 *****.
+Yeah.
+So is this clear what I'm trying to do here? Everyone any questions? Anyone has any doubts in this?
+No right, so I'm trying to record 100 days sales here OK?
+No, what would I get?
+Right, if this probabilities if I'm doing the business.

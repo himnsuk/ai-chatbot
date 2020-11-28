@@ -1,0 +1,8 @@
+textarea {
+  resize: none;
+}
+
+.excluded-tags-box, .included-tags-box {
+  max-height: 300px;
+  overflow: auto;
+}

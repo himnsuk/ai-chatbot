@@ -1,0 +1,403 @@
+line,question,question_type
+1,What is Naive Bayes algorithm?,naive baye
+2,Explain about Naive Bayes classifier,naive baye
+3,Explain about Naive Bayes algorithm,naive baye
+4,What do you mean by Naive Bayes classifier,naive baye
+5,Explain me about Naive Bayes algorithm,naive baye
+6,Explain me about Naive Bayes classifier,naive baye
+7,What is Naive Bayes classifier,naive baye
+8,Explain Naive Bayes,naive baye
+9,Define Naive Bayes,naive baye
+10,Tell me about Naive Bayes,naive baye
+11,What do you mean by Naive bayes algorithm,naive baye
+12,What does Naive Bayes mean?,naive baye
+13,What is Bayesian classifier?,naive baye
+14,How Navie Bayes algorithm works?,naive baye
+15,How Navie Bayes Classifier works?,naive baye
+16,How does Navie Bayes algorithm works?,naive baye
+17,How does Navie Bayes classifier works?,naive baye
+18,Explain about Navie Bayes working,naive baye
+19,Working principle of Naive Bayes algorithm,naive baye
+20,Explain about working of Naive Bayes algorithm,naive baye
+21,How does Naive Bayes work?,naive baye
+22,What are the Pros of Naive Bayes?,naive baye
+23,What are Naive Bayes Pros?,naive baye
+24,What are the Naive Bayes pros?,naive baye
+25,What is the Naive Bayes Pros?,naive baye
+26,What are the advantages of Naive Bayes?,naive baye
+27,What are the advantages of Naive Bayes algorithm?,naive baye
+28,What are the advantages of Naive Bayes classifier?,naive baye
+29,Advantages of Naive Bayes Classifier,naive baye
+30,Advantages of Naive Bayes algorithm,naive baye
+31,What are the cons of Naive Bayes?,naive baye
+32,What are Naive Bayes cons?,naive baye
+33,What are the Naive Bayes cons?,naive baye
+34,What is the Naive Bayes cons?,naive baye
+35,What are the disadvantages of Naive Bayes?,naive baye
+36,What are the disadvantages of Naive Bayes algorithm?,naive baye
+37,What are the disadvantages of Naive Bayes classifier?,naive baye
+38,Disadvantages of Naive Bayes Classifier,naive baye
+39,Disadvantages of Naive Bayes algorithm,naive baye
+40,what are the applications of Naive Bayes algorithm?,naive baye
+41,what are the applications of Naive Bayes classification?,naive baye
+42,what are the applications of Naive Bayes classifier?,naive baye
+43,where do we use Naive Bayes algorithm?,naive baye
+44,tell me some uses of Naive Bayes algorithm?,naive baye
+45,list out some appplications of Naive Bayes classifier?,naive baye
+46,what is the use of Naive Bayes classifier?,naive baye
+47,list me few uses of Naive Bayes?,naive baye
+48,list out some appplications of Naive Bayes algorithm?,naive baye
+49,where do we use Naive Bayes classifier?,naive baye
+50,what are the real time examples of Naive Bayes algorithm?,naive baye
+51,list some examples of Naive Bayes algorithm?,naive baye
+52,list some examples of Naive Bayes classifier?,naive baye
+53,What do you mean by Bayes theorm?,naive baye
+54,What does the Bayes theorm mean?,naive baye
+55,What do you mean by the theorm of Bayes?,naive baye
+56,What is the meaning of Bayes theorm?,naive baye
+57,What does Bayes theorm mean?,naive baye
+58,What is the sense of Bayes theorm?,naive baye
+59,Explain about Bayes theorm?,naive baye
+60,tell about Bayes Theorm,naive baye
+61,what is Bayes theormWhat is conditional probability?,naive baye
+62,Explain about conditional probability?,naive baye
+63,What does conditional probability mean?,naive baye
+64,What is meant by conditional probability?,naive baye
+65,Tell about conditional probability,naive baye
+66,What do you mean by conditional probability,naive baye
+67,Define conditional probability,naive baye
+68,What is Frequency table,naive baye
+69,How do you make a frequency table,naive baye
+70,What is ment by frequency table,naive baye
+71,explain about frequency table,naive baye
+72,What do you mean by frequency table,naive baye
+73,how to create a frequency table,naive baye
+74,what is probability,naive baye
+75,explain probability,naive baye
+76,define probability,naive baye
+77,what is ment by probability,naive baye
+78,what do you mean by probability,naive baye
+79,tell about probability,naive baye
+80,what does probability mean,naive baye
+81,what is probability of an event,naive baye
+82,explain probability of an event,naive baye
+83,What must the probability of all possible outcomes?,naive baye
+84,What is the likelihood of all possible outcomes?,naive baye
+85,likelihood of all possible outcomes?,naive baye
+86,probability of all possible outcomes?,naive baye
+87,outcome of all possible probabilities,naive baye
+88,what is the probability of all possible outcomes?how is an event related to its complement,naive baye
+89,relation between an event to its complement,naive baye
+90,explain the relation between an event to its complement,naive baye
+91,what is the relation between an event to its complement,naive baye
+92,relationship between an event to its complementWhat is complement of an event?,naive baye
+93,what do you mean by complement of an event,naive baye
+94,what does complement of an event mean?,naive baye
+95,define complement of an event,naive baye
+96,tell something about complement of an event,naive baye
+97,What is joint probability?,naive baye
+98,define joint probability,naive baye
+99,explain about joint probability,naive baye
+100,what do you mean by joint probability,naive baye
+101,what does joint probability mean,naive baye
+102,tell about joint probability,naive baye
+103,describe joint probability,naive baye
+104,meaning of joint probability,naive baye
+105,what is the joint probability for the independent events A ,naive baye
+106,explain about the joint probability for the independent events A ,naive baye
+107,describe joint probability for the independent events A ,naive baye
+108,joint probability for the independent events A,naive baye
+109,tell about joint probability of independent events A ,naive baye
+110,define joint probability for the independent events A ,naive baye
+111,what are independent events,naive baye
+112,explain about independent events,naive baye
+113,describe independent events,naive baye
+114,define independent events,naive baye
+115,what do you mean by independent happenings,naive baye
+116,what is ment independent happenings,naive baye
+117,define independent happenings,naive baye
+118,What is the formula for Conditional Probability?,naive baye
+119,formula for Conditional Probability?,naive baye
+120,What is Probability formula?,naive baye
+121,What is Probability formula?,naive baye
+122,What is Conditional Probability formula?,naive baye
+123,Conditional Probability formula?,naive baye
+124,What is the formula for Conditional Probability?,naive baye
+125,give the formula for Conditional Probability?,naive baye
+126,What is the relation between conditional probability and joint probability?,naive baye
+127,relation between conditional probability and joint probability,naive baye
+128,What is the relationship between conditional probability and joint probability?,naive baye
+129,conditional probability and joint probability relation,naive baye
+130,joint probability and conditional probability relation,naive baye
+131,relationship between joint probability and conditional probability,naive baye
+132,What is the baseline model used when there are number of features?,naive baye
+133,When there are a range of features what is the basic model used?,naive baye
+134,when there are number of features What is the baseline model used ?,naive baye
+135,If there are number of features what basic model you use?,naive baye
+136,When there are various features  what is the basic model used,naive baye
+137,What is the basic model used when a number of features are available?,naive baye
+138,Which model is used when there are multiple features?,naive baye
+139,What is the template used in the baseline when there are many features?,naive baye
+140,What is the library used in R for textmining?,naive baye
+141,What library does text mining use in R?,naive baye
+142,What is the text mining library used in R?,naive baye
+143,library used by textmining in R?,naive baye
+144,library in R for textmining?,naive baye
+145,library used in R for textmining?,naive baye
+146,What does the table function in R does?,naive baye
+147,functionality  of table function in R?,naive baye
+148,explain the functionality of table function in R?,naive baye
+149,What does the table function do in R?,naive baye
+150,in R what does a table function do?What does the prop.table function in R does?,naive baye
+151,prop.table function in R?,naive baye
+152,functionality of prop.table function in R?,naive baye
+153,What does the prop.table function do in R?,naive baye
+154,In R What does prop.table function do?,naive baye
+155,explain the functionality of prop.table function in R,naive baye
+156,which library in R has naive bayes function?,naive baye
+157,library in R which has naive bayes function?,naive baye
+158,naive bayes function is present in which library in R?,naive baye
+159,which library consists naive bayes function in R?,naive baye
+160,where does naive bayes function in R present?,naive baye
+161,give the library which has naive bayes in Rwhat is ment by conditional independence in naive bayes,naive baye
+162,what is ment by conditional independence,naive baye
+163,define conditional independence,naive baye
+164,define conditional independence,naive baye
+165,explain about conditional independence,naive baye
+166,tell me about conditional independence,naive baye
+167,what does  conditional independence mean,naive baye
+168,what is conditional independence,naive baye
+169,what is conditional independencewhat is ment by simple independence in naive bayes,naive baye
+170,what is ment by simple independence,naive baye
+171,define simple independence,naive baye
+172,define simple independence,naive baye
+173,explain about simple independence,naive baye
+174,tell me about simple independence,naive baye
+175,what does  simple independence mean,naive baye
+176,what is simple independence,naive baye
+177,what is simple independence,naive baye
+178,what is ment by class prior,naive baye
+179,what is ment by data prior,naive baye
+180,what is ment by prior,naive baye
+181,define prior probability,naive baye
+182,define class prior,naive baye
+183,explain about class prior,naive baye
+184,tell me about class prior,naive baye
+185,what does class prior mean,naive baye
+186,what is class prior probability,naive baye
+187,what is data prior probabilitywhat are the varibales,naive baye
+188,what is ment by varibales,naive baye
+189,what is ment by varibales,naive baye
+190,define varibales,naive baye
+191,explain about varibales,naive baye
+192,tell me about varibales,naive baye
+193,what does varibales mean,naive baye
+194,what is class varibalesWhat is posterior probability,naive baye
+195,define posterior probability,naive baye
+196,explain about posterior probability,naive baye
+197,what does posterior probability mean,naive baye
+198,what is ment by posterior probability,naive baye
+199,what do you mean by posterior probability,naive baye
+200,tell about posterior probabilitywhat is Corpus,naive baye
+201,explain about Corpus,naive baye
+202,define Corpus,naive baye
+203,what is ment by Corpus in naive bayes,naive baye
+204,what do you mean by Corpus,naive baye
+205,tell about Corpus,naive baye
+206,what does Corpus mean,naive baye
+207,What are the types of Naive Bayes model,naive baye
+208,Are there any types of naive bayes model,naive baye
+209,how many types of Naive Bayes model are there?,naive baye
+210,describe the types of Naive Bayes model,naive baye
+211,describe the different types of Naive Bayes model,naive baye
+212,Are there any models of Naive Bayes? If Yes  What are they?What is Gaussian Naive baye,naive baye
+213,How does Gaussian Naive bayes work,naive baye
+214,How does normal distribution Naive bayes work,naive baye
+215,explain about Gaussian Naive bayes,naive baye
+216,What does Gaussian Naive bayes do?,naive baye
+217,explain the principle of Gaussian Naive bayes,naive baye
+218,tell about Gaussian Naive bayes,naive baye
+219,describe briefly about Gaussian Naive bayes,naive baye
+220,describe Gaussian Naive bayes,naive baye
+221,What Gaussian distribution Naive bayes,naive baye
+222,summary about Gaussian Naive bayes,naive baye
+223,What is multinomial Naive Bayes,naive baye
+224,how does multinomial Naive Bayes work,naive baye
+225,explain about multinomial Naive Bayes,naive baye
+226,what does multinomial Naive Bayes do?,naive baye
+227,tell about multinomial Naive Bayes,naive baye
+228,describe multinomial Naive Bayes,naive baye
+229,explain the summary about multinomial Naive Bayes,naive baye
+230,summary about multinomial Naive Bayes,naive baye
+231,can you tell about multinomial Naive Bayes,naive baye
+232,explain multinomial Naive Bayes,naive baye
+233,do you know about multinomial Naive Bayes,naive baye
+234,what is bernoulli Naive Bayes,naive baye
+235,how does bernoulli Naive Bayes works?,naive baye
+236,explain about bernoulli Naive Bayes,naive baye
+237,Summary about bernoulli Naive Bayes,naive baye
+238,What does bernoulli Naive Bayes do?,naive baye
+239,describe about bernoulli Naive Bayes,naive baye
+240,explain the summary about bernoulli Naive Bayes,naive baye
+241,explain the summary of bernoulli Naive Bayes,naive baye
+242,do you know about bernoulli Naive Bayes,naive baye
+243,can you tell about bernoulli Naive Bayes,naive baye
+244,tell about bernoulli Naive Bayes,naive baye
+245,explain bernoulli Naive Bayes,naive baye
+246,Is naive bayes linear,naive baye
+247,Is naive bayes linear or not,naive baye
+248,Is naive bayes linear or non-linear,naive baye
+249,Is naive bayes non-linear,naive baye
+250,Is it non-linear with naive bayes,naive baye
+251,naive bayes is non-linear or not,naive baye
+252,naive bayes is linear or non-linearIs naive bayes supervised or unsupervised,naive baye
+253,Is naive bayes unsupervised or supervised,naive baye
+254,does Naive bayes belong to supervised or unsupervised,naive baye
+255,does Naive bayes belong to unsupervised or supervised,naive baye
+256,Naive bayes is supervised or unsupervised,naive baye
+257,Naive bayes is unsupervised or supervised,naive baye
+258,to which category does Naive bayes belong unsupervised or supervised?,naive baye
+259,to which category does Naive bayes belong supervised or unsupervised?,naive baye
+260,What is confusion matrix?,naive baye
+261,Tell me about confusion matrix?,naive baye
+262,What do you know about confusion matrix?,naive baye
+263,Do you know about confusion matrix?,naive baye
+264,What is the process of confusion matrix?,naive baye
+265,How confusion matrix works ?,naive baye
+266,Tell me confusion matrix?,naive baye
+267,About confusion matrix?,naive baye
+268,Let me know about confusion matrix?,naive baye
+269,What do you say about confusion matrix?,naive baye
+270,What does confusion matrix mean?,naive baye
+271,Explain confusion matrix?,naive baye
+272,Define confusion matrix?,naive baye
+273,Can you explain about confusion matrix?,naive baye
+274,Can you say something about confusion matrix?,naive baye
+275,Can you explain briefly about confusion matrix?,naive baye
+276,Can you give a short summary about confusion matrix?,naive baye
+277,What is heat map?,naive baye
+278,Tell me about heat map?,naive baye
+279,What do you know about heat map?,naive baye
+280,Do you know about heat map?,naive baye
+281,What is the process of heat map?,naive baye
+282,How heat map works ?,naive baye
+283,Tell me heat map?,naive baye
+284,About heat map?,naive baye
+285,Let me know about heat map?,naive baye
+286,What do you say about heat map?,naive baye
+287,What does heat map mean?,naive baye
+288,Explain heat map?,naive baye
+289,Define heat map?,naive baye
+290,Can you explain about heat map?,naive baye
+291,Can you say something about heat map?,naive baye
+292,Can you explain briefly about heat map?,naive baye
+293,Can you give a short summary about heat map?What is supervised learning?,naive baye
+294,Tell me about supervised learning?,naive baye
+295,What do you know about supervised learning?,naive baye
+296,Do you know about supervised learning?,naive baye
+297,What is the process of supervised learning?,naive baye
+298,How supervised learning works ?,naive baye
+299,Tell me supervised learning?,naive baye
+300,About supervised learning?,naive baye
+301,Let me know about supervised learning?,naive baye
+302,What do you say about supervised learning?,naive baye
+303,What does supervised learning mean?,naive baye
+304,Explain supervised learning?,naive baye
+305,Define supervised learning?,naive baye
+306,Can you explain about supervised learning?,naive baye
+307,Can you say something about supervised learning?,naive baye
+308,Can you explain briefly about supervised learning?,naive baye
+309,Can you give a short summary about supervised learning?What is unsupervised learning?,naive baye
+310,Tell me about unsupervised learning?,naive baye
+311,What do you know about unsupervised learning?,naive baye
+312,Do you know about unsupervised learning?,naive baye
+313,What is the process of unsupervised learning?,naive baye
+314,How unsupervised learning works ?,naive baye
+315,Tell me unsupervised learning?,naive baye
+316,About unsupervised learning?,naive baye
+317,Let me know about unsupervised learning?,naive baye
+318,What do you say about unsupervised learning?,naive baye
+319,What does unsupervised learning mean?,naive baye
+320,Explain unsupervised learning?,naive baye
+321,Define unsupervised learning?,naive baye
+322,Can you explain about unsupervised learning?,naive baye
+323,Can you say something about unsupervised learning?,naive baye
+324,Can you explain briefly about unsupervised learning?,naive baye
+325,Can you give a short summary about unsupervised learning?,naive baye
+326,What is Corpus cleaning,naive baye
+327,Why do we perform corpus cleaning,naive baye
+328,how is corpus cleaning performed,naive baye
+329,define corpus cleaning,naive baye
+330,tell something about corpus cleaning,naive baye
+331,explain about corpus cleaning,naive baye
+332,what does corpus cleaning do?What is Structured Data?,naive baye
+333,Tell me about Structured Data?,naive baye
+334,What do you know about Structured Data?,naive baye
+335,Do you know about Structured Data?,naive baye
+336,What is the process of Structured Data?,naive baye
+337,How Structured Data works ?,naive baye
+338,Tell me Structured Data?,naive baye
+339,About Structured Data?,naive baye
+340,Let me know about Structured Data?,naive baye
+341,What do you say about Structured Data?,naive baye
+342,What does Structured Data mean?,naive baye
+343,Explain Structured Data?,naive baye
+344,Define Structured Data?,naive baye
+345,Can you explain about Structured Data?,naive baye
+346,Can you say something about Structured Data?,naive baye
+347,Can you explain briefly about Structured Data?,naive baye
+348,Can you give a short summary about Structured Data?,naive baye
+349,// naiveManager.addAction(',naive baye
+350,What is Unstructured Data?,naive baye
+351,Tell me about Unstructured Data?,naive baye
+352,What do you know about Unstructured Data?,naive baye
+353,Do you know about Unstructured Data?,naive baye
+354,What is the process of Unstructured Data?,naive baye
+355,How Unstructured Data works ?,naive baye
+356,Tell me Unstructured Data?,naive baye
+357,About Unstructured Data?,naive baye
+358,Let me know about Unstructured Data?,naive baye
+359,What do you say about Unstructured Data?,naive baye
+360,What does Unstructured Data mean?,naive baye
+361,Explain Unstructured Data?,naive baye
+362,Define Unstructured Data?,naive baye
+363,Can you explain about Unstructured Data?,naive baye
+364,Can you say something about Unstructured Data?,naive baye
+365,Can you explain briefly about Unstructured Data?,naive baye
+366,Can you give a short summary about Unstructured Data?What is Bag of words representation?,naive baye
+367,Tell me about Bag of words representation?,naive baye
+368,What do you know about Bag of words representation?,naive baye
+369,Do you know about Bag of words representation?,naive baye
+370,What is the process of Bag of words representation?,naive baye
+371,How Bag of words representation works ?,naive baye
+372,Tell me Bag of words representation?,naive baye
+373,About Bag of words representation?,naive baye
+374,Let me know about Bag of words representation?,naive baye
+375,What do you say about Bag of words representation?,naive baye
+376,What does Bag of words representation mean?,naive baye
+377,Explain Bag of words representation?,naive baye
+378,Define Bag of words representation?,naive baye
+379,Can you explain about Bag of words representation?,naive baye
+380,Can you say something about Bag of words representation?,naive baye
+381,Can you explain briefly about Bag of words representation?,naive baye
+382,Can you give a short summary about Bag of words representation?Where can nrow function in R be used?,naive baye
+383,Use of nrow function in R ?,naive baye
+384,Main Use of nrow function in R ?,naive baye
+385,what are the Uses of nrow function in R ?,naive baye
+386,where do we use nrow function in R ?What is findFreqTerms?,naive baye
+387,Tell me about findFreqTerms?,naive baye
+388,What do you know about findFreqTerms?,naive baye
+389,Do you know about findFreqTerms?,naive baye
+390,What is the process of findFreqTerms?,naive baye
+391,How findFreqTerms works ?,naive baye
+392,Tell me findFreqTerms?,naive baye
+393,About findFreqTerms?,naive baye
+394,Let me know about findFreqTerms?,naive baye
+395,What do you say about findFreqTerms?,naive baye
+396,What does findFreqTerms mean?,naive baye
+397,Explain findFreqTerms?,naive baye
+398,Define findFreqTerms?,naive baye
+399,Can you explain about findFreqTerms?,naive baye
+400,Can you say something about findFreqTerms?,naive baye
+401,Can you explain briefly about findFreqTerms?,naive baye
+402,tell me findFreqTerms in naive bayes?,naive baye

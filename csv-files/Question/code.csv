@@ -1,0 +1,733 @@
+line,question,question_type
+1,What  collinearity problem in machine learning?,code
+2,What  collinearity problem in data science?,code
+3,What  collinearity problem in python?,code
+4,What  collinearity problem in R?,code
+5,Tell me about  collinearity problem?,code
+6,What do you know about  collinearity problem?,code
+7,Do you know about  collinearity problem?,code
+8,How  collinearity problem works ?,code
+9,Tell me  collinearity problem?,code
+10,About  collinearity problem?,code
+11,Let me know about  collinearity problem?,code
+12,What  collinearity problem?,code
+13,What do you say about  collinearity problem?,code
+14,What does  collinearity problemmean?,code
+15,Explain  collinearity problem?,code
+16,Define  collinearity problem?,code
+17,What Variance Inflation Factor?,code
+18,What Variance Inflation Factor in machine learning?,code
+19,What Variance Inflation Factor in data science?,code
+20,What Variance Inflation Factor in python?,code
+21,What Variance Inflation Factor in R?,code
+22,Tell me about Variance Inflation Factor?,code
+23,What do you know about Variance Inflation Factor?,code
+24,Do you know about Variance Inflation Factor?,code
+25,How Variance Inflation Factor works ?,code
+26,Tell me Variance Inflation Factor?,code
+27,About Variance Inflation Factor?,code
+28,Let me know about Variance Inflation Factor?,code
+29,What Variance Inflation Factor?,code
+30,What do you say about Variance Inflation Factor?,code
+31,What does Variance Inflation Factor mean?,code
+32,Explain Variance Inflation Factor?,code
+33,Define Variance Inflation Factor?,code
+34,Can you explain about Variance Inflation Factor?,code
+35,Can you say something about Variance Inflation Factor?,code
+36,Can you explain briefly about Variance Inflation Factor?,code
+37,Can you give a short summary about Variance Inflation Factor?,code
+38,What is thumb rule of Variance Inflation Factor?,code
+39,What is thumb rule of Variance Inflation Factor in machine learning?,code
+40,What is thumb rule of Variance Inflation Factor in data science?,code
+41,What is thumb rule of Variance Inflation Factor in python?,code
+42,What is thumb rule of Variance Inflation Factor in R?,code
+43,Tell me about thumb rule of Variance Inflation Factor?,code
+44,What do you know about thumb rule of Variance Inflation Factor?,code
+45,Do you know about thumb rule of Variance Inflation Factor?,code
+46,What the process of thumb rule of Variance Inflation Factor?,code
+47,How thumb rule of Variance Inflation Factor works ?,code
+48,Tell me thumb rule of Variance Inflation Factor?,code
+49,About thumb rule of Variance Inflation Factor?,code
+50,Let me know about thumb rule of Variance Inflation Factor?,code
+51,What thumb rule of Variance Inflation Factor?,code
+52,What do you say about thumb rule of Variance Inflation Factor?,code
+53,What does thumb rule of Variance Inflation Factor mean?,code
+54,Explain thumb rule of Variance Inflation Factor?,code
+55,Define thumb rule of Variance Inflation Factor?,code
+56,Can you explain about thumb rule of Variance Inflation Factor?,code
+57,Can you say something about thumb rule of Variance Inflation Factor?,code
+58,Can you explain briefly about thumb rule of Variance Inflation Factor?,code
+59,Can you give a short summary about thumb rule of Variance Inflation Factor?,code
+60,What function used to find Variance Inflation Factor?,code
+61,What function used to find Variance Inflation Factor in machine learning?,code
+62,What function used to find Variance Inflation Factor in data science?,code
+63,What function used to find Variance Inflation Factor in python?,code
+64,What function used to find Variance Inflation Factor in R?,code
+65,Tell me about function used to find Variance Inflation Factor?,code
+66,What do you know about function used to find Variance Inflation Factor?,code
+67,Do you know about function used to find Variance Inflation Factor?,code
+68,What the process of function used to find Variance Inflation Factor?,code
+69,How function used to find Variance Inflation Factor works ?,code
+70,Tell me function used to find Variance Inflation Factor?,code
+71,About function used to find Variance Inflation Factor?,code
+72,Let me know about function used to find Variance Inflation Factor?,code
+73,What function used to find Variance Inflation Factor?,code
+74,What do you say about function used to find Variance Inflation Factor?,code
+75,What does function used to find Variance Inflation Factormean?,code
+76,Explain function used to find Variance Inflation Factor?,code
+77,Define function used to find Variance Inflation Factor?,code
+78,Can you explain about function used to find Variance Inflation Factor?,code
+79,Can you say something about function used to find Variance Inflation Factor?,code
+80,Can you explain briefly about function used to find Variance Inflation Factor?,code
+81,Can you give a short summary about function used to find Variance Inflation Factor?,code
+82,can we use any function to find vif in python?,code
+83,how to find vif in python?,code
+84,what is the function used in python to find vif?,code
+85,Is there any way to calculate vif in python?,code
+86,What is the formula of vif?,code
+87,What is the formula of vif in machine learning?,code
+88,What is the formula of vif in data science?,code
+89,What is the formula of vif in python?,code
+90,What is the formula of vif in R?,code
+91,Tell me about the formula of vif?,code
+92,What do you know about the formula of vif?,code
+93,Do you know about the formula of vif?,code
+94,What the process of the formula of vif?,code
+95,How is the formula of vif works ?,code
+96,Tell me the formula of vif?,code
+97,About the formula of vif?,code
+98,Let me know about the formula of vif?,code
+99,What is the formula of vif?,code
+100,What do you say about the formula of vif?,code
+101,What does the formula of vifmean?,code
+102,Explain the formula of vif?,code
+103,Define the formula of vif?,code
+104,Can you explain about the formula of vif?,code
+105,Can you say something about the formula of vif?,code
+106,Can you explain briefly about the formula of vif?,code
+107,Can you give a short summary about the formula of vif?,code
+108,where the vif value will be stored?,code
+109,can you tell me where the calculated value of vir is saved?,code
+110,tell me where the calculated value of vir is saved?,code
+111,where the calculated value of vir is saved?What is influential observations?,code
+112,What is influential observations in machine learning?,code
+113,What is influential observations in data science?,code
+114,What is influential observations in python?,code
+115,What is influential observations in R?,code
+116,Tell me about  influential observations?,code
+117,What do you know about  influential observations?,code
+118,Do you know about  influential observations?,code
+119,What the process of  influential observations?,code
+120,How is influential observations works ?,code
+121,Tell me  influential observations?,code
+122,About  influential observations?,code
+123,Let me know about  influential observations?,code
+124,What is influential observations?,code
+125,What do you say about  influential observations?,code
+126,What does  influential observations mean?,code
+127,Explain influential observations?,code
+128,Define influential observations?,code
+129,Can you explain about influential observations?,code
+130,Can you say something about influential observations?,code
+131,Can you explain briefly about influential observations?,code
+132,Can you give a short summary about influential observations?,code
+133,What is the graph used to find influential observations?,code
+134,What is the graph used to find influential observations in machine learning?,code
+135,What is the graph used to find influential observations in data science?,code
+136,What is the graph used to find influential observations in python?,code
+137,What is the graph used to find influential observations in R?,code
+138,Tell me about the graph used to find influential observations?,code
+139,What do you know about the graph used to find influential observations?,code
+140,Do you know about the graph used to find influential observations?,code
+141,What the process of the graph used to find influential observations?,code
+142,How the graph used to find influential observations works ?,code
+143,Tell me the graph used to find influential observations?,code
+144,About the graph used to find influential observations?,code
+145,Let me know about the graph used to find influential observations?,code
+146,What is the graph used to find influential observations?,code
+147,What do you say about the graph used to find influential observations?,code
+148,What does the graph used to find influential observationsmean?,code
+149,Explain the graph used to find influential observations?,code
+150,Define the graph used to find influential observations?,code
+151,Can you explain about the graph used to find influential observations?,code
+152,Can you say something about the graph used to find influential observations?,code
+153,Can you explain briefly about the graph used to find influential observations?,code
+154,Can you give a short summary about the graph used to find influential observations?,code
+155,which variable will contribute more towards  collinearity?,code
+156,What is the variable will contribute more towards  collinearity?,code
+157,What is the variable will contribute more towards  collinearity in machine learning?,code
+158,What is the variable will contribute more towards  collinearity in data science?,code
+159,What is the variable will contribute more towards  collinearity in python?,code
+160,What is the variable will contribute more towards  collinearity in R?,code
+161,Tell me about the variable will contribute more towards  collinearity?,code
+162,What do you know about the variable will contribute more towards  collinearity?,code
+163,Do you know about the variable will contribute more towards  collinearity?,code
+164,What the process of the variable will contribute more towards  collinearity?,code
+165,How the variable will contribute more towards  collinearity works ?,code
+166,Tell me the variable will contribute more towards  collinearity?,code
+167,About the variable will contribute more towards  collinearity?,code
+168,Let me know about the variable will contribute more towards  collinearity?,code
+169,What the variable will contribute more towards  collinearity?,code
+170,What do you say about the variable will contribute more towards  collinearity?,code
+171,What does the variable will contribute more towards  collinearitymean?,code
+172,Explain the variable will contribute more towards  collinearity?,code
+173,Define the variable will contribute more towards  collinearity?,code
+174,Can you explain about the variable will contribute more towards  collinearity?,code
+175,Can you say something about the variable will contribute more towards  collinearity?,code
+176,Can you explain briefly about the variable will contribute more towards  collinearity?,code
+177,Can you give a short summary about the variable will contribute more towards  collinearity?,code
+178,What is AVP plot?,code
+179,What is AVP plot in machine learning?,code
+180,What is AVP plot in data science?,code
+181,What is AVP plot in python?,code
+182,What is AVP plot in R?,code
+183,Tell me about AVP plot?,code
+184,What do you know about AVP plot?,code
+185,Do you know about AVP plot?,code
+186,What the process of AVP plot?,code
+187,How AVP plot works ?,code
+188,Tell me AVP plot?,code
+189,About AVP plot?,code
+190,Let me know about AVP plot?,code
+191,What AVP plot?,code
+192,What do you say about AVP plot?,code
+193,What does AVP plotmean?,code
+194,Explain AVP plot?,code
+195,Define AVP plot?,code
+196,Can you explain about AVP plot?,code
+197,Can you say something about AVP plot?,code
+198,Can you explain briefly about AVP plot?,code
+199,Can you give a short summary about AVP plot?,code
+200,What avp plot does?,code
+201,What avp plot does in machine learning?,code
+202,What avp plot does in data science?,code
+203,What avp plot does in python?,code
+204,What avp plot does in R?,code
+205,Tell me about avp plot does?,code
+206,What do you know about avp plot does?,code
+207,Do you know about avp plot does?,code
+208,What the process of avp plot does?,code
+209,How avp plot does works ?,code
+210,Tell me avp plot does?,code
+211,About avp plot does?,code
+212,Let me know about avp plot does?,code
+213,What avp plot does?,code
+214,What do you say about avp plot does?,code
+215,What avp plot works?,code
+216,Explain avp plot does?,code
+217,Define avp plot does?,code
+218,Can you explain about avp plot does?,code
+219,Can you say something about avp plot does?,code
+220,Can you explain briefly about avp plot does?,code
+221,Can you give a short summary about avp plot does?,code
+222,What is axis=0 means?,code
+223,What is axis=0 means in machine learning?,code
+224,What is axis=0 means in data science?,code
+225,What is axis=0 means in python?,code
+226,What axis=0 means in R?,code
+227,Tell me about axis=0 means?,code
+228,What do you know about axis=0 means?,code
+229,Do you know about axis=0 means?,code
+230,What the process of axis=0 means?,code
+231,How axis=0 means works ?,code
+232,Tell me axis=0 means?,code
+233,About axis=0 means?,code
+234,Let me know about axis=0 means?,code
+235,What axis=0 means?,code
+236,What do you say about axis=0 means?,code
+237,What does axis=0 meansmean?,code
+238,Explain axis=0 means?,code
+239,Define axis=0 means?,code
+240,Can you explain about axis=0 means?,code
+241,Can you say something about axis=0 means?,code
+242,Can you explain briefly about axis=0 means?,code
+243,Can you give a short summary about axis=0 means?,code
+244,What is axis=1 means?,code
+245,What is axis=1 means in machine learning?,code
+246,What is axis=1 means in data science?,code
+247,What is axis=1 means in python?,code
+248,What is axis=1 means in R?,code
+249,Tell me about axis=1 means?,code
+250,What do you know about axis=1 means?,code
+251,Do you know about axis=1 means?,code
+252,What the process of axis=1 means?,code
+253,How axis=1 means works ?,code
+254,Tell me axis=1 means?,code
+255,About axis=1 means?,code
+256,Let me know about axis=1 means?,code
+257,What axis=1 means?,code
+258,What do you say about axis=1 means?,code
+259,What does axis=1 meansmean?,code
+260,Explain axis=1 means?,code
+261,Define axis=1 means?,code
+262,Can you explain about axis=1 means?,code
+263,Can you say something about axis=1 means?,code
+264,Can you explain briefly about axis=1 means?,code
+265,Can you give a short summary about axis=1 means?,code
+266,how to remove columns?,code
+267,What is the way to remove columns?,code
+268,What is the way to remove columns in machine learning?,code
+269,What is the way to remove columns in data science?,code
+270,What is the way to remove columns in python?,code
+271,What is the way to remove columns in R?,code
+272,Tell me about the way to remove columns?,code
+273,What do you know about the way to remove columns?,code
+274,Do you know about the way to remove columns?,code
+275,What the process of the way to remove columns?,code
+276,How the way to remove columns works ?,code
+277,Tell me the way to remove columns?,code
+278,About the way to remove columns?,code
+279,Let me know about the way to remove columns?,code
+280,What the way to remove columns?,code
+281,What do you say about the way to remove columns?,code
+282,What does the way to remove columnsmean?,code
+283,Explain the way to remove columns?,code
+284,Define the way to remove columns?,code
+285,Can you explain about the way to remove columns?,code
+286,Can you say something about the way to remove columns?,code
+287,Can you explain briefly about the way to remove columns?,code
+288,Can you give a short summary about the way to remove columns?,code
+289,how to remove rows?,code
+290,What is the way to remove rows?,code
+291,What is the way to remove rows in machine learning?,code
+292,What is the way to remove rows in data science?,code
+293,What is the way to remove rows in python?,code
+294,What is the way to remove rows in R?,code
+295,Tell me about the way to remove rows?,code
+296,What do you know about the way to remove rows?,code
+297,Do you know about the way to remove rows?,code
+298,What the process of the way to remove rows?,code
+299,How the way to remove rows works ?,code
+300,Tell me the way to remove rows?,code
+301,About the way to remove rows?,code
+302,Let me know about the way to remove rows?,code
+303,What the way to remove rows?,code
+304,What do you say about the way to remove rows?,code
+305,What does the way to remove rowsmean?,code
+306,Explain the way to remove rows?,code
+307,Define the way to remove rows?,code
+308,Can you explain about the way to remove rows?,code
+309,Can you say something about the way to remove rows?,code
+310,Can you explain briefly about the way to remove rows?,code
+311,Can you give a short summary about the way to remove rows?,code
+312,How to test the data whether it is following the line assumptions?,code
+313,tell me about how to test the data whether it is following the line assumptions?,code
+314,whether the data is following line assumptions how to test?How to check whether the data is randomly distributed or not,code
+315,How to check the data is randomly distributed or not?,code
+316,Can you tell me how to check whether the data is randomly distributed or not?,code
+317,Tell me how to check the data is randomly distributed or not?What is from command?,code
+318,What is from command in machine learning?,code
+319,What is from command in data science?,code
+320,What is from command in python?,code
+321,What is from command in R?,code
+322,Tell me about from command?,code
+323,What do you know about from command?,code
+324,Do you know about from command?,code
+325,What the process of from command?,code
+326,How from command works ?,code
+327,Tell me from command?,code
+328,About from command?,code
+329,Let me know about from command?,code
+330,What do you say about from command?,code
+331,What does from commandmean?,code
+332,Explain from command?,code
+333,Define from command?,code
+334,Can you explain about from command?,code
+335,Can you say something about from command?,code
+336,Can you explain briefly about from command?,code
+337,Can you give a short summary about from command?,code
+338,What is overfit model?,code
+339,What is overfit model in machine learning?,code
+340,What is overfit model in data science?,code
+341,What is overfit model in python?,code
+342,What is overfit model in R?,code
+343,Tell me about overfit model?,code
+344,What do you know about overfit model?,code
+345,Do you know about overfit model?,code
+346,What the process of overfit model?,code
+347,How overfit model works ?,code
+348,Tell me overfit model?,code
+349,About overfit model?,code
+350,Let me know about overfit model?,code
+351,What do you say about overfit model?,code
+352,What does overfit modelmean?,code
+353,Explain overfit model?,code
+354,Define overfit model?,code
+355,Can you explain about overfit model?,code
+356,Can you say something about overfit model?,code
+357,Can you explain briefly about overfit model?,code
+358,Can you give a short summary about overfit model?,code
+359,What is underfit model?,code
+360,What is underfit model in machine learning?,code
+361,What is underfit model in data science?,code
+362,What is underfit model in python?,code
+363,What is underfit model in R?,code
+364,Tell me about underfit model?,code
+365,What do you know about underfit model?,code
+366,Do you know about underfit model?,code
+367,What the process of underfit model?,code
+368,How underfit model works ?,code
+369,Tell me underfit model?,code
+370,About underfit model?,code
+371,Let me know about underfit model?,code
+372,What do you say about underfit model?,code
+373,What does underfit modelmean?,code
+374,Explain underfit model?,code
+375,Define underfit model?,code
+376,Can you explain about underfit model?,code
+377,Can you say something about underfit model?,code
+378,Can you explain briefly about underfit model?,code
+379,Can you give a short summary about underfit model?,code
+380,how lambda function will be used?,code
+381,Where can lambda function be used?,code
+382,Uses of lambda function ?,code
+383,Main Uses of lambda function ?,code
+384,what are the Uses of lambda function ?,code
+385,where do we use lambda function ?,code
+386,tell me some uses of lambda function ?,code
+387,list out some Uses of lambda function ?,code
+388,what is the use of lambda function ?,code
+389,where is lambda function Uses?,code
+390,list me few uses of lambda function ?,code
+391,what are the real time examples of lambda function ?,code
+392,list some examples of lambda function ?,code
+393,What is clustering?,code
+394,What is clustering in machine learning?,code
+395,What is clustering in data science?,code
+396,What is clustering in python?,code
+397,What is clustering in R?,code
+398,Tell me about clustering?,code
+399,What do you know about clustering?,code
+400,Do you know about clustering?,code
+401,What the process of clustering?,code
+402,How clustering works ?,code
+403,Tell me clustering?,code
+404,About clustering?,code
+405,Let me know about clustering?,code
+406,What do you say about clustering?,code
+407,What does clusteringmean?,code
+408,Explain clustering?,code
+409,Define clustering?,code
+410,Can you explain about clustering?,code
+411,Can you say something about clustering?,code
+412,Can you explain briefly about clustering?,code
+413,Can you give a short summary about clustering?,code
+414,What agglomerative clustering?,code
+415,What agglomerative clustering in machine learning?,code
+416,What agglomerative clustering in data science?,code
+417,What agglomerative clustering in python?,code
+418,What agglomerative clustering in R?,code
+419,Tell me about agglomerative clustering?,code
+420,What do you know about agglomerative clustering?,code
+421,Do you know about agglomerative clustering?,code
+422,What the process of agglomerative clustering?,code
+423,How agglomerative clustering works ?,code
+424,Tell me agglomerative clustering?,code
+425,About agglomerative clustering?,code
+426,Let me know about agglomerative clustering?,code
+427,What agglomerative clustering?,code
+428,What do you say about agglomerative clustering?,code
+429,What does agglomerative clusteringmean?,code
+430,Explain agglomerative clustering?,code
+431,Define agglomerative clustering?,code
+432,Can you explain about agglomerative clustering?,code
+433,Can you say something about agglomerative clustering?,code
+434,Can you explain briefly about agglomerative clustering?,code
+435,Can you give a short summary about agglomerative clustering?,code
+436,What another name of  hierarchical clustering?,code
+437,What another name of  hierarchical clustering in machine learning?,code
+438,What another name of  hierarchical clustering in data science?,code
+439,What another name of  hierarchical clustering in python?,code
+440,What another name of  hierarchical clustering in R?,code
+441,Tell me about another name of  hierarchical clustering?,code
+442,What do you know about another name of  hierarchical clustering?,code
+443,Do you know about another name of  hierarchical clustering?,code
+444,What the process of another name of  hierarchical clustering?,code
+445,How another name of  hierarchical clustering works ?,code
+446,Tell me another name of  hierarchical clustering?,code
+447,About another name of  hierarchical clustering?,code
+448,Let me know about another name of  hierarchical clustering?,code
+449,What another name of  hierarchical clustering?,code
+450,What do you say about another name of  hierarchical clustering?,code
+451,What does another name of  hierarchical clusteringmean?,code
+452,Explain another name of  hierarchical clustering?,code
+453,Define another name of  hierarchical clustering?,code
+454,Can you explain about another name of  hierarchical clustering?,code
+455,Can you say something about another name of  hierarchical clustering?,code
+456,Can you explain briefly about another name of  hierarchical clustering?,code
+457,Can you give a short summary about another name of  hierarchical clustering?,code
+458,how to decide the number of clusters?,code
+459,can you tell me how to decide the number of clusters,code
+460,tell me how to decide the number of clusters,code
+461,what is the process to decide the number of clusters,code
+462,What is the main reference of  hierarchical clustering?,code
+463,What is the main reference of  hierarchical clustering in machine learning?,code
+464,What is the main reference of  hierarchical clustering in data science?,code
+465,What is the main reference of  hierarchical clustering in python?,code
+466,What is the main reference of  hierarchical clustering in R?,code
+467,Tell me about the main reference of  hierarchical clustering?,code
+468,What do you know about the main reference of  hierarchical clustering?,code
+469,Do you know about the main reference of  hierarchical clustering?,code
+470,What the process of the main reference of  hierarchical clustering?,code
+471,How the main reference of  hierarchical clustering works ?,code
+472,Tell me the main reference of  hierarchical clustering?,code
+473,About the main reference of  hierarchical clustering?,code
+474,Let me know about the main reference of  hierarchical clustering?,code
+475,What do you say about the main reference of  hierarchical clustering?,code
+476,What does the main reference of  hierarchical clusteringmean?,code
+477,Explain the main reference of  hierarchical clustering?,code
+478,Define the main reference of  hierarchical clustering?,code
+479,Can you explain about the main reference of  hierarchical clustering?,code
+480,Can you say something about the main reference of  hierarchical clustering?,code
+481,Can you explain briefly about the main reference of  hierarchical clustering?,code
+482,Can you give a short summary about the main reference of  hierarchical clustering?,code
+483,In Influence index graph how can we check the inflential observation?,code
+484,how we check the influential observation?,code
+485,how to check the influential observation in influence index graph?,code
+486,what is the process to check the influential observation in influence index graph?,code
+487,In Influence index what is the process to check the influential observation?What is the technique used to calculate distance?,code
+488,What is the technique used to calculate distance in machine learning?,code
+489,What is the technique used to calculate distance in data science?,code
+490,What is the technique used to calculate distance in python?,code
+491,What is the technique used to calculate distance in R?,code
+492,Tell me about the technique used to calculate distance?,code
+493,What do you know about the technique used to calculate distance?,code
+494,Do you know about the technique used to calculate distance?,code
+495,What the process of the technique used to calculate distance?,code
+496,How the technique used to calculate distance works ?,code
+497,Tell me the technique used to calculate distance?,code
+498,About the technique used to calculate distance?,code
+499,Let me know about the technique used to calculate distance?,code
+500,What do you say about the technique used to calculate distance?,code
+501,What does the technique used to calculate distancemean?,code
+502,Explain the technique used to calculate distance?,code
+503,Define the technique used to calculate distance?,code
+504,Can you explain about the technique used to calculate distance?,code
+505,Can you say something about the technique used to calculate distance?,code
+506,Can you explain briefly about the technique used to calculate distance?,code
+507,Can you give a short summary about the technique used to calculate distance?,code
+508,What are the different types of calculating the distance between cluster to cluster?,code
+509,What are the different types of calculating the distance between cluster to cluster in machine learning?,code
+510,What are the different types of calculating the distance between cluster to cluster in data science?,code
+511,What are the different types of calculating the distance between cluster to cluster in python?,code
+512,What are the different types of calculating the distance between cluster to cluster in R?,code
+513,Tell me about the different types of calculating the distance between cluster to cluster?,code
+514,What do you know about the different types of calculating the distance between cluster to cluster?,code
+515,Do you know about the different types of calculating the distance between cluster to cluster?,code
+516,What the process of the different types of calculating the distance between cluster to cluster?,code
+517,How the different types of calculating the distance between cluster to cluster works ?,code
+518,Tell me the different types of calculating the distance between cluster to cluster?,code
+519,About the different types of calculating the distance between cluster to cluster?,code
+520,Let me know about the different types of calculating the distance between cluster to cluster?,code
+521,What do you say about the different types of calculating the distance between cluster to cluster?,code
+522,What does the different types of calculating the distance between cluster to clustermean?,code
+523,Explain the different types of calculating the distance between cluster to cluster?,code
+524,Define the different types of calculating the distance between cluster to cluster?,code
+525,Can you explain about the different types of calculating the distance between cluster to cluster?,code
+526,Can you say something about the different types of calculating the distance between cluster to cluster?,code
+527,Can you explain briefly about the different types of calculating the distance between cluster to cluster?,code
+528,Can you give a short summary about the different types of calculating the distance between cluster to cluster?,code
+529,What are the types of linkages?,code
+530,Tell me types of linkages?,code
+531,Do you know types of linkages?,code
+532,Types of linkages?,code
+533,Different types of linkages?,code
+534,What are the different types of linkages?,code
+535,how many types of linkages are there?,code
+536,What are the important types of linkages?,code
+537,list out different types of linkages,code
+538,what are the various types of linkages?,code
+539,list out various types of linkages?,code
+540,mention some are the types of linkages methods?,code
+541,say different types of linkages methods?,code
+542,do you know the various types of linkages?,code
+543,What is the distance calculation used in linkages?,code
+544,What is the distance calculation used in linkages in machine learning?,code
+545,What is the distance calculation used in linkages in data science?,code
+546,What is the distance calculation used in linkages in python?,code
+547,What is the distance calculation used in linkages in R?,code
+548,Tell me about the distance calculation used in linkages?,code
+549,What do you know about the distance calculation used in linkages?,code
+550,Do you know about the distance calculation used in linkages?,code
+551,What the process of the distance calculation used in linkages?,code
+552,How the distance calculation used in linkages works ?,code
+553,Tell me the distance calculation used in linkages?,code
+554,About the distance calculation used in linkages?,code
+555,Let me know about the distance calculation used in linkages?,code
+556,What do you say about the distance calculation used in linkages?,code
+557,What does the distance calculation used in linkagesmean?,code
+558,Explain the distance calculation used in linkages?,code
+559,Define the distance calculation used in linkages?,code
+560,Can you explain about the distance calculation used in linkages?,code
+561,Can you say something about the distance calculation used in linkages?,code
+562,Can you explain briefly about the distance calculation used in linkages?,code
+563,Can you give a short summary about the distance calculation used in linkages?,code
+564,what will influence euclidian distance?,code
+565,what influence euclidian distance?,code
+566,Tell me what will influence euclidian distance?,code
+567,can you tell me what influence euclidian distance?,code
+568,How to remove scale effect?,code
+569,what is the process to remove scale effect?,code
+570,can you tell me how to remove scale effect?,code
+571,tell me how to remove scale effect?What the normalising do?,code
+572,What the normalising do in machine learning?,code
+573,What the normalising do in data science?,code
+574,What the normalising do in python?,code
+575,What the normalising do in R?,code
+576,Tell me about the normalising do?,code
+577,What do you know about the normalising do?,code
+578,Do you know about the normalising do?,code
+579,What the process of the normalising do?,code
+580,How the normalising do works ?,code
+581,Tell me the normalising do?,code
+582,About the normalising do?,code
+583,What does the normalising do mean?,code
+584,Explain the normalising do?,code
+585,Define the normalising do?,code
+586,After normalising what will happen to the values?,code
+587,what will happen to the values after normalisation?,code
+588,After the normalisation process what will happen to the values?,code
+589,will values effect after normalisation?,code
+590,what is the output for the values after normalising?,code
+591,What is the formula of z score?,code
+592,What is the formula of z score in machine learning?,code
+593,What is the formula of z score in data science?,code
+594,What is the formula of z score in python?,code
+595,What is the formula of z score in R?,code
+596,Tell me about the formula of z score?,code
+597,What do you know about the formula of z score?,code
+598,Do you know about the formula of z score?,code
+599,What is the process of the formula of z score?,code
+600,How the formula of z score works ?,code
+601,Tell me the formula of z score?,code
+602,About the formula of z score?,code
+603,What does the formula of z scoremean?,code
+604,Explain the formula of z score?,code
+605,Define the formula of z score?,code
+606,what will happen when the data is continuous and binary?,code
+607,if the data is continuous and binary what will happen?,code
+608,can you tell me what will happen when the data is continuous and binary?,code
+609,tell me what will happen when the data is continuous and binary?,code
+610,What is the formula for normalisation?,code
+611,What is the formula for normalisation in machine learning?,code
+612,What is the formula for normalisation in data science?,code
+613,What is the formula for normalisation in python?,code
+614,What is the formula for normalisation in R?,code
+615,Tell me about the formula for normalisation?,code
+616,What do you know about the formula for normalisation?,code
+617,Do you know about the formula for normalisation?,code
+618,Tell me the formula for normalisation?,code
+619,About the formula for normalisation?,code
+620,Explain the formula for normalisation?,code
+621,Define the formula for normalisation?,code
+622,What are the components of decision tree?,code
+623,What are the components of decision tree in machine learning?,code
+624,What are the components of decision tree in data science?,code
+625,What are the components of decision tree in python?,code
+626,What are the components of decision tree in R?,code
+627,Tell me about the components of decision tree?,code
+628,What do you know about the components of decision tree?,code
+629,Do you know about the components of decision tree?,code
+630,Tell me the components of decision tree?,code
+631,About the components of decision tree?,code
+632,What does the components of decision treemean?,code
+633,Explain the components of decision tree?,code
+634,Define the components of decision tree?,code
+635,What is another name for leaf node?,code
+636,What is another name for leaf node in machine learning?,code
+637,What is another name for leaf node in data science?,code
+638,What is another name for leaf node in python?,code
+639,What is another name for leaf node in R?,code
+640,Tell me about another name for leaf node?,code
+641,What do you know about another name for leaf node?,code
+642,Do you know about another name for leaf node?,code
+643,How another name for leaf node works ?,code
+644,Tell me another name for leaf node?,code
+645,About another name for leaf node?,code
+646,how do we choose root node,code
+647,what is the process to choose root node,code
+648,can you tell me what is the process to choose root node,code
+649,tell me what is the process to choose root node,code
+650,can you tell me how do we choose root node,code
+651,tell me how do we choose root nodewhich node should we choose as root node?,code
+652,can you tell me which node should we choose as root node?,code
+653,tell me which node should we choose as root node?,code
+654,which node should choose as root node,code
+655,What are the attribute measures to calculate for root node?,code
+656,What are the attribute measures to calculate for root node in machine learning?,code
+657,What are the attribute measures to calculate for root node in data science?,code
+658,What are the attribute measures to calculate for root node in python?,code
+659,What are the attribute measures to calculate for root node in R?,code
+660,Tell me about the attribute measures to calculate for root node?,code
+661,What do you know about the attribute measures to calculate for root node?,code
+662,Do you know about the attribute measures to calculate for root node?,code
+663,How the attribute measures to calculate for root node works ?,code
+664,Tell me the attribute measures to calculate for root node?,code
+665,About the attribute measures to calculate for root node?,code
+666,What does the attribute measures to calculate for root nodemean?,code
+667,What is predictor?,code
+668,What is predictor in machine learning?,code
+669,What is predictor in data science?,code
+670,What is predictor in python?,code
+671,What is predictor in R?,code
+672,Tell me about predictor?,code
+673,What do you know about predictor?,code
+674,Do you know about predictor?,code
+675,How predictor works ?,code
+676,Tell me about predictor?,code
+677,About predictor?,code
+678,What does predictor mean?,code
+679,What is target?,code
+680,What is target in machine learning?,code
+681,What is target in data science?,code
+682,What is target in python?,code
+683,What is target in R?,code
+684,Tell me about target?,code
+685,What do you know about target?,code
+686,Do you know about target?,code
+687,How target works ?,code
+688,Tell me about target?,code
+689,About target?,code
+690,What does target mean?,code
+691,How to import decision tree classifier,code
+692,what is the process to import decision tree classifier,code
+693,tell me how to import decision tree classifier,code
+694,can you tell me how to import decision treee classifier?What is stratified sampling?,code
+695,What is stratified sampling in machine learning?,code
+696,What is stratified sampling in data science?,code
+697,What is stratified sampling in python?,code
+698,What is stratified sampling in R?,code
+699,Tell me about stratified sampling?,code
+700,What do you know about stratified sampling?,code
+701,Do you know about stratified sampling?,code
+702,How stratified sampling works ?,code
+703,Tell me stratified sampling?,code
+704,About stratified sampling?,code
+705,What does stratified samplingmean?,code
+706,What is Simple Random Sample?,code
+707,What is Simple Random Sample in machine learning?,code
+708,What is Simple Random Sample in data science?,code
+709,What is Simple Random Sample in python?,code
+710,What is Simple Random Sample in R?,code
+711,Tell me about Simple Random Sample?,code
+712,What do you know about Simple Random Sample?,code
+713,Do you know about Simple Random Sample?,code
+714,How Simple Random Sample works ?,code
+715,Tell me Simple Random Sample?,code
+716,About Simple Random Sample?,code
+717,What does Simple Random Samplemean?,code
+718,What the intuition of random forest?,code
+719,What the intuition of random forest in machine learning?,code
+720,What the intuition of random forest in data science?,code
+721,What the intuition of random forest in python?,code
+722,What the intuition of random forest in R?,code
+723,Tell me about the intuition of random forest?,code
+724,What do you know about the intuition of random forest?,code
+725,Do you know about the intuition of random forest?,code
+726,How the intuition of random forest works ?,code
+727,Tell me the intuition of random forest?,code
+728,About the intuition of random forest?,code
+729,What does the intuition of random forestmean?,code
+730,How to import random forest classifer,code
+731,what is the process to import random forest classifer,code
+732,tell me how to import random forest classifer,code

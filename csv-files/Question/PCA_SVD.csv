@@ -1,0 +1,820 @@
+line,question,question_type
+1,What is principal component analysis?,pca
+2,What is pca?,pca
+3,Tell me about principal component analysis?,pca
+4,What do you know about principal component analysis?,pca
+5,Do you know about pca?,pca
+6,principal component analysis intuition?,pca
+7,How principal component analysis works ?,pca
+8,About principal component analysis?,pca
+9,Let me know about principal component analysis?,pca
+10,What does principal component analysis mean?,pca
+11,Explain principal component analysis?,pca
+12,Define principal component analysis?,pca
+13,Can you explain about pca?,pca
+14,Can you say something about principal component analysis?,pca
+15,pca intuition?,pca
+16,Can you give a short summary about pca?,pca
+17,What is dimensionality?,pca
+18,Tell me about dimensionality?,pca
+19,What do you know about dimensionality?,pca
+20,Do you know about dimensionality?,pca
+21,What is the process of dimensionality?,pca
+22,How dimensionality works ?,pca
+23,About dimensionality?,pca
+24,Let me know about dimensionality?,pca
+25,What does dimensionality mean?,pca
+26,Explain dimensionality?,pca
+27,Define dimensionality?,pca
+28,Can you explain about dimensionality?,pca
+29,say something about dimensionality?,pca
+30,Can you explain briefly about dimensionality?,pca
+31,Can you give a short summary about dimensionality?,pca
+32,What is PCA dimensionality reduction?,pca
+33,Tell me about PCA dimensionality reduction?,pca
+34,What do you know about PCA dimensionality reduction?,pca
+35,Do you know about PCA dimensionality reduction?,pca
+36,What is the process of PCA dimensionality reduction?,pca
+37,How PCA dimensionality reduction works ?,pca
+38,About PCA dimensionality reduction?,pca
+39,Let me know about PCA dimensionality reduction?,pca
+40,say about PCA dimensionality reduction?,pca
+41,What does PCA dimensionality reduction mean?,pca
+42,Explain PCA dimensionality reduction?,pca
+43,Define PCA dimensionality reduction?,pca
+44,Can you explain about PCA dimensionality reduction?,pca
+45,Can you say something about PCA dimensionality reduction?,pca
+46,Can you explain briefly about PCA dimensionality reduction?,pca
+47,what is dimension reduction?,pca
+48,what is dimensionality reduction?,pca
+49,explain about dimension reduction?,pca
+50,tell about dimension reduction?,pca
+51,describe briefly about dimensionality reduction?,pca
+52,define dimension reduction?,pca
+53,define dimensionality reduction?,pca
+54,can you explain about dimensionality reduction?,pca
+55,tell about dimensionality reduction?,pca
+56,applications of dimension reduction?,pca
+57,what are the applications of dimension reduction?,pca
+58,tell about the applications of dimension reduction?,pca
+59,explain the applications of dimension reduction?,pca
+60,describe the applications of dimension reduction?,pca
+61,describe about deep face algorithm?,pca
+62,explain about deep face algorithm?,pca
+63,what is deep face algorithm?,pca
+64,tell about deep face algorithm?,pca
+65,briefly describe about deep face algorithm?,pca
+66,define deep face algorithm?,pca
+67,What are principal components?,pca
+68,Tell me about principal components?,pca
+69,What do you know about principal components?,pca
+70,Do you know about principal components?,pca
+71,What is the process of principal components?,pca
+72,How principal components works ?,pca
+73,About principal components?,pca
+74,Let me know about principal components?,pca
+75,say about principal components?,pca
+76,What does principal components mean?,pca
+77,Explain principal components?,pca
+78,Define principal components?,pca
+79,Can you explain about principal components?,pca
+80,Can you say something about principal components?,pca
+81,Can you explain briefly about principal components?,pca
+82,Can you give a short summary about principal components?,pca
+83,what are the main techniques used for dimensionality reduction,pca
+84,techniques used for dimensionality reduction,pca
+85,tell about the main techniques used for dimensionality reduction,pca
+86,explain the techniques used for dimensionality reduction,pca
+87,describe the techniques used for dimensionality reduction,pca
+88,can you describe the techniques used for dimensionality reduction,pca
+89,How do we determine the number of components?,pca
+90,How can we calculate the required components?,pca
+91,How to get components?,pca
+92,What is the procedure to follow to get  components?,pca
+93,How  components works ?,pca
+94,What is Orthogonal transformation ?,pca
+95,Tell me about Orthogonal transformation ?,pca
+96,What do you know about Orthogonal transformation ?,pca
+97,Do you know about Orthogonal transformation ?,pca
+98,What is the process of Orthogonal transformation ?,pca
+99,How Orthogonal transformation  works ?,pca
+100,About Orthogonal transformation ?,pca
+101,Let me know about Orthogonal transformation ?,pca
+102,say about Orthogonal transformation ?,pca
+103,What does Orthogonal transformation mean?,pca
+104,Explain Orthogonal transformation ?,pca
+105,Define Orthogonal transformation ?,pca
+106,Can you explain about Orthogonal transformation ?,pca
+107,Can you say something about Orthogonal transformation ?,pca
+108,Can you explain briefly about Orthogonal transformation ?,pca
+109,summary about Orthogonal transformation ? ,pca
+110,What is eigen value?,pca
+111,Tell me about eigen value?,pca
+112,What do you know about eigen value?,pca
+113,How eigen value works ?,pca
+114,About eigen value?,pca
+115,Let me know about eigen value?,pca
+116,say about eigen value?,pca
+117,What does eigen value mean?,pca
+118,Explain eigen value?,pca
+119,Define eigen value?,pca
+120,Can you explain about eigen value?,pca
+121,What is identity matrix?,pca
+122,Tell me about identity matrix?,pca
+123,What do you know about identity matrix?,pca
+124,Do you know about identity matrix?,pca
+125,What is the process of identity matrix?,pca
+126,How identity matrix works ?,pca
+127,About identity matrix?,pca
+128,Let me know about identity matrix?,pca
+129,say about identity matrix?,pca
+130,What does identity matrix mean?,pca
+131,Explain identity matrix?,pca
+132,Define identity matrix?,pca
+133,Can you explain about identity matrix?,pca
+134,Can you say something about identity matrix?,pca
+135,Can you explain briefly about identity matrix?,pca
+136,Can you give a short summary about identity matrix?,pca
+137,What is eigen vector?,pca
+138,Tell me about eigen vector?,pca
+139,What do you know about eigen vector?,pca
+140,Do you know about eigen vector?,pca
+141,What is the process of eigen vector?,pca
+142,How eigen vector works ?,pca
+143,Tell me eigen vector?,pca
+144,About eigen vector?,pca
+145,Let me know about eigen vector?,pca
+146,say about eigen vector?,pca
+147,What does eigen vectormean?,pca
+148,Explain eigen vector?,pca
+149,Define eigen vector?,pca
+150,Can you explain about eigen vector?,pca
+151,Can you say something about eigen vector?,pca
+152,Can you explain briefly about eigen vector?,pca
+153,Can you give a short summary about eigen vector?,pca
+154,What is Eigen space?,pca
+155,Tell me about Eigen space?,pca
+156,What do you know about Eigen space?,pca
+157,Do you know about Eigen space?,pca
+158,What is the process of Eigen space?,pca
+159,How Eigen space works ?,pca
+160,About Eigen space?,pca
+161,Let me know about Eigen space?,pca
+162,say about Eigen space?,pca
+163,What does Eigen space mean?,pca
+164,Explain Eigen space?,pca
+165,Define Eigen space?,pca
+166,Can you explain about Eigen space?,pca
+167,Can you say something about Eigen space?,pca
+168,Can you explain briefly about Eigen space?,pca
+169,Can you give a short summary about Eigen space?,pca
+170,What is Unit vector?,pca
+171,Tell me about Unit vector?,pca
+172,What do you know about Unit vector?,pca
+173,Do you know about Unit vector?,pca
+174,What is the process of Unit vector?,pca
+175,How Unit vector works ?,pca
+176,About Unit vector?,pca
+177,Let me know about Unit vector?,pca
+178,What does Unit vector mean?,pca
+179,Explain Unit vector?,pca
+180,Define Unit vector?,pca
+181,Can you explain about Unit vector?,pca
+182,Can you say something about Unit vector?,pca
+183,Can you explain briefly about Unit vector?,pca
+184,summary about Unit vector?,pca
+185,What is bias?,pca
+186,Tell me about bias?,pca
+187,What do you know about bias?,pca
+188,Do you know about bias?,pca
+189,What is the process of bias?,pca
+190,How bias works ?,pca
+191,About bias?,pca
+192,say about bias?,pca
+193,What does bias mean?,pca
+194,Explain bias?,pca
+195,Define bias?,pca
+196,Can you explain about bias?,pca
+197,Can you say something about bias?,pca
+198,Can you explain briefly about bias?,pca
+199,summary about bias?,pca
+200,What is variance?,pca
+201,Tell me about variance?,pca
+202,What do you know about variance?,pca
+203,Do you know about variance?,pca
+204,What is the process of variance?,pca
+205,How variance works ?,pca
+206,About variance?,pca
+207,Let me know about variance?,pca
+208,say about variance?,pca
+209,What does variance mean?,pca
+210,Explain variance?,pca
+211,Define variance?,pca
+212,Can you explain about variance?,pca
+213,Can you say something about variance?,pca
+214,Can you explain briefly about variance?,pca
+215,summary about variance?,pca
+216,What is Underfitting?,pca
+217,Tell me about Underfitting?,pca
+218,What do you know about Underfitting?,pca
+219,Do you know about Underfitting?,pca
+220,What is the process of Underfitting?,pca
+221,How Underfitting works ?,pca
+222,About Underfitting?,pca
+223,Let me know about Underfitting?,pca
+224,say about Underfitting?,pca
+225,What does Underfitting mean?,pca
+226,Explain Underfitting?,pca
+227,Define Underfitting?,pca
+228,Can you explain about Underfitting?,pca
+229,Can you say something about Underfitting?,pca
+230,Can you explain briefly about Underfitting?,pca
+231,summary about Underfitting?,pca
+232,What is Overfitting?,pca
+233,Tell me about Overfitting?,pca
+234,What do you know about Overfitting?,pca
+235,Do you know about Overfitting?,pca
+236,What is the process of Overfitting?,pca
+237,How Overfitting works ?,pca
+238,About Overfitting?,pca
+239,Let me know about Overfitting?,pca
+240,say about Overfitting?,pca
+241,What does Overfitting mean?,pca
+242,Explain Overfitting?,pca
+243,Define Overfitting?,pca
+244,Can you explain about Overfitting?,pca
+245,Can you say something about Overfitting?,pca
+246,Can you explain briefly about Overfitting?,pca
+247,summary about Overfitting?,pca
+248,What is cumulative variance?,pca
+249,Tell me about cumulative variance?,pca
+250,What do you know about cumulative variance?,pca
+251,Do you know about cumulative variance?,pca
+252,What is the process of cumulative variance?,pca
+253,How cumulative variance works ?,pca
+254,About cumulative variance?,pca
+255,Let me know about cumulative variance?,pca
+256,say about cumulative variance?,pca
+257,What does cumulative variance mean?,pca
+258,Explain cumulative variance?,pca
+259,Define cumulative variance?,pca
+260,Can you explain about cumulative variance?,pca
+261,Can you say something about cumulative variance?,pca
+262,Can you explain briefly about cumulative variance?,pca
+263,summary about cumulative variance?,pca
+264,What is variance percentage?,pca
+265,Tell me about variance percentage?,pca
+266,What do you know about variance percentage?,pca
+267,Do you know about variance percentage?,pca
+268,What is the process of variance percentage?,pca
+269,How variance percentage works ?,pca
+270,About variance percentage?,pca
+271,Let me know about variance percentage?,pca
+272,say about variance percentage?,pca
+273,What does variance percentage mean?,pca
+274,Explain variance percentage?,pca
+275,Define variance percentage?,pca
+276,Can you explain about variance percentage?,pca
+277,Can you say something about variance percentage?,pca
+278,Can you explain briefly about variance percentage?,pca
+279,summary about variance percentage?,pca
+280,What is covariance?,pca
+281,Tell me about covariance?,pca
+282,What do you know about covariance?,pca
+283,Do you know about covariance?,pca
+284,What is the process of covariance?,pca
+285,How covariance works ?,pca
+286,About covariance?,pca
+287,Let me know about covariance?,pca
+288,say about covariance?,pca
+289,What does covariance mean?,pca
+290,Explain covariance?,pca
+291,Define covariance?,pca
+292,Can you explain about covariance?,pca
+293,Can you say something about covariance?,pca
+294,Can you explain briefly about covariance?,pca
+295,summary about covariance?,pca
+296,How do we determine the covariance matrix?,pca
+297,How can we calculate covariance matrix?,pca
+298,How to get covariance matrix?,pca
+299,What is the preocedure to follow to get covariance matrix?,pca
+300,What is the process to follow to get a covariance matrix?,pca
+301,How covariance matrix works ?,pca
+302,What is correlation?,pca
+303,Tell me about correlation?,pca
+304,What do you know about correlation?,pca
+305,Do you know about correlation?,pca
+306,What is the process of correlation?,pca
+307,How correlation works ?,pca
+308,About correlation?,pca
+309,Let me know about correlation?,pca
+310,say about correlation?,pca
+311,What does correlation mean?,pca
+312,Explain correlation?,pca
+313,Define correlation?,pca
+314,Can you explain about correlation?,pca
+315,Can you say something about correlation?,pca
+316,Can you explain briefly about correlation?,pca
+317,summary about correlation?,pca
+318,How do we determine the correlation matrix?,pca
+319,How can we calculate correlation matrix?,pca
+320,How to get correlation matrix?,pca
+321,What is the preocedure to follow to get correlation matrix?,pca
+322,What is the process to follow to get a correlation matrix?,pca
+323,How correlation matrix works ?,pca
+324,explain about correlation matrix working?,pca
+325,describe correlation matrix?,pca
+326,What is pearson correlation coefficient?,pca
+327,Tell me about pearson correlation coefficient?,pca
+328,pearson correlation coefficient?,pca
+329,Do you know about pearson correlation coefficient?,pca
+330,What is the process of pearson correlation coefficient?,pca
+331,How pearson correlation coefficient works ?,pca
+332,About pearson correlation coefficient?,pca
+333,Let me know about pearson correlation coefficient?,pca
+334,say about pearson correlation coefficient?,pca
+335,What does pearson correlation coefficient mean?,pca
+336,Explain pearson correlation coefficient?,pca
+337,Define pearson correlation coefficient?,pca
+338,Can you explain about pearson correlation coefficient?,pca
+339,Can you say something about pearson correlation coefficient?,pca
+340,Can you explain briefly about pearson correlation coefficient?,pca
+341,summary about pearson correlation coefficient?,pca
+342,What is collinearity?,pca
+343,Tell me about collinearity?,pca
+344,What do you know about collinearity?,pca
+345,Do you know about collinearity?,pca
+346,What is the process of collinearity?,pca
+347,How collinearity works ?,pca
+348,About collinearity?,pca
+349,Let me know about collinearity?,pca
+350,say about collinearity?,pca
+351,What does collinearity mean?,pca
+352,Explain collinearity?,pca
+353,Define collinearity?,pca
+354,Can you explain about collinearity?,pca
+355,Can you say something about collinearity?,pca
+356,Can you explain briefly about collinearity?,pca
+357,summary about collinearity?,pca
+358,What is Uncorrelated?,pca
+359,Tell me about Uncorrelated?,pca
+360,What do you know about Uncorrelated?,pca
+361,Do you know about Uncorrelated?,pca
+362,What is the process of Uncorrelated?,pca
+363,How Uncorrelated works ?,pca
+364,About Uncorrelated?,pca
+365,Let me know about Uncorrelated?,pca
+366,say about Uncorrelated?,pca
+367,What does Uncorrelated mean?,pca
+368,Explain Uncorrelated?,pca
+369,Define Uncorrelated?,pca
+370,Can you explain about Uncorrelated?,pca
+371,Can you say something about Uncorrelated?,pca
+372,Can you explain briefly about Uncorrelated?,pca
+373,summary about Uncorrelated?,pca
+374,What is explonatory variable?,pca
+375,Tell me about explonatory variable?,pca
+376,What do you know about explonatory variable?,pca
+377,Do you know about explonatory variable?,pca
+378,What is the process of explonatory variable?,pca
+379,How explonatory variable works ?,pca
+380,What is Feature extraction?,pca
+381,Tell me about Feature extraction?,pca
+382,What do you know about Feature extraction?,pca
+383,Do you know about Feature extraction?,pca
+384,What is the process of Feature extraction?,pca
+385,How Feature extraction works ?,pca
+386,About Feature extraction?,pca
+387,Let me know about Feature extraction?,pca
+388,say about Feature extraction?,pca
+389,What does Feature extraction mean?,pca
+390,Explain Feature extraction?,pca
+391,Define Feature extraction?,pca
+392,Can you explain about Feature extraction?,pca
+393,Can you say something about Feature extraction?,pca
+394,Can you explain briefly about Feature extraction?,pca
+395,"summary about Feature extraction?	",pca
+396,What is Feature selection?,pca
+397,Tell me about Feature selection?,pca
+398,What do you know about Feature selection?,pca
+399,Do you know about Feature selection?,pca
+400,What is the process of Feature selection?,pca
+401,How Feature selection works ?,pca
+402,About Feature selection?,pca
+403,Let me know about Feature selection?,pca
+404,say about Feature selection?,pca
+405,What does Feature selection mean?,pca
+406,Explain Feature selection?,pca
+407,Define Feature selection?,pca
+408,Can you explain about Feature selection?,pca
+409,Can you say something about Feature selection?,pca
+410,Can you explain briefly about Feature selection?,pca
+411,summary about Feature selection?,pca
+412,What is Standardization?,pca
+413,Tell me about Standardization?,pca
+414,What do you know about Standardization?,pca
+415,Do you know about Standardization?,pca
+416,What is the process of Standardization?,pca
+417,How Standardization works ?,pca
+418,About Standardization?,pca
+419,Let me know about Standardization?,pca
+420,say about Standardization?,pca
+421,What does Standardization mean?,pca
+422,Explain Standardization?,pca
+423,Define Standardization?,pca
+424,Can you explain about Standardization?,pca
+425,Can you say something about Standardization?,pca
+426,Can you explain briefly about Standardization?,pca
+427,summary about Standardization?,pca
+428,What is euclidean distance?,pca
+429,Tell me about euclidean distance?,pca
+430,What do you know about euclidean distance?,pca
+431,Do you know about euclidean distance?,pca
+432,What is the process of euclidean distance?,pca
+433,How euclidean distance works ?,pca
+434,About euclidean distance?,pca
+435,Let me know about euclidean distance?,pca
+436,say about euclidean distance?,pca
+437,What does euclidean distance mean?,pca
+438,Explain euclidean distance?,pca
+439,Define euclidean distance?,pca
+440,Can you explain about euclidean distance?,pca
+441,Can you say something about euclidean distance?,pca
+442,Can you explain briefly about euclidean distance?,pca
+443,summary about euclidean distance?,pca
+444,What is data compression?,pca
+445,Tell me about data compression?,pca
+446,What do you know about data compression?,pca
+447,Do you know about data compression?,pca
+448,What is the process of data compression?,pca
+449,How data compression works ?,pca
+450,About data compression?,pca
+451,Let me know about data compression?,pca
+452,say about data compression?,pca
+453,What does data compression mean?,pca
+454,Explain about data compression?,pca
+455,Define data compression?,pca
+456,Can you explain about data compression?,pca
+457,Can you say something about data compression?,pca
+458,Can you explain briefly about data compression?,pca
+459,summary about data compression?,pca
+460,What is data optimization?,pca
+461,Tell me about data optimization?,pca
+462,What do you know about data optimization?,pca
+463,Do you know about data optimization?,pca
+464,What is the process of data optimization?,pca
+465,How data optimization works ?,pca
+466,About data optimization?,pca
+467,Let me know about data optimization?,pca
+468,say about data optimization?,pca
+469,What does data optimization mean?,pca
+470,Explain about data optimization?,pca
+471,Define data optimization?,pca
+472,Can you explain about data optimization?,pca
+473,Can you say something about data optimization?,pca
+474,Can you explain briefly about data optimization?,pca
+475,summary about data optimization?,pca
+476,What are weights of principal components?,pca
+477,Tell me about weights of principal components?,pca
+478,What do you know about principal components weights?,pca
+479,Do you know about weights of principal components?,pca
+480,pca weights?,pca
+481,How weights of principal components works ?,pca
+482,Tell me about principal components weights?,pca
+483,About weights of principal components?,pca
+484,Let me know about weights of principal components?,pca
+485,say about weights of pca?,pca
+486,What does weights of principal components mean?,pca
+487,Explain weights of principal components?,pca
+488,Define weights of pca?,pca
+489,Can you explain about weights of principal components?,pca
+490,Can you say something about weights of principal components?,pca
+491,explain briefly about weights of principal components?,pca
+492,summary about pca weights?,pca
+493,correlation between the pca components?,pca
+494,what is the correlation between the pca components?,pca
+495,explain the correlation between the pca components?,pca
+496,describe the correlation between the pca components?,pca
+497,explain about the correlation between the pca components?,pca
+498,What are Loadings in principal components?,pca
+499,Tell me about Loadings in principal components?,pca
+500,What do you know about Loadings in principal components?,pca
+501,Do you know about Loadings in principal components?,pca
+502,What are principal component scores?,pca
+503,Tell me about principal component scores?,pca
+504,What do you know about principal component scores?,pca
+505,Do you know about principal component scores?,pca
+506,what is pcscores?,pca
+507,What is two-Dimensional space?,pca
+508,Tell me about two-Dimensional space?,pca
+509,What do you know about two-Dimensional space?,pca
+510,Do you know about two-Dimensional space?,pca
+511,What is the process of two-Dimensional space?,pca
+512,How two-Dimensional space works ?,pca
+513,About two-Dimensional space?,pca
+514,Let me know about two-Dimensional space?,pca
+515,say about two-Dimensional space?,pca
+516,What does two-Dimensional space mean?,pca
+517,Explain about two-Dimensional space?,pca
+518,Define two-Dimensional space?,pca
+519,Can you explain about two-Dimensional space?,pca
+520,Can you say something about two-Dimensional space?,pca
+521,Can you explain briefly about two-Dimensional space?,pca
+522,summary about two-Dimensional space?,pca
+523,What is three-Dimensional space?,pca
+524,Tell me about three-Dimensional space?,pca
+525,What do you know about three-Dimensional space?,pca
+526,Do you know about three-Dimensional space?,pca
+527,What is the process of three-Dimensional space?,pca
+528,How three-Dimensional space works ?,pca
+529,Tell me three-Dimensional space?,pca
+530,About three-Dimensional space?,pca
+531,Let me know about three-Dimensional space?,pca
+532,say about three-Dimensional space?,pca
+533,What does three-Dimensional space mean?,pca
+534,Explain three-Dimensional space?,pca
+535,Define three-Dimensional space?,pca
+536,Can you explain about three-Dimensional space?,pca
+537,Can you say something about three-Dimensional space?,pca
+538,Can you explain briefly about three-Dimensional space?,pca
+539,"summary about three-Dimensional space?	",pca
+540,What is N-Dimensional space?,pca
+541,Tell me about N-Dimensional space?,pca
+542,What do you know about N-Dimensional space?,pca
+543,Do you know about N-Dimensional space?,pca
+544,What is the process of N-Dimensional space?,pca
+545,How N-Dimensional space works ?,pca
+546,About N-Dimensional space?,pca
+547,Let me know about N-Dimensional space?,pca
+548,say about N-Dimensional space?,pca
+549,What does N-Dimensional space mean?,pca
+550,Explain about N-Dimensional space?,pca
+551,Define N-Dimensional space?,pca
+552,Can you explain about N-Dimensional space?,pca
+553,Can you say something about N-Dimensional space?,pca
+554,Can you explain briefly about N-Dimensional space?,pca
+555,summary about N-Dimensional space?,pca
+556,what is the primary difference between pca and clustering?,pca
+557,How pca is different from clustering?,pca
+558,Tell me about difference between pca and clustering?,pca
+559,What do you know about differencs pca and clustering?,pca
+560,Do you know about difference between pca and clustering?,pca
+561,Can you list out the critical assumptions of Principal component analysis ?,pca
+562,Critical assumptions of Principal component analysis ?,pca
+563,List of assumptions of Principal component analysis ?,pca
+564,Can you tell the critical assumptions of Principal component analysis ?,pca
+565,explain about the critical assumptions of pca?,pca
+566,what are the critical assumptions of pca ,pca
+567,What are Advantages of PCA?,pca
+568,Tell me about Advantages of PCA?,pca
+569,What do you know about Advantages of PCA?,pca
+570,Do you know about Advantages of PCA?,pca
+571,give the Advantages of PCA?   ,pca
+572,What are Disadvantages of PCA?,pca
+573, Tell me about Disadvantages of PCA?,pca
+574,What do you know about Disadvantages of PCA?,pca
+575,Do you know about Disadvantages of PCA?,pca
+576,explain the Disadvantages of Principal component analysis?,pca
+577,describe the Disadvantages of Principal component analysis?,pca
+578,Disadvantages of PCA?,pca
+579,Where can Principal component analysis be used?,pca
+580,Uses of Principal component analysis ?,pca
+581,Main Uses of Principal component analysis ?,pca
+582,Applications of Principal component analysis ?,pca
+583,uses of PCA?,pca
+584,benifits of using of PCA?,pca
+585,benifits of using principal component analysis?,pca
+586,What is Scree plot?,pca
+587,Tell me about Scree plot?,pca
+588,What do you know about Scree plot?,pca
+589,Do you know about Scree plot?,pca
+590,What is the process of Scree plot?,pca
+591,How Scree plot works ?,pca
+592,About Scree plot?,pca
+593,Let me know about Scree plot?,pca
+594,say about Scree plot?,pca
+595,What does Scree plot mean?,pca
+596,Explain about Scree plot?,pca
+597,Define Scree plot?,pca
+598,Can you explain about Scree plot?,pca
+599,Can you say something about Scree plot?,pca
+600,Can you explain briefly about Scree plot?,pca
+601,summary about Scree plot?,pca
+602,What is Biplot?,pca
+603,Tell me about Biplot?,pca
+604,What do you know about Biplot?,pca
+605,Do you know about Biplot?,pca
+606,What is the process of Biplot?,pca
+607,How Biplot works ?,pca
+608,About Biplot?,pca
+609,Let me know about Biplot?,pca
+610,say about Biplot?,pca
+611,What does Biplot mean?,pca
+612,Explain about Biplot?,pca
+613,Define Biplot?,pca
+614,Can you explain about Biplot?,pca
+615,Can you say something about Biplot?,pca
+616,Can you explain briefly about Biplot?,pca
+617,summary about Biplot?,pca
+618,What is ggplot?,pca
+619,Tell me about ggplot?,pca
+620,What do you know about ggplot?,pca
+621,Do you know about ggplot?,pca
+622,What is the process of ggplot?,pca
+623,How ggplot works ?,pca
+624,What is Raw data?,pca
+625,Tell me about Raw data?,pca
+626,What do you know about Raw data?,pca
+627,Do you know about Raw data?,pca
+628,What is the process of Raw data?,pca
+629,How Raw data works ?,pca
+630,Tell me Raw data?,pca
+631,About Raw data?,pca
+632,What do you say about Raw data?,pca
+633,What does Raw datamean?,pca
+634,Explain Raw data?,pca
+635,Define Raw data?,pca
+636,Can you explain about Raw data?,pca
+637,Can you say something about Raw data?,pca
+638,Can you explain briefly about Raw data?,pca
+639,Can you give a short summary about Raw data?What is Proportion of variance?,pca
+640,Tell me about Proportion of variance?,pca
+641,What do you know about Proportion of variance?,pca
+642,Do you know about Proportion of variance?,pca
+643,What is the process of Proportion of variance?,pca
+644,How Proportion of variance works ?,pca
+645,Tell me Proportion of variance?,pca
+646,About Proportion of variance?,pca
+647,What do you say about Proportion of variance?,pca
+648,What does Proportion of variancemean?,pca
+649,Explain Proportion of variance?,pca
+650,Define Proportion of variance?,pca
+651,Can you explain about Proportion of variance?,pca
+652,Can you say something about Proportion of variance?,pca
+653,Can you explain briefly about Proportion of variance?,pca
+654,Can you give a short summary about Proportion of variance?,pca
+655,What is cumulative proportion?,pca
+656,Tell me about cumulative proportion?,pca
+657,What do you know about cumulative proportion?,pca
+658,Do you know about cumulative proportion?,pca
+659,What is the process of cumulative proportion?,pca
+660,How cumulative proportion works ?,pca
+661,Tell me cumulative proportion?,pca
+662,About cumulative proportion?,pca
+663,What is cumulative proportion?,pca
+664,What do you say about cumulative proportion?,pca
+665,What does cumulative proportionmean?,pca
+666,Explain cumulative proportion?,pca
+667,Define cumulative proportion?,pca
+668,Can you explain about cumulative proportion?,pca
+669,Can you say something about cumulative proportion?,pca
+670,Can you explain briefly about cumulative proportion?,pca
+671,Can you give a short summary about cumulative proportion?,pca
+672,Tell me about SVD?,pca
+673,What do you know about SVD?,pca
+674,Do you know about Singular value decomposition?,pca
+675,What is the process of Singular value decomposition?,pca
+676,How Singular value decomposition works ?,pca
+677,About Singular value decomposition?,pca
+678,say about Singular value decomposition?,pca
+679,What does Singular value decomposition mean?,pca
+680,Explain about SVD?,pca
+681,Define Singular value decomposition?,pca
+682,Can you explain about Singular value decomposition?,pca
+683,Can you say something about Singular value decomposition?,pca
+684,Can you explain briefly about Singular value decomposition?,pca
+685,summary about SVD?,pca
+686,what is SVD?What is Equation in svd?,pca
+687,Tell me about Equation in svd?,pca
+688,What do you know about Equation in svd?,pca
+689,Do you know about Equation in svd?,pca
+690,What is the process of Equation in svd?,pca
+691,How Equation in svd works ?,pca
+692,Tell me Equation in svd?,pca
+693,About Equation in svd?,pca
+694,What do you say about Equation in svd?,pca
+695,What does Equation in svdmean?,pca
+696,Explain Equation in svd?,pca
+697,Define Equation in svd?,pca
+698,Can you explain about Equation in svd?,pca
+699,Can you say something about Equation in svd?,pca
+700,Can you explain briefly about Equation in svd?,pca
+701,Can you give a short summary about Equation in svd?,pca
+702,What is U and V in svd?,pca
+703,Tell me about U and V in svd?,pca
+704,What do you know about U and V in svd?,pca
+705,Do you know about U and V in svd?,pca
+706,What is the process of U and V in svd?,pca
+707,How U and V in svd works ?,pca
+708,Tell me U and V in svd?,pca
+709,About U and V in svd?,pca
+710,Let me know about U and V in svd?,pca
+711,What do you say about U and V in svd?,pca
+712,What does U and V in svdmean?,pca
+713,Explain U and V in svd?,pca
+714,Define U and V in svd?,pca
+715,Can you explain about U and V in svd?,pca
+716,Can you say something about U and V in svd?,pca
+717,Can you explain briefly about U and V in svd?,pca
+718,Short summary about U and V in svd?,pca
+719,What is D in svd?,pca
+720,Tell me about D in svd?,pca
+721,What do you know about D in svd?,pca
+722,Do you know about D in svd?,pca
+723,What is the process of D in svd?,pca
+724,How D in svd works ?,pca
+725,Tell me D in svd?,pca
+726,About D in svd?,pca
+727,Let me know about D in svd?,pca
+728,What do you say about D in svd?,pca
+729,What does D in svdmean?,pca
+730,Explain D in svd?,pca
+731,Define D in svd?,pca
+732,Can you explain about D in svd?,pca
+733,Can you say something about D in svd?,pca
+734,Can you explain briefly about D in svd?,pca
+735,Short summary about D in svd?What is Orthogonal matrix?,pca
+736,Tell me about Orthogonal matrix?,pca
+737,What do you know about Orthogonal matrix?,pca
+738,Do you know about Orthogonal matrix?,pca
+739,What is the process of Orthogonal matrix?,pca
+740,How Orthogonal matrix works ?,pca
+741,Tell me Orthogonal matrix?,pca
+742,About Orthogonal matrix?,pca
+743,Let me know about Orthogonal matrix?,pca
+744,What do you say about Orthogonal matrix?,pca
+745,What does Orthogonal matrixmean?,pca
+746,Explain Orthogonal matrix?,pca
+747,Define Orthogonal matrix?,pca
+748,Can you explain about Orthogonal matrix?,pca
+749,Can you say something about Orthogonal matrix?,pca
+750,Can you explain briefly about Orthogonal matrix?,pca
+751,Short summary about Orthogonal matrix?What is diagonal matrix?,pca
+752,Tell me about diagonal matrix?,pca
+753,What do you know about diagonal matrix?,pca
+754,Do you know about diagonal matrix?,pca
+755,What is the process of diagonal matrix?,pca
+756,How diagonal matrix works ?,pca
+757,Tell me diagonal matrix?,pca
+758,About diagonal matrix?,pca
+759,Let me know about diagonal matrix?,pca
+760,What do you say about diagonal matrix?,pca
+761,What does diagonal matrixmean?,pca
+762,Explain diagonal matrix?,pca
+763,Define diagonal matrix?,pca
+764,Can you explain about diagonal matrix?,pca
+765,Can you say something about diagonal matrix?,pca
+766,Can you explain briefly about diagonal matrix?,pca
+767,Can you give a short summary about diagonal matrix?What is R-value in svd?,pca
+768,Tell me about R-value in svd?,pca
+769,What do you know about R-value in svd?,pca
+770,Do you know about R-value in svd?,pca
+771,What is the process of R-value in svd?,pca
+772,How R-value in svd works ?,pca
+773,Tell me R-value in svd?,pca
+774,About R-value in svd?,pca
+775,Let me know about R-value in svd?,pca
+776,What do you say about R-value in svd?,pca
+777,What does R-value in svdmean?,pca
+778,Explain R-value in svd?,pca
+779,Define R-value in svd?,pca
+780,Can you explain about R-value in svd?,pca
+781,Can you say something about R-value in svd?,pca
+782,Can you explain briefly about R-value in svd?,pca
+783,Can you give a short summary about R-value in svd?,pca
+784,what is the primary difference between pca and svd?,pca
+785,How pca is differ from svd?,pca
+786,Tell me about pca and svd?,pca
+787,What do you know about pca and svd?,pca
+788,Do you know about pca and svd?,pca
+789,distinguish between pca and svd?,pca
+790,mention some differences between pca and svd?,pca
+791,what are main difeferences between  pca and svd?,pca
+792,tell me some differences between pca and svd?,pca
+793,list out some differences betwen pca and svd?,pca
+794,what is difference between pca and svd?,pca
+795,Differentiate between pca and svd?,pca
+796,Where can svd be used?,pca
+797,Uses of svd ?,pca
+798,Main Uses of svd ?,pca
+799,what are the Uses of svd ?,pca
+800,where do we use svd ?,pca
+801,tell me some uses of svd ?,pca
+802,list out some Uses of svd ?,pca
+803,what is the use of svd ?,pca
+804,where is svd Uses?,pca
+805,list me few uses of svd ?,pca
+806,what are the real time examples of svd ?,pca
+807,list some examples of svd ?advantages of SVD ?,pca
+808,Main advantages of SVD ?,pca
+809,what are the advantages of SVD ?,pca
+810,tell me some advantages of SVD ?,pca
+811,list out some advantages of SVD ?,pca
+812,Can you list out the advantages of SVD ?,pca
+813,List of advantages of SVD ?disadvantages of SVD ?,pca
+814,Main disadvantages of SVD ?,pca
+815,what are the disadvantages of SVD ?,pca
+816,tell me some disadvantages of SVD ?,pca
+817,list out some disadvantages of SVD ?,pca
+818,Can you list out the disadvantages of SVD ?,pca
+819,List of disadvantages of SVD ?,pca

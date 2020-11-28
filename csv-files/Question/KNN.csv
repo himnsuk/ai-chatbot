@@ -1,0 +1,218 @@
+line,question,question_type
+1,What is knn?,knn
+2,KNN?,knn
+3,What is KNN ?,knn
+4,What does KNN stands for?,knn
+5,What is full form of KNN?,knn
+6,What KNN mean?,knn
+7,what is the abbreviation of KNN?,knn
+8,How KNN works ?,knn
+9,What is working of KNN,knn
+10,explain the idea behind KNN,knn
+11,Define KNN,knn
+12,Can you explain about KNN?,knn
+13,Can you say something about K nearest neighbours?,knn
+14,explain the idea behind KNN,knn
+15,which type of algorithm is KNN,knn
+16,Under which type does the KNN algorithm falls,knn
+17,what kind of algorithm is KNN,knn
+18,Is KNN a classification or prediction algorithm,knn
+19,What type of work does KNN do,knn
+20,Under which learning does KNN comes in,knn
+21,Is KNN a supervised or unsupervised learning,knn
+22,Under which category does KNN comes?,knn
+23,What type of machine learning is KNN,knn
+24,What does K means in KNN,knn
+25,What does K stands for in KNN,knn
+26,What is K in KNN,knn
+27,What is the meaning of K in kNN,knn
+28,Is K only a short form in KNN?,knn
+29,Does K means anything in KNN?,knn
+30,What is the abbreviation of k in knn?,knn
+31,how to control complexity in knn,knn
+32,what factors depends to assign class,knn
+33,what are the factor that KNN looks into for classification ,knn
+34,On what measure is the KNN classification done?,knn
+35,On which basis is the classification done in KNN  ,knn
+36,What are the factor that leads to classification in KNN,knn
+37,What are the classifying factor in KNN,knn
+38,factor that influence the classification in KNN,knn
+39,How does the KNN classify there neighbour,knn
+40,Factors for knn classification,knn
+41,Factors that influence knn,knn
+42,How does the knn classification worksHow do we decide the k value?,knn
+43,How is the K value decided in KNN,knn
+44,What can be the K value in KNN,knn
+45,Is there any specific way to decide the K value?,knn
+46,how do we choose the value of k,knn
+47,what are the values that k can take?,knn
+48,What value can k take?,knn
+49,How do we select k value?,knn
+50,How do we know that the k value is proper,knn
+51,How can we say that the k value is correct? ,knn
+52,Is there anyway to say that the k value is correct,knn
+53,What is the method in which we can know that our K value is correct ,knn
+54,Method to verify the K value in KNN,knn
+55,When can we say k value is correct,knn
+56,How do we check the k value?How should be the data management done in the KNN model,knn
+57,What is the basic step to create a KNN model,knn
+58,How is the data managed in the KNN model,knn
+59,Should the data be divided before building the model,knn
+60,Do we directly start with the data to build the model?,knn
+61,What are the diffrent parts in which data is divided in KNN?   ,knn
+62,When should we stop increasing the k value ,knn
+63,At what point the k value should not be raised? ,knn
+64,What is the optimal point till when we should increase the K value?,knn
+65,What is the threshold upto which we should apply the K value,knn
+66,what is the end point of applying the K value ,knn
+67,Till what extend should we keep increasing the K value?,knn
+68,What is the maximum value after which we shouldn\'t increase the K value? ,knn
+69,What can be the highest peak of k?,knn
+70,What can be the best value for k,knn
+71,How do we select the best k value,knn
+72,how can we decide the proper value of k,knn
+73,When does the KNN go with Majority of the classes ?,knn
+74,When does majority comes in picture while assigning the K value? ,knn
+75,Why does the KNN goes with majority while classification,knn
+76,When does majority plays most important rule?,knn
+77,Why majority is an important factor in KNN classification,knn
+78,When does majority comes in picture?   What is KNN also known as?,knn
+79,Other name of KNN?,knn
+80,KNN can also be told as?,knn
+81,KNN can also be defined as?,knn
+82,Different name in which KNN can also be called?,knn
+83,Other possible way in which KNN can be called?,knn
+84,What are the other names of KNN,knn
+85,Name the methods to verify results KNN?,knn
+86,What is the process to check the result of KNN,knn
+87,In which format do we get the final results of the KNN,knn
+88,What is the vaidation technique that is used in KNN,knn
+89,How are accuracy measured in KNN,knn
+90,How is the validation of results done in KNN,knn
+91,In which format do we get the final results of the KNNWhich distance measure is commonly used in KNN,knn
+92,How do we measure the distance between the neighbours,knn
+93,What is the general measure used in KNN to calculate the distance in common,knn
+94,Which distance method is used in the KNN classification generally,knn
+95,Which one is the general distance calculation method we use in KNN,knn
+96,Which is the preferred distance calculation method in KNN,knn
+97,Which distance is used in knn?What are the application of KNN?,knn
+98,What are different fields were KNN can be used,knn
+99,KNN can be used in which of the different area?,knn
+100,Where all can be KNN used?,knn
+101,Which are the sectors that are benefited by KNN,knn
+102,What are the areas were KNN are applied successfully? ,knn
+103,Where can KNN be used? Where else can we use KNN,knn
+104,What are the other problems that KNN can solve,knn
+105,other than classification what is the use of KNN,knn
+106,Which are the other feilds were KNN can be used?,knn
+107,Other issues that can be solved by KNN are?,knn
+108,Issues which KNN solve other than classifications are?What are the other measure to calculate the distance in KNN,knn
+109,Different measure of calculating the distnace in KNN,knn
+110,Other than Euclidean which methods are  used to calculate the distance in KNN,knn
+111,Which are the other measures that are used by KNN excluding euclidean?,knn
+112,Which are the popular distance functions used other than Euclidean,knn
+113,What are the not so famous distance measure used in KNN other than Euclidean?,knn
+114,What are the other measure of distance in KNN?,knn
+115,Which distance measure is used for the Categorical variables?,knn
+116,Distance for the Categorical variabals can be calulated using which distance function ?,knn
+117,Categorical variabals are calculated by which distance function ,knn
+118,Popular distance function for categorical variables? ,knn
+119,Generally which distance function is used  for categorical variables in KNN,knn
+120,Which distnace is used for categorical variable?When does the KNN perform well?,knn
+121,Which points enhances the performance of KNN,knn
+122,Which are the factors to be remembered to check the performance in KNN,knn
+123,Points that influence the performance of KNN,knn
+124,How should be the scale of data for better performance of KNN,knn
+125,What should be the size of the input variable for the better performance of KNN ,knn
+126,When does the KNN struggles with the working,knn
+127,When is the working of the KNN smooth?KNN can be used to imput missing values for which kind of variable?,knn
+128,Variables that can be imputed using the KNN?,knn
+129,KNN helps in imputating missing values for which varibles?,knn
+130,How does the KNN helps with the missing values,knn
+131,What to do if we have missing values ?,knn
+132,What will happen if we increase the K value,knn
+133,Is there any effect if we keep increasing the K value?,knn
+134,How does increasing the K value helps us in KNN?,knn
+135,Is there any proper reason that we increase the K value?,knn
+136,Why is the k values increased high?,knn
+137,What is the reason for icreasing the k value constantly?,knn
+138,What do we do if the K value is too large,knn
+139,How is the large value of K is dealt with?,knn
+140,What happen to the class if the K value is large?,knn
+141,From where do we include points if K value is large?What happens if the K is having a small value?,knn
+142,How is the behaviour of KNN if the K value is small?,knn
+143,What are the effects of KNN if the K value is small?,knn
+144,What can be the output if the K value is small?,knn
+145,What will be the effect of K been too low or small?,knn
+146,How do we deal with the overfitting model in KNN ,knn
+147,How can we get rid of overfitting in KNN,knn
+148,How to solve the overfittng issue in KNN,knn
+149,What measures can be taken to over come overfitting in KNN,knn
+150,What will we do if we find that the model is overfitted,knn
+151,Which techniques are used to solve overfitting in KNN?,knn
+152,Can you tell the methods to deal with overfittng in KNN,knn
+153,Overfitting can be solved using which technique or method?,knn
+154,What to do if we have overfitting problem?What should we do if we find noise in our data?,knn
+155,How should we solve the problem of noise in our data?,knn
+156,If there is noise present in our data then what measure should we take?,knn
+157,How are the noise dealt in our data,knn
+158,Do we simply go on if there is noise in our data or we try to fix it?,knn
+159,What will happen if we decrease the Value of K in terms of variance?,knn
+160,What happens to variance if the K value is low?,knn
+161,How is variance effected if K is low?,knn
+162,Is there any connection of the k value and variance,knn
+163,What will we do if we find that the model is overfitted,knn
+164,Which techniques are used to solve overfitting in KNN?,knn
+165,Can you tell the methods to deal with overfittng in KNN,knn
+166,Overfitting can be solved using which technique or method?,knn
+167,What are the best way to prepare data for KNN?,knn
+168,What should be the measures taken to get the data ready for KNN,knn
+169,Which are the best pre-processing technique before performing KNN?,knn
+170,What are the points that should be kept in mind to build a KNN model,knn
+171,If there is noise present in our data then what measure should we take?,knn
+172,How are the noise dealt in our data,knn
+173,"Do we simply go on if there is noise in our data or we try to fix it?	",knn
+174,What are the pros of the KNN?,knn
+175,What are the advantages of KNN?,knn
+176,What are the benefits of KNN?,knn
+177,What makes KNN one of the good algorithm?,knn
+178,How can we say that the KNN is useful?,knn
+179,What are the cons of the KNN?,knn
+180,What are the disadvantages of KNN?,knn
+181,What are the faults of KNN?,knn
+182,What are the drawbacks of the KNN,knn
+183,What are the main downside of the KNNHow much time is needed to classify using KNN ,knn
+184,How long does KNN takes to classify a test example?,knn
+185,What amount of time is required for classification in KNN,knn
+186,Is there any relation of time and size of the example for classification in KNN,knn
+187,How does the time behave with the KNN classifier,knn
+188,Which package is used for KNN in R ?,knn
+189,What is the name of the package for KNN in R?,knn
+190,Which package is required for KNN in R ,knn
+191,Name the package for KNN in R?,knn
+192,How do we use KNN in R? ,knn
+193,To work with KNN in R which is the required package?,knn
+194,Which package is used for KNN in python ?,knn
+195,What is the name of the package for KNN in python?,knn
+196,Which package is required for KNN in python ,knn
+197,Name the package for KNN in python?,knn
+198,How do we use KNN in python? ,knn
+199,To work with KNN in python which is the required package?When is confusion matrix used for the final result?,knn
+200,What does confusion matrix does?,knn
+201,Why do we use confusion matrix for the results?,knn
+202,In which situation do we need confusion matrix?,knn
+203,Why confusion matrix when we have crosstable?,knn
+204,When do we use crosstable for the final result?,knn
+205,What does crosstable matrix does,knn
+206,Why do we use crosstable for the results?,knn
+207,In which situation do we need crosstable?,knn
+208,Why crosstable when we have confusion matrix?,knn
+209,How do we say that we are having overfitting problem,knn
+210,When do we come to know that there is overfitting?,knn
+211,When can we say that the model is been overfit?,knn
+212,What proves that we are having overfitting problems?,knn
+213,How does the problem of overfitting is known to us?,knn
+214,how to increase accuracy?,knn
+215,how to increase accuracy of knn?,knn
+216,how to increase accuracy in knn algorithm?,knn
+217,how to increase accuracy of K-Nearest Neighbour?how to decide best model?,knn

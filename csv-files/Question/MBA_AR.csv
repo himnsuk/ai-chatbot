@@ -1,0 +1,355 @@
+line,question,question_type
+1,What is market basket analysis?,market basket
+2,Tell me about market basket analysis?,market basket
+3,What do you know about market basket analysis?,market basket
+4,Do you know about market basket analysis?,market basket
+5,What is the process of market basket analysis?,market basket
+6,How market basket analysis works ?,market basket
+7,Tell me market basket analysis?,market basket
+8,About market basket analysis?,market basket
+9,Let me know about market basket analysis?,market basket
+10,What is market basket analysis?,market basket
+11,What do you say about market basket analysis?,market basket
+12,What does market basket analysismean?,market basket
+13,Explain market basket analysis?,market basket
+14,Define market basket analysis?,market basket
+15,Can you explain about market basket analysis?,market basket
+16,What is itemset?,market basket
+17,Tell me about itemset?,market basket
+18,What do you know about itemset?,market basket
+19,Do you know about itemset?,market basket
+20,What is the process of itemset?,market basket
+21,How itemset works ?,market basket
+22,Tell me itemset?,market basket
+23,About itemset?,market basket
+24,Let me know about itemset?,market basket
+25,What is itemset in market basket analysis?,market basket
+26,What do you say about itemset?,market basket
+27,What does itemsetmean?,market basket
+28,Explain itemset?,market basket
+29,Define itemset?,market basket
+30,Can you explain about itemset?,market basket
+31,Can you give a short summary about itemset?,market basket
+32,What is purpose of market basket analysis?,market basket
+33,Tell me about purpose of market basket analysis?,market basket
+34,What do you know about purpose of market basket analysis?,market basket
+35,Do you know about purpose of market basket analysis?,market basket
+36,What is the process of purpose of market basket analysis?,market basket
+37,How purpose of market basket analysis works ?,market basket
+38,Tell me purpose of market basket analysis?,market basket
+39,About purpose of market basket analysis?,market basket
+40,Let me know about purpose of market basket analysis?,market basket
+41,What is purpose of market basket analysis?,market basket
+42,What do you say about purpose of market basket analysis?,market basket
+43,What does purpose of market basket analysismean?,market basket
+44,Explain purpose of market basket analysis?,market basket
+45,Define purpose of market basket analysis?,market basket
+46,Can you explain about purpose of market basket analysis?,market basket
+47,What is association rules in market basket analisis?,market basket
+48,Tell me about association rules in market basket analisis?,market basket
+49,What do you know about association rules in market basket analisis?,market basket
+50,Do you know about association rules in market basket analisis?,market basket
+51,What is the process of association rules in market basket analisis?,market basket
+52,How association rules in market basket analisis works ?,market basket
+53,Tell me association rules in market basket analisis?,market basket
+54,About association rules in market basket analisis?,market basket
+55,Let me know about association rules in market basket analisis?,market basket
+56,What is association rules in market basket analisis?,market basket
+57,What do you say about association rules in market basket analisis?,market basket
+58,What does association rules in market basket analisismean?,market basket
+59,Explain association rules in market basket analisis?,market basket
+60,Define association rules in market basket analisis?,market basket
+61,Can you explain about association rules in market basket analisis?,market basket
+62,Can you say something about association rules in market basket analisis?,market basket
+63,how to measures association rules?,market basket
+64,how to calculate association rules in market basket analysis?,market basket
+65,measures of association rules?,market basket
+66,process of calculate association rules?,market basket
+67,Tell me about calculating the association rules in market basket analysis?,market basket
+68,What do you know about calculate the association  rules?,market basket
+69,calculate the association rules?,market basket
+70,Tell me the process of association rules?,market basket
+71,What are types of techniques are used to measure the association rules in market basket analysis?,market basket
+72,Tell me types of techniques are used to measure the association rules?,market basket
+73,Do you know types of  techniques are used to measure the association rules?,market basket
+74,Types of  techniques are used to measure the association rules?,market basket
+75,Different types of  techniques are used to measure the association rules?,market basket
+76,What are the different types of techniques are used to measure the association rules?,market basket
+77,how many types of techniques are used to measure the association rules are there?,market basket
+78,What are the important types of techniques are used to measure the association rules?,market basket
+79,list out different types of techniques are used to measure the association rules?,market basket
+80,what are the various types of techniques are used to measure the association rules?,market basket
+81,list out various types of techniques are used to measure the association rules?,market basket
+82,mention some techniques are used to measure the association rules?,market basket
+83,say different techniques are used to measure the association rules,market basket
+84,do you know the various types of techniques are used to measure the association rules?,market basket
+85,Where can market basket analysis be used?,market basket
+86,Uses of market basket analysis ?,market basket
+87,Main Uses of market basket analysis ?,market basket
+88,what are the Uses of market basket analysis ?,market basket
+89,where do we use market basket analysis ?,market basket
+90,tell me some uses of market basket analysis ?,market basket
+91,list out some Uses of market basket analysis ?,market basket
+92,what is the use of market basket analysis ?,market basket
+93,where is market basket analysis Uses?,market basket
+94,list me few uses of market basket analysis ?,market basket
+95,what are the real time examples of market basket analysis ?,market basket
+96,list some examples of market basket analysis ?,market basket
+97,Where can association rule be used?,market basket
+98,Uses of association rule ?,market basket
+99,Main Uses of association rule ?,market basket
+100,what are the Uses of association rule ?,market basket
+101,where do we use association rule in market basket analysis?,market basket
+102,tell me some uses of association rule ?,market basket
+103,list out some Uses of association rule ?,market basket
+104,what is the use of association rule in market basket analysis?,market basket
+105,where is association rule Uses?,market basket
+106,list me few uses of association rule ?,market basket
+107,what are the real time examples of association rule in market basket analysis?,market basket
+108,list some examples of association rule ?,market basket
+109,What is support in market based analysis?,market basket
+110,Tell me about support?,market basket
+111,What do you know about support?,market basket
+112,Do you know about support in market basket analysis?,market basket
+113,What is the process of support?,market basket
+114,How support works ?,market basket
+115,Tell me support in market basket analysis?,market basket
+116,About support?,market basket
+117,Let me know about support?,market basket
+118,What is support?,market basket
+119,What do you say about support?,market basket
+120,What does support mean in market basket analysis?,market basket
+121,Explain support in market basket analysis?,market basket
+122,Define support in market basket analysis?,market basket
+123,Can you explain about support in market basket analysis?,market basket
+124,What is confidence in market based analysis?,market basket
+125,Tell me about confidence?,market basket
+126,What do you know about confidence?,market basket
+127,Do you know about confidence in market basket analysis?,market basket
+128,What is the process of confidence?,market basket
+129,How confidence works ?,market basket
+130,Tell me confidence in market basket analysis?,market basket
+131,About confidence?,market basket
+132,Let me know about confidence?,market basket
+133,What is confidence?,market basket
+134,What do you say about confidence?,market basket
+135,What does confidence mean in market basket analysis?,market basket
+136,Explain confidence in market basket analysis?,market basket
+137,Define confidence in market basket analysis?,market basket
+138,Can you explain about confidence in market basket analysis?,market basket
+139,What is lift in market based analysis?,market basket
+140,Tell me about lift?,market basket
+141,What do you know about lift?,market basket
+142,Do you know about lift in market basket analysis?,market basket
+143,What is the process of lift?,market basket
+144,How lift works ?,market basket
+145,Tell me lift in market basket analysis?,market basket
+146,About lift?,market basket
+147,Let me know about lift?,market basket
+148,What is lift?,market basket
+149,What do you say about lift?,market basket
+150,What does lift mean in market basket analysis?,market basket
+151,Explain lift in market basket analysis?,market basket
+152,Define lift in market basket analysis?,market basket
+153,Can you explain about lift in market basket analysis?,market basket
+154,What is role of association rule in market basket analysis?,market basket
+155,Tell me about role of association rule in market basket analysis?,market basket
+156,What do you know about role of association rule in market basket analysis?,market basket
+157,Do you know about role of association rule in market basket analysis?,market basket
+158,What is the process of role of association rule in market basket analysis?,market basket
+159,How role of association rule in market basket analysis works ?,market basket
+160,Tell me role of association rule in market basket analysis?,market basket
+161,About role of association rule in market basket analysis?,market basket
+162,Let me know about role of association rule in market basket analysis?,market basket
+163,What do you say about role of association rule in market basket analysis?,market basket
+164,What does role of association rule in market basket analysismean?,market basket
+165,Explain role of association rule in market basket analysis?,market basket
+166,Define role of association rule in market basket analysis?,market basket
+167,Can you explain about role of association rule in market basket analysis?,market basket
+168,What is association rule?,market basket
+169,Tell me about association rule?,market basket
+170,What do you know about association rule in market basket rule?,market basket
+171,Do you know about association rule?,market basket
+172,What is the process of association rule?,market basket
+173,How association rule works ?,market basket
+174,Tell me association rule?,market basket
+175,About association rule?,market basket
+176,Let me know about association rule?,market basket
+177,What is association rule in market basket rule?,market basket
+178,What do you say about association rule?,market basket
+179,What does association rulemean?,market basket
+180,Explain association rule?,market basket
+181,Define association rule?,market basket
+182,Can you explain about association rule?,market basket
+183,What are types of rules to measure the association rules?,market basket
+184,Tell me types of rules to measure the association rules?,market basket
+185,rules to measure the association rules?,market basket
+186,Types of  rules to measure the association rules?,market basket
+187,Different types of  rules to measure the association rules?,market basket
+188,What are the different types of rules to measure the association rules?,market basket
+189,how many types of rules to measure the association rules are there?,market basket
+190,What are the important types of rules to measure the association rules?,market basket
+191,list out different types of rules to measure the association rules?,market basket
+192,what are the various types of rules to measure the association rules?,market basket
+193,list out various types of rules to measure the association rules?,market basket
+194,mention some rules to measure the association rulesmethods?,market basket
+195,say different rules to measure the association rulesmethods?,market basket
+196,various types of rules to measure the association rules?,market basket
+197,Where can market basket analysis be applicable?,market basket
+198,applications of market basket analysis ?,market basket
+199,Main applications of market basket analysis ?,market basket
+200,what are the applications of market basket analysis ?,market basket
+201,where do we applicable market basket analysis ?,market basket
+202,tell me some applications of market basket analysis ?,market basket
+203,list out some applications of market basket analysis ?,market basket
+204,what is the applications of market basket analysis ?,market basket
+205,where is market basket analysis applicable?,market basket
+206,list me few applications of market basket analysis ?,market basket
+207,What is sequential pattern mining?,market basket
+208,Tell me about sequential pattern mining?,market basket
+209,What do you know about sequential pattern mining in market basket analysis?,market basket
+210,Do you know about sequential pattern mining?,market basket
+211,What is the process of sequential pattern mining?,market basket
+212,How sequential pattern mining works in market basket analysis?,market basket
+213,Tell me sequential pattern mining?,market basket
+214,About sequential pattern mining?,market basket
+215,Let me know about sequential pattern mining?,market basket
+216,What is sequential pattern mining in market basket analysis?,market basket
+217,What do you say about sequential pattern mining?,market basket
+218,What does sequential pattern miningmean?,market basket
+219,Explain sequential pattern mining?,market basket
+220,Define sequential pattern mining?,market basket
+221,Can you explain about sequential pattern mining?Where can association rules be applicable?,market basket
+222,applications of association rules ?,market basket
+223,Main applications of association rules ?,market basket
+224,what are the applications of association rules ?,market basket
+225,where do we applicable association rules ?,market basket
+226,tell me some applications of association rules ?,market basket
+227,list out some applications of association rules ?,market basket
+228,what is the applications of association rules ?,market basket
+229,where is association rules applicable?,market basket
+230,list me few applications of association rules ?,market basket
+231,What is lift ratio?,market basket
+232,Tell me about lift ratio?,market basket
+233,What do you know about lift ratio?,market basket
+234,Do you know about lift ratio?,market basket
+235,What is the process of lift ratio in market basket analysis?,market basket
+236,How lift ratio works ?,market basket
+237,Tell me lift ratio in market basket analysis?,market basket
+238,About lift ratio?,market basket
+239,Let me know about lift ratio?,market basket
+240,What is lift ratio in market basket analysis?,market basket
+241,What do you say about lift ratio?,market basket
+242,What does lift ratio mean in market basket analysis?,market basket
+243,Explain lift ratio?,market basket
+244,Define lift ratio?,market basket
+245,Can you explain about lift ratio?    What is benchmark confidence?,market basket
+246,Tell me about benchmark confidence?,market basket
+247,What do you know about benchmark confidence in market basket analysis?,market basket
+248,Do you know about benchmark confidence?,market basket
+249,What is the process of benchmark confidence?,market basket
+250,How benchmark confidence works ?,market basket
+251,Tell me benchmark confidence?,market basket
+252,About benchmark confidence?,market basket
+253,Let me know about benchmark confidence?,market basket
+254,What is benchmark confidence in market basket analysis?,market basket
+255,What do you say about benchmark confidence in market basket analysis?,market basket
+256,What does benchmark confidencemean?,market basket
+257,Explain benchmark confidence?,market basket
+258,Define benchmark confidence in market basket analysis?,market basket
+259,Can you explain about benchmark confidence?What is Apriori Algorithm?,market basket
+260,Tell me about Apriori Algorithm?,market basket
+261,What do you know about Apriori Algorithm?,market basket
+262,Do you know about Apriori Algorithm in market based analysis?,market basket
+263,What is the process of Apriori Algorithm?,market basket
+264,How Apriori Algorithm works ?,market basket
+265,Tell me Apriori Algorithm in market basket analysis?,market basket
+266,About Apriori Algorithm?,market basket
+267,Let me know about Apriori Algorithm?,market basket
+268,What is Apriori Algorithm in market basket analysis?,market basket
+269,What do you say about Apriori Algorithm?,market basket
+270,What does Apriori Algorithmmean?,market basket
+271,Explain Apriori Algorithm?,market basket
+272,Define Apriori Algorithm in market basket analysis?,market basket
+273,Can you explain about Apriori Algorithm? What are the libraries  for market basket analysis?,market basket
+274,Tell me types of libraries for market basket analysis?,market basket
+275,Do you know types of  libraries  for market basket analysis?,market basket
+276,Types of  libraries  for market basket analysis?,market basket
+277,Different types of  libraries  for market basket analysis?,market basket
+278,What are the different types of libraries  for market basket analysis?,market basket
+279,how many types of libraries  for market basket analysis are there?,market basket
+280,What are the important types of libraries  for market basket analysis?,market basket
+281,list out different types of libraries  for market basket analysis?,market basket
+282,what are the various types of libraries  for market basket analysis?,market basket
+283,libraries  for market basket analysis?,market basket
+284,mention some libraries  for market basket analysismethods?,market basket
+285,say different libraries  for market basket analysismethods?,market basket
+286,do you know the various types of libraries  for market basket analysis?What is relationship mining?,market basket
+287,Tell me about relationship mining in market basket analysis?,market basket
+288,What do you know about relationship mining?,market basket
+289,Do you know about relationship mining?,market basket
+290,What is the process of relationship mining in market basket analysis?,market basket
+291,How relationship mining works ?,market basket
+292,Tell me relationship mining in market basket analysis ?,market basket
+293,About relationship mining?,market basket
+294,Let me know about relationship mining?,market basket
+295,What is relationship mining in market basket analysis?,market basket
+296,What do you say about relationship mining?,market basket
+297,What does relationship mining mean?,market basket
+298,Explain relationship mining?,market basket
+299,Define relationship mining?,market basket
+300,Can you explain about relationship mining?What is Affinity analysis?,market basket
+301,Tell me about Affinity analysis?,market basket
+302,What do you know about Affinity analysis?,market basket
+303,Do you know about Affinity analysis in market basket analysis?,market basket
+304,What is the process of Affinity analysis?,market basket
+305,How Affinity analysis works ?,market basket
+306,Tell me Affinity analysis in market basket analysis?,market basket
+307,About Affinity analysis?,market basket
+308,Let me know about Affinity analysis?,market basket
+309,What is Affinity analysis in market basket analysis?,market basket
+310,What do you say about Affinity analysis?,market basket
+311,What does Affinity analysis mean?,market basket
+312,Explain Affinity analysis?,market basket
+313,Define Affinity analysis in market basket analysis?,market basket
+314,Can you explain about Affinity analysis?,market basket
+315,advantages of market basket analysis ?,market basket
+316,Main advantages of market basket analysis ?,market basket
+317,what are the advantages of market basket analysis ?,market basket
+318,tell me some advantages of market basket analysis ?,market basket
+319,list out some advantages of market basket analysis ?,market basket
+320,list me few advantages of market basket analysis ?,market basket
+321,list some advantages of market basket analysis ?,market basket
+322,Can you list out the advantages of market basket analysis ?,market basket
+323,advantages of market basket analysis ?,market basket
+324,List of advantages of market basket analysis ?disadvantages of market basket analysis ?,market basket
+325,Main disadvantages of market basket analysis ?,market basket
+326,what are the disadvantages of market basket analysis ?,market basket
+327,tell me some disadvantages of market basket analysis ?,market basket
+328,list out some disadvantages of market basket analysis ?,market basket
+329,list me few disadvantages of market basket analysis ?,market basket
+330,list some disadvantages of market basket analysis ?,market basket
+331,Can you list out the disadvantages of market basket analysis ?,market basket
+332,disadvantages of market basket analysis ?,market basket
+333,List of disadvantages of market basket analysis ?,market basket
+334,What is the role of big data in market basket analysis?,market basket
+335,Tell me about role of big data in market basket analysis?,market basket
+336,What do you know about role of big data in market basket analysis?,market basket
+337,Do you know about role of big data in market basket analysis?,market basket
+338,What is the process of role of big data in market basket analysis?,market basket
+339,How role of big data in market basket analysis works ?,market basket
+340,Tell me role of big data in market basket analysis?,market basket
+341,About role of big data in market basket analysis?,market basket
+342,Let me know about role of big data in market basket analysis?,market basket
+343,What do you say about role of big data in market basket analysis?,market basket
+344,What does role of big data in market basket analysismean?,market basket
+345,Explain role of big data in market basket analysis?,market basket
+346,Define role of big data in market basket analysis?,market basket
+347,Can you explain about role of big data in market basket analysis?which type of data is required for market basket analysis?,market basket
+348,what type of data is required for market basket analysis?,market basket
+349,type of data is required for market basket analysis?,market basket
+350,which type of data is suitable for market basket analysis?,market basket
+351,data for market basket analysis?,market basket
+352,which type of data most suitable for market basket analysis?,market basket
+353,market basket analysis model build with this type of data only?,market basket
+354,tell me about which is more suitable data to market basket analysis?,market basket

@@ -1,0 +1,449 @@
+line,question,question_type
+1,What is recommendation system?,recomendation
+2,Tell me about recommendation system?,recomendation
+3,What do you know about recommendation system?,recomendation
+4,Do you know about recommendation system?,recomendation
+5,What do you know about recommendation system?,recomendation
+6,Do you know about recommendation system?,recomendation
+7,What do you know about recommendation system?,recomendation
+8,Do you know about recommendation system?,recomendation
+9,What do you know about recommendation system?,recomendation
+10,Do you know about recommendation system?,recomendation
+11,What do you know about recommendation system?,recomendation
+12,Do you know about recommendation system?,recomendation
+13,What do you know about recommendation system?,recomendation
+14,Do you know about recommendation system?,recomendation
+15,What do you know about recommendation system?,recomendation
+16,Do you know about recommendation system?,recomendation
+17,What do you know about recommendation system?,recomendation
+18,Do you know about recommendation system?,recomendation
+19,What do you know about recommendation system?,recomendation
+20,Do you know about recommendation system?,recomendation
+21,What do you know about recommendation system?,recomendation
+22,Do you know about recommendation system?,recomendation
+23,What do you know about recommendation system?,recomendation
+24,Do you know about recommendation system?,recomendation
+25,What do you know about recommendation system?,recomendation
+26,Do you know about recommendation system?,recomendation
+27,What do you know about recommendation system?,recomendation
+28,Do you know about recommendation system?,recomendation
+29,What do you know about recommendation system?,recomendation
+30,Do you know about recommendation system?,recomendation
+31,What do you know about recommendation system?,recomendation
+32,Do you know about recommendation system?,recomendation
+33,What do you know about recommendation system?,recomendation
+34,Do you know about recommendation system?,recomendation
+35,What do you know about recommendation system?,recomendation
+36,Do you know about recommendation system?,recomendation
+37,What do you know about recommendation system?,recomendation
+38,Do you know about recommendation system?,recomendation
+39,What do you know about recommendation system?,recomendation
+40,Do you know about recommendation system?,recomendation
+41,What do you know about recommendation system?,recomendation
+42,Do you know about recommendation system?,recomendation
+43,What is the process of recommendation system?,recomendation
+44,How recommendation system works ?,recomendation
+45,About recommendation system?,recomendation
+46,What is recommendation system?,recomendation
+47,What do you say about recommendation system?,recomendation
+48,What does recommendation systemmean?,recomendation
+49,Explain recommendation system?,recomendation
+50,Define recommendation system?,recomendation
+51,Explain about recommendation system?,recomendation
+52,Say something about recommendation system?,recomendation
+53,Briefly give a note on recommendation system?,recomendation
+54,Give a short summary about recommendation system?,recomendation
+55,What is collaborative filtering?,recomendation
+56,Tell me about collaborative filtering?,recomendation
+57,What do you know about collaborative filtering?,recomendation
+58,How collaborative filtering works ?,recomendation
+59,Let me know about collaborative filtering?,recomendation
+60,What is collaborative filtering?,recomendation
+61,What do you say about collaborative filtering?,recomendation
+62,What does collaborative filtering mean?,recomendation
+63,Explain collaborative filtering?,recomendation
+64,Define collaborative filtering?,recomendation
+65,Explain about collaborative filtering?,recomendation
+66,Say something about collaborative filtering?,recomendation
+67,Briefly give a note on collaborative filtering?,recomendation
+68,Give a short summary about collaborative filtering?,recomendation
+69,What is personalized suggestions?,recomendation
+70,Tell me about personalized suggestions?,recomendation
+71,What do you know about personalized suggestions?,recomendation
+72,Do you know about personalized suggestions?,recomendation
+73,What is the process of personalized suggestions?,recomendation
+74,How personalized suggestions works ?,recomendation
+75,What do you say about personalized suggestions?,recomendation
+76,What does personalized suggestions mean?,recomendation
+77,Explain personalized suggestions?,recomendation
+78,Define personalized suggestions?,recomendation
+79,Explain about personalized suggestions?,recomendation
+80,Say something about personalized suggestions?,recomendation
+81,Briefly give a note on personalized suggestions?,recomendation
+82,Give a short summary about personalized suggestions?,recomendation
+83,what is other name for recommender system?,recomendation
+84,recommender systems also known as?,recomendation
+85,what is another name for collaborative filtering?,recomendation
+86,collaborative filtering is also known as?,recomendation
+87,What is personalized stratigies?,recomendation
+88,Tell me about personalized stratigies?,recomendation
+89,What do you know about personalized stratigies?,recomendation
+90,Do you know about personalized stratigies?,recomendation
+91,What is the process of personalized stratigies?,recomendation
+92,How personalized stratigies works ?,recomendation
+93,Let me know about personalized stratigies?,recomendation
+94,What do you say about personalized stratigies?,recomendation
+95,What does personalized stratigiesmean?,recomendation
+96,Explain personalized stratigies?,recomendation
+97,Define personalized stratigies?,recomendation
+98,Explain about personalized stratigies?,recomendation
+99,Say something about personalized stratigies?,recomendation
+100,Briefly give a note on personalized stratigies?,recomendation
+101,Give a short summary about personalized stratigies?,recomendation
+102,What is generic strategies?,recomendation
+103,Tell me about generic strategies?,recomendation
+104,What do you know about generic strategies?,recomendation
+105,Do you know about generic strategies?,recomendation
+106,What is the process of generic strategies?,recomendation
+107,How generic strategies works ?,recomendation
+108,What is generic strategies?,recomendation
+109,What do you say about generic strategies?,recomendation
+110,What does generic strategies mean?,recomendation
+111,Explain generic strategies?,recomendation
+112,Define generic strategies?,recomendation
+113,Say something about generic strategies?,recomendation
+114,Briefly give a note on generic strategies?,recomendation
+115,Give a short summary about generic strategies?,recomendation
+116,What is similarity measures?,recomendation
+117,Tell me about similarity measures?,recomendation
+118,What do you know about similarity measures?,recomendation
+119,What is the process of similarity measures?,recomendation
+120,How similarity measures works ?,recomendation
+121,What is similarity measures?,recomendation
+122,What do you say about similarity measures?,recomendation
+123,What does similarity measuresmean?,recomendation
+124,Explain similarity measures?,recomendation
+125,Define similarity measures?,recomendation
+126,Explain about similarity measures?,recomendation
+127,Say something about similarity measures?,recomendation
+128,Briefly give a note on similarity measures?,recomendation
+129,Give a short summary about similarity measures?,recomendation
+130,What is cosine similarity?,recomendation
+131,Tell me about cosine similarity?,recomendation
+132,What is the process of cosine similarity?,recomendation
+133,How cosine similarity works ?,recomendation
+134,What is cosine similarity?,recomendation
+135,What does cosine similaritymean?,recomendation
+136,Explain cosine similarity?,recomendation
+137,Define cosine similarity?,recomendation
+138,Explain about cosine similarity?,recomendation
+139,Say something about cosine similarity?,recomendation
+140,Briefly give a note on cosine similarity?,recomendation
+141,Give a short summary about cosine similarity?,recomendation
+142,What is corelation?,recomendation
+143,Tell me about corelation?,recomendation
+144,What is the process of corelation?,recomendation
+145,How corelation works ?,recomendation
+146,What does corelation mean?,recomendation
+147,Explain corelation?,recomendation
+148,Define corelation?,recomendation
+149,Explain about corelation?,recomendation
+150,Say something about corelation?,recomendation
+151,Briefly give a note on corelation?,recomendation
+152,Give a short summary about corelation?,recomendation
+153,Tell me about inverse frequency?,recomendation
+154,What is the process of inverse frequency?,recomendation
+155,How inverse frequency works ?,recomendation
+156,About inverse frequency?,recomendation
+157,What is inverse frequency?,recomendation
+158,What does inverse frequencymean?,recomendation
+159,Explain inverse frequency?,recomendation
+160,Define inverse frequency?,recomendation
+161,Explain about inverse frequency?,recomendation
+162,Say something about inverse frequency?,recomendation
+163,Briefly give a note on inverse frequency?,recomendation
+164,Give a short summary about inverse frequency?,recomendation
+165,What is euclidean distance?,recomendation
+166,Tell me about euclidean distance?,recomendation
+167,What is the process of euclidean distance?,recomendation
+168,How euclidean distance works ?,recomendation
+169,About euclidean distance?,recomendation
+170,What does euclidean distance mean?,recomendation
+171,Explain euclidean distance?,recomendation
+172,Define euclidean distance?,recomendation
+173,Explain about euclidean distance?,recomendation
+174,Say something about euclidean distance?,recomendation
+175,Briefly give a note on euclidean distance?,recomendation
+176,Give a short summary about euclidean distance?,recomendation
+177,Tell me about manhattan distance?,recomendation
+178,What is the process of manhattan distance?,recomendation
+179,How manhattan distance works ?,recomendation
+180,What is manhattan distance?,recomendation
+181,What does manhattan distancemean?,recomendation
+182,Explain manhattan distance?,recomendation
+183,Define manhattan distance?,recomendation
+184,Explain about manhattan distance?,recomendation
+185,Say something about manhattan distance?,recomendation
+186,Briefly give a note on manhattan distance?,recomendation
+187,Give a short summary about manhattan distance?,recomendation
+188,what is the primary difference between euclidean distance and manhattan distance?,recomendation
+189,How euclidean distance is differ from manhattan distance?,recomendation
+190,Tell me about euclidean distance and manhattan distance?,recomendation
+191,What do you know about euclidean distance and manhattan distance?,recomendation
+192,distinguish between euclidean distance and manhattan distance?,recomendation
+193,mention some differences between euclidean distance and manhattan distance?,recomendation
+194,what are main difeferences between  euclidean distance and manhattan distance?,recomendation
+195,tell me some differences between euclidean distance and manhattan distance?,recomendation
+196,list out some differences betwen euclidean distance and manhattan distance?,recomendation
+197,what is difference between euclidean distance and manhattan distance?,recomendation
+198,Differentiate between euclidean distance and manhattan distance?,recomendation
+199,comparison between euclidean distance and manhattan distance?,recomendation
+200,Tell me about nearest neighbours?,recomendation
+201,What is nearest neighbours?,recomendation
+201,What does nearest neighboursmean?,recomendation
+202,Explain nearest neighbours?,recomendation
+203,Define nearest neighbours?,recomendation
+204,Explain about nearest neighbours?,recomendation
+205,Say something about nearest neighbours?,recomendation
+206,Briefly give a note on nearest neighbours?,recomendation
+207,Give a short summary about nearest neighbours?,recomendation
+208,What is dissimilarity measure?,recomendation
+209,Tell me about dissimilarity measure?,recomendation
+210,What is the process of dissimilarity measure?,recomendation
+211,How dissimilarity measure works ?,recomendation
+212,What does dissimilarity measure mean?,recomendation
+213,Explain dissimilarity measure?,recomendation
+214,Define dissimilarity measure?,recomendation
+215,Explain about dissimilarity measure?,recomendation
+216,Say something about dissimilarity measure?,recomendation
+217,Briefly give a note on dissimilarity measure?,recomendation
+218,Give a short summary about dissimilarity measure?,recomendation
+219,Tell me about covariance?,recomendation
+220,What is the process of covariance?,recomendation
+221,How covariance works ?,recomendation
+222,What does covariance mean?,recomendation
+223,Explain covariance?,recomendation
+224,Define covariance?,recomendation
+225,Explain about covariance?,recomendation
+226,Say something about covariance?,recomendation
+227,Briefly give a note on covariance?,recomendation
+228,Give a short summary about covariance?,recomendation
+229,what is the primary difference between corelation and covariance?,recomendation
+230,How corelation is differ from covariance?,recomendation
+231,Tell me about corelation and covariance?,recomendation
+232,What do you know about corelation and covariance?,recomendation
+233,Do you know about corelation and covariance?,recomendation
+234,distinguish between corelation and covariance?,recomendation
+235,mention some differences between corelation and covariance?,recomendation
+236,what are main difeferences between  corelation and covariance?,recomendation
+237,tell me some differences between corelation and covariance?,recomendation
+238,list out some differences betwen corelation and covariance?,recomendation
+239,what is difference between corelation and covariance?,recomendation
+240,Differentiate between corelation and covariance?,recomendation
+241,comparison between corelation and covariance?,recomendation
+242,applications of recommendation systems ?,recomendation
+243,Main applications of recommendation systems ?,recomendation
+244,what are the applications of recommendation systems ?,recomendation
+245,where do we applicable recommendation systems ?,recomendation
+246,tell me some applications of recommendation systems ?,recomendation
+247,list out some applications of recommendation systems ?,recomendation
+248,what is the applications of recommendation systems ?,recomendation
+249,where is recommendation systems applicable?,recomendation
+250,list me few applications of recommendation systems ?,recomendation
+251,Where can recommendation systems be used?,recomendation
+252,benefits of recommendation systems ?,recomendation
+253,Main Uses of recommendation systems ?,recomendation
+254,what are the benefits of recommendation systems ?,recomendation
+255,where do we use recommendation systems ?,recomendation
+256,tell me some uses of recommendation systems ?,recomendation
+257,what is the use of recommendation systems ?,recomendation
+258,list me few benefits of recommendation systems ?,recomendation
+259,what are the real time examples of recommendation systems ?,recomendation
+260,list some examples of recommendation systems ?,recomendation
+261,Main benefits of recommendation system ?,recomendation
+262,what are the advantages of recommendation system ?,recomendation
+263,tell me some advantages of recommendation system ?,recomendation
+264,list out some advantages of recommendation system ?,recomendation
+265,list me few benefits of recommendation system ?,recomendation
+266,list some advantages of recommendation system ?,recomendation
+267,Can you list out the advantages of recommendation system ?,recomendation
+268,List of benefits of recommendation system ?,recomendation
+269,disadvantages of recommendation system ?,recomendation
+270,Main disadvantages of recommendation system ?,recomendation
+271,what are the disadvantages of recommendation system ?,recomendation
+272,tell me some disadvantages of recommendation system ?,recomendation
+273,list out some disadvantages of recommendation system ?,recomendation
+274,list me few disadvantages of recommendation system ?,recomendation
+275,list some disadvantages of recommendation system ?,recomendation
+276,Can you list out the disadvantages of recommendation system ?,recomendation
+277,List of disadvantages of recommendation system ?,recomendation
+278,Tell me types of recomendation system?,recomendation
+279,Do you know types of  recomendation system?,recomendation
+280,Types of  recomendation system?,recomendation
+281,Different types of  recomendation system?,recomendation
+282,What are the different types of recomendation system?,recomendation
+283,how many types of recomendation system are there?,recomendation
+284,What are the important types of recomendation system?,recomendation
+285,list out different types of recomendation system?,recomendation
+286,what are the various types of recomendation system?,recomendation
+287,list out various types of recomendation system?,recomendation
+288,mention some recomendation system methods?,recomendation
+289,say different recomendation systemmethods?,recomendation
+290,do you know the various types of recomendation system?,recomendation
+291,limitations of recommendation system ?,recomendation
+292,Main limitations of recommendation system ?,recomendation
+293,what are the limitations of recommendation system ?,recomendation
+294,tell me some limitations of recommendation system ?,recomendation
+295,list out some limitations of recommendation system ?,recomendation
+296,list me few limitations of recommendation system ?,recomendation
+297,list some limitations of recommendation system ?,recomendation
+298,Can you list out the limitations of recommendation system ?,recomendation
+299,limitations of recommendation system ?,recomendation
+300,List of limitations of recommendation system ?,recomendation
+301,give me the mathematical representation of cosine similarity,recomendation
+302,what is the mathematical representation of cosinequcse similarity?,recomendation
+303,give me cosine similarity equation,recomendation
+304,provide me the cosine similarity equation,recomendation
+305,give me equation of cosine similarity,recomendation
+306,mathematical equation of cosine similarity,recomendation
+307,give me the mathematical representation of corelation,recomendation
+308,what is the mathematical representation of corelation,recomendation
+309,give me corelation equation,recomendation
+310,provide me the corelation equation,recomendation
+311,give me equation of corelation,recomendation
+312,mathematical equation of corelation,recomendation
+313,What is the process of computing recommendations?,recomendation
+314,How recommendation system works ?,recomendation
+315,Explain how collabarative filtering works?,recomendation
+316,Define work of collabrative filtering?,recomendation
+317,what is the work of recommendation engine?,recomendation
+318,Give a note on the process how recommendation engine works ,recomendation
+319,Tell me types of collabarative filtering?,recomendation
+320,Do you know types of  collabarative filtering?,recomendation
+321,Types of  collabarative filtering?,recomendation
+322,Different types of  collabarative filtering?,recomendation
+323,What are the different types of collabarative filtering?,recomendation
+324,how many types of collabarative filtering are there?,recomendation
+325,What are the important types of collabarative filtering?,recomendation
+326,list out different types of collabarative filtering?,recomendation
+327,what are the various types of collabarative filtering?,recomendation
+328,list out various types of collabarative filtering?,recomendation
+329,mention some collabarative filtering methods?,recomendation
+330,say different collabarative filtering methods?,recomendation
+331,do you know the various types of collabarative filtering?,recomendation
+332,Tell me about user based collabarative filtering?,recomendation
+333,What is the process of user based collabarative filtering?,recomendation
+334,How user based collabarative filtering works ?,recomendation
+335,What does user based collabarative filteringmean?,recomendation
+336,Explain user based collabarative filtering?,recomendation
+337,Define user based collabarative filtering?,recomendation
+338,Explain about user based collabarative filtering?,recomendation
+339,Say something about user based collabarative filtering?,recomendation
+340,Briefly give a note on user based collabarative filtering?,recomendation
+341,Give a short summary about user based collabarative filtering?,recomendation
+342,What is item based collabarative filtering?,recomendation
+343,Tell me about item based collabarative filtering?,recomendation
+344,What is the process of item based collabarative filtering?,recomendation
+345,How item based collabarative filtering works ?,recomendation
+346,What does item based collabarative filteringmean?,recomendation
+347,Explain item based collabarative filtering?,recomendation
+348,Define item based collabarative filtering?,recomendation
+349,Explain about item based collabarative filtering?,recomendation
+350,Say something about item based collabarative filtering?,recomendation
+351,Briefly give a note on item based collabarative filtering?,recomendation
+352,Give a short summary about item based collabarative filtering?,recomendation
+353,Tell me about dot product?,recomendation
+354,What is the process of dot product?,recomendation
+355,How dot product works ?,recomendation
+356,What does dot product mean?,recomendation
+357,Explain dot product?,recomendation
+358,Define dot product?,recomendation
+359,Explain about dot product?,recomendation
+360,Say something about dot product?,recomendation
+361,Briefly give a note on dot product?,recomendation
+362,Give a short summary about dot product?,recomendation
+363,Tell me about long tail concept?,recomendation
+364,What is the process of long tail concept?,recomendation
+365,How long tail concept works ?,recomendation
+366,What does long tail conceptmean?,recomendation
+367,Explain long tail concept?,recomendation
+368,Define long tail concept?,recomendation
+369,Explain about long tail concept?,recomendation
+370,Say something about long tail concept?,recomendation
+371,Briefly give a note on long tail concept?,recomendation
+372,Give a short summary about long tail concept?,recomendation
+373,Tell me about runtime recommendations?,recomendation
+374,What is the process of runtime recommendations?,recomendation
+375,How runtime recommendations works ?,recomendation
+376,What does runtime recommendationsmean?,recomendation
+377,Explain runtime recommendations?,recomendation
+378,Define runtime recommendations?,recomendation
+379,Explain about runtime recommendations?,recomendation
+380,Say something about runtime recommendations?,recomendation
+381,Briefly give a note on runtime recommendations?,recomendation
+382,Give a short summary about runtime recommendations?,recomendation
+383,Tell me about qualitative recommendations?,recomendation
+384,What is the process of qualitative recommendations?,recomendation
+385,How qualitative recommendations works ?,recomendation
+386,What does qualitative recommendations mean?,recomendation
+387,Explain qualitative recommendations?,recomendation
+388,Define qualitative recommendations?,recomendation
+389,Explain about qualitative recommendations?,recomendation
+390,Say something about qualitative recommendations?,recomendation
+391,Briefly give a note on qualitative recommendations?,recomendation
+392,Give a short summary about qualitative recommendations?,recomendation
+393,Tell me about search based recommendations?,recomendation
+394,What is the process of search based recommendations?,recomendation
+395,How search based recommendations works ?,recomendation
+396,What does search based recommendationsmean?,recomendation
+397,Explain search based recommendations?,recomendation
+398,Define search based recommendations?,recomendation
+399,Explain about search based recommendations?,recomendation
+400,Say something about search based recommendations?,recomendation
+401,Briefly give a note on search based recommendations?,recomendation
+402,Give a short summary about search based recommendations?,recomendation
+403,Main disadvantages of user based collabarative filtering ?,recomendation
+404,what are the disadvantages of user based collabarative filtering ?,recomendation
+405,tell me some disadvantages of user based collabarative filtering ?,recomendation
+406,list out some disadvantages of user based collabarative filtering ?,recomendation
+407,list me few disadvantages of user based collabarative filtering ?,recomendation
+408,list some disadvantages of user based collabarative filtering ?,recomendation
+409,Can you list out the disadvantages of user based collabarative filtering ?,recomendation
+410,disadvantages of user based collabarative filtering ?,recomendation
+411,List of disadvantages of user based collabarative filtering ?,recomendation
+412,Tell me about the effect of vulnerability on recommendation system?,recomendation
+413,How vulnerability effects recommendation system ?,recomendation
+414,Explain the effect vulnerabilities of recommendation system?,recomendation
+415,Explain about vulnerability of recommendation system ?,recomendation
+416,Briefly give a note on vulnerability on recommendation system?,recomendation
+417,how fake accounts impact on recommendation system?,recomendation
+418,what is the impact of fake accounts on recommendation system?,recomendation
+419,Tell me about how to avoid  vulnerability on recommendation system?,recomendation
+420,How to reduce vulnerability effect recommendation system ?,recomendation
+421,Explain measure to reduce effect of vulnerabilities on recommendation system?,recomendation
+422,Explain about vulnerability of recommendation system ?,recomendation
+423,how to reduce impact of fake accounts on recommendation system?,recomendation
+424,Tell me about cold start?,recomendation
+425,What is the process of cold start?,recomendation
+426,How cold start works ?,recomendation
+427,What does cold startmean?,recomendation
+428,Explain cold start?,recomendation
+429,Define cold start?,recomendation
+430,Explain about cold start?,recomendation
+431,Say something about cold start?,recomendation
+432,Briefly give a note on cold start?,recomendation
+433,Give a short summary about cold start?,recomendation
+434,what is the primary difference between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+435,How item-based collabarative filtering is differ from used-based collabarative filtering?,recomendation
+436,Tell me about item-based collabarative filtering and used-based collabarative filtering?,recomendation
+437,What do you know about item-based collabarative filtering and used-based collabarative filtering?,recomendation
+438,Do you know about item-based collabarative filtering and used-based collabarative filtering?,recomendation
+439,distinguish between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+440,mention some differences between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+441,what are main difeferences between  item-based collabarative filtering and used-based collabarative filtering?,recomendation
+442,tell me some differences between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+443,list out some differences betwen item-based collabarative filtering and used-based collabarative filtering?,recomendation
+444,what is difference between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+445,what is difference between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+446,Differentiate between item-based collabarative filtering and used-based collabarative filtering?,recomendation
+447, comparison between item-based collabarative filtering and used-based collabarative filtering?,recomendation

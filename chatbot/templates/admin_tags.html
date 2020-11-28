@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Admin Tags</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{url_for('static', filename='external/bootstrap.min.css')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='external/font-awesome.min.css')}}">
+  <link rel="stylesheet" href="{{url_for('static', filename='css/admin-tags.css')}}">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary text-light">
+      <a class="navbar-brand" href="/admin">Admin Dashboard</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="/tags">Tags <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="row mt-5">
+      <div class="col">
+        <label>Select Course: </label>
+        <select name="courses" id="pending-courses">
+          <option value="" disabled selected>Select Course</option>
+          {% for course in courses %}
+          <option value="{{course.course_id}}">{{course.course_name}}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="col">
+        <label>Select Course Module: </label>
+        <select id="pending-course-modules">
+          <option value="" disabled selected>Select Course Module</option>
+        </select>
+      </div>
+    </div>
+    <div class="row mt-5">
+      <div class="col">
+        <div class="card">
+          <div class="card-header bg-success text-light">
+            <h4>
+              Included Tags
+            </h4>
+          </div>
+          <div class="card-body included-tags-box">
+          </div>
+          <div class="card-footer text-muted">
+            <div class="form-group">
+              <label>Add multiple tags comma(,) separated and click <i>Add Tags</i> button</label>
+              <textarea class="form-control tags-input" rows="3"></textarea>
+              <button type="submit" class="btn btn-primary mt-2 add-tags" disabled>Add Tags</button>
+              <button type="reset" class="btn btn-secondary mt-2 clear-tags">Clear</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card">
+          <div class="card-header bg-danger text-light">
+            <h4>
+              Excluded Tags
+            </h4>
+          </div>
+          <div class="card-body excluded-tags-box">
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="row mt-2 text-center">
+      <div class="col center-block">
+        <button type="submit" class="btn btn-primary btn-lg submit-tags">Submit</button>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="{{url_for('static', filename='external/jquery.min.js')}}"></script>
+<script src="{{url_for('static', filename='external/popper.min.js')}}"></script>
+<script src="{{url_for('static', filename='external/bootstrap.min.js')}}"></script>
+<script type=text/javascript src="{{url_for('static', filename='js/admin-tags.js')}}"></script>
+
+</html>

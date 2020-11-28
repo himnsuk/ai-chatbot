@@ -1,0 +1,1633 @@
+line,question,question_type
+1,What is central tendency?,statistics
+2,Tell me about central tendency?,statistics
+3,What do you know about central tendency?,statistics
+4,Do you know about central tendency?,statistics
+5,What is the process of central tendency?,statistics
+6,How central tendency works ?,statistics
+7,Let me know about central tendency?,statistics
+8,What do you say about central tendency?,statistics
+9,What does central tendency mean?,statistics
+10,Explain central tendency?,statistics
+11,Define central tendency?,statistics
+12,Can you explain about central tendency?,statistics
+13,Can you say something about central tendency?,statistics
+14,Can you explain briefly about central tendency?,statistics
+15,Can you give a short summary about central tendency?,statistics
+16,What are the measures of central tendency?,statistics
+17,Tell me about measures of central tendency?,statistics
+18,What do you know about measures of central tendency?,statistics
+19,Do you know about measures of central tendency?,statistics
+20,Let me know about measures of central tendency?,statistics
+21,What are measures of central tendency?,statistics
+22,What do you say about measures of central tendency?,statistics
+23,What does measures of central tendency mean?,statistics
+24,Explain measures of central tendency?,statistics
+25,Can you explain about measures of central tendency?,statistics
+26,Can you say something about measures of central tendency?,statistics
+27,Can you explain briefly about measures of central tendency?,statistics
+28,Can you give a short summary about measures of central tendency?,statistics
+29,What is mean?,statistics
+30,Tell me about mean?,statistics
+31,What do you know about mean?,statistics
+32,Do you know about mean?,statistics
+33,What is the process of mean?,statistics
+34,How mean works ?,statistics
+35,Let me know about mean?,statistics
+36,What do you say about mean?,statistics
+37,Explain mean?,statistics
+38,Define mean?,statistics
+39,Can you explain about mean?,statistics
+40,Can you say something about mean?,statistics
+41,Can you explain briefly about mean?,statistics
+42,Can you give a short summary about mean?,statistics
+43,What is median?,statistics
+44,Tell me about median?,statistics
+45,What do you know about median?,statistics
+46,Do you know about median?,statistics
+47,What is the process of median?,statistics
+48,How median works ?,statistics
+49,Let me know about median?,statistics
+50,What do you say about median?,statistics
+51,What does median mean?,statistics
+52,Explain median?,statistics
+53,Define median?,statistics
+54,Can you explain about median?,statistics
+55,Can you say something about median?,statistics
+56,Can you explain briefly about median?,statistics
+57,Can you give a short summary about median?,statistics
+58,What is mode?,statistics
+59,Tell me about mode?,statistics
+60,What do you know about mode?,statistics
+61,Do you know about mode?,statistics
+62,What is the process of mode?,statistics
+63,How mode works ?,statistics
+64,Let me know about mode?,statistics
+65,What do you say about mode?,statistics
+66,What does mode mean?,statistics
+67,Explain mode?,statistics
+68,Define mode?,statistics
+69,Can you explain about mode?,statistics
+70,Can you say something about mode?,statistics
+71,Can you explain briefly about mode?,statistics
+72,Can you give a short summary about mode?,statistics
+73,What is population?,statistics
+74,Tell me about population?,statistics
+75,What do you know about population?,statistics
+76,Do you know about population?,statistics
+77,What is the process of population?,statistics
+78,How population works ?,statistics
+79,Let me know about population?,statistics
+80,What do you say about population?,statistics
+81,What does population mean?,statistics
+82,Explain population?,statistics
+83,Define population?,statistics
+84,Can you explain about population?,statistics
+85,Can you say something about population?,statistics
+86,Can you explain briefly about population?,statistics
+87,Can you give a short summary about population?,statistics
+88,What is sampling?,statistics
+89,Tell me about sampling?,statistics
+90,What do you know about sampling?,statistics
+91,Do you know about sampling?,statistics
+92,What is the process of sampling?,statistics
+93,How sampling works ?,statistics
+94,Let me know about sampling?,statistics
+95,What do you say about sampling?,statistics
+96,Explain sampling?,statistics
+97,Define sampling?,statistics
+98,Can you explain about sampling?,statistics
+99,Can you say something about sampling?,statistics
+100,Can you explain briefly about sampling?,statistics
+101,Can you give a short summary about sampling?,statistics
+102,What is standard deviation?,statistics
+103,Tell me about standard deviation?,statistics
+104,What do you know about standard deviation?,statistics
+105,Do you know about standard deviation?,statistics
+106,What is the process of standard deviation?,statistics
+107,How standard deviation works ?,statistics
+108,Let me know about standard deviation?,statistics
+109,What do you say about standard deviation?,statistics
+110,What does standard deviation mean?,statistics
+111,Explain standard deviation?,statistics
+112,Define standard deviation?,statistics
+113,Can you explain about standard deviation?,statistics
+114,Can you say something about standard deviation?,statistics
+115,Can you explain briefly about standard deviation?,statistics
+116,Can you give a short summary about standard deviation?,statistics
+117,What is variance?,statistics
+118,Tell me about variance?,statistics
+119,What do you know about variance?,statistics
+120,Do you know about variance?,statistics
+121,What is the process of variance?,statistics
+122,How variance works ?,statistics
+123,Let me know about variance?,statistics
+124,What do you say about variance?,statistics
+125,What does variance mean?,statistics
+126,Explain variance?,statistics
+127,Define variance?,statistics
+128,Can you explain about variance?,statistics
+129,Can you say something about variance?,statistics
+130,Can you explain briefly about variance?,statistics
+131,Can you give a short summary about variance?,statistics
+132,What is range?,statistics
+133,Tell me about range?,statistics
+134,What do you know about range?,statistics
+135,Do you know about range?,statistics
+136,What is the process of range?,statistics
+137,How range works ?,statistics
+138,Let me know about range?,statistics
+139,What do you say about range?,statistics
+140,What does range mean?,statistics
+141,Explain range?,statistics
+142,Define range?,statistics
+143,Can you explain about range?,statistics
+144,Can you say something about range?,statistics
+145,Can you explain briefly about range?,statistics
+146,Can you give a short summary about range?,statistics
+147,What is expected value?,statistics
+148,Tell me about expected value?,statistics
+149,What do you know about expected value?,statistics
+150,Do you know about expected value?,statistics
+151,What is the process of expected value?,statistics
+152,How expected value works ?,statistics
+153,Let me know about expected value?,statistics
+154,What do you say about expected value?,statistics
+155,What does expected value mean?,statistics
+156,Explain expected value?,statistics
+157,Define expected value?,statistics
+158,Can you explain about expected value?,statistics
+159,Can you say something about expected value?,statistics
+160,Can you explain briefly about expected value?,statistics
+161,Can you give a short summary about expected value?,statistics
+162,What is kurtosis?,statistics
+163,Tell me about kurtosis?,statistics
+164,What do you know about kurtosis?,statistics
+165,Do you know about kurtosis?,statistics
+166,What is the process of kurtosis?,statistics
+167,How kurtosis works ?,statistics
+168,Let me know about kurtosis?,statistics
+169,What do you say about kurtosis?,statistics
+170,What does kurtosis mean?,statistics
+171,Explain kurtosis?,statistics
+172,Define kurtosis?,statistics
+173,Can you explain about kurtosis?,statistics
+174,Can you say something about kurtosis?,statistics
+175,Can you explain briefly about kurtosis?,statistics
+176,Can you give a short summary about kurtosis?,statistics
+177,What is skewness?,statistics
+178,Tell me about skewness?,statistics
+179,What do you know about skewness?,statistics
+180,Do you know about skewness?,statistics
+181,What is the process of skewness?,statistics
+182,How skewness works ?,statistics
+183,Let me know about skewness?,statistics
+184,What do you say about skewness?,statistics
+185,What does skewness mean?,statistics
+186,Explain skewness?,statistics
+187,Define skewness?,statistics
+188,Can you explain about skewness?,statistics
+189,Can you say something about skewness?,statistics
+190,Can you explain briefly about skewness?,statistics
+191,Can you give a short summary about skewness?,statistics
+192,What is box plot?,statistics
+193,Tell me about box plot?,statistics
+194,What do you know about box plot?,statistics
+195,Do you know about box plot?,statistics
+196,What is the process of box plot?,statistics
+197,How boxp lot works ?,statistics
+198,Let me know about box plot?,statistics
+199,What do you say about box plot?,statistics
+200,What does box plot mean?,statistics
+201,Explain box plot?,statistics
+202,Define box plot?,statistics
+203,Can you explain about box plot?,statistics
+204,Can you say something about box plot?,statistics
+205,Can you explain briefly about box plot?,statistics
+206,Can you give a short summary about box plot?What is big data?,statistics
+207,Tell me about big data?,statistics
+208,What do you know about big data?,statistics
+209,Do you know about big data?,statistics
+210,What is the process of big data?,statistics
+211,How big data works ?,statistics
+212,Let me know about big data?,statistics
+213,What do you say about big data?,statistics
+214,What does big data mean?,statistics
+215,Explain big data?,statistics
+216,Define big data?What is inter quartile range?,statistics
+217,Tell me about inter quartile range?,statistics
+218,What do you know about inter quartile range?,statistics
+219,Do you know about inter quartile range?,statistics
+220,What is the process of inter quartile range?,statistics
+221,How inter quartile range works ?,statistics
+222,Let me know about inter quartile range?,statistics
+223,What do you say about inter quartile range?,statistics
+224,What does inter quartile range mean?,statistics
+225,Explain inter quartile range?,statistics
+226,Define inter quartile range?,statistics
+227,Can you explain about inter quartile range?,statistics
+228,Can you say something about inter quartile range?,statistics
+229,Can you explain briefly about inter quartile range?,statistics
+230,Can you give a short summary about inter quartile range?,statistics
+231,What is outlier?,statistics
+232,Tell me about outlier?,statistics
+233,What do you know about outlier?,statistics
+234,Do you know about outlier?,statistics
+235,What is the process of outlier?,statistics
+236,How outlier works ?,statistics
+237,Let me know about outlier?,statistics
+238,What do you say about outlier?,statistics
+239,What does outlier mean?,statistics
+240,Explain outlier?,statistics
+241,Define outlier?,statistics
+242,Can you explain about outlier?,statistics
+243,Can you say something about outlier?,statistics
+244,Can you explain briefly about outlier?,statistics
+245,Can you give a short summary about outlier?,statistics
+246,What is probability?,statistics
+247,Tell me about probability?,statistics
+248,What do you know about probability?,statistics
+249,Do you know about probability?,statistics
+250,What is the process of probability?,statistics
+251,How probability works ?,statistics
+252,Let me know about probability?,statistics
+253,What do you say about probability?,statistics
+254,What does probability mean?,statistics
+255,Explain probability?,statistics
+256,Define probability?,statistics
+257,Can you explain about probability?,statistics
+258,Can you say something about probability?,statistics
+259,Can you explain briefly about probability?,statistics
+260,Can you give a short summary about probability?,statistics
+261,What is probability distribution?,statistics
+262,Tell me about probability distribution?,statistics
+263,What do you know about probability distribution?,statistics
+264,Do you know about probability distribution?,statistics
+265,What is the process of probability distribution?,statistics
+266,How probability distribution works ?,statistics
+267,Let me know about probability distribution?,statistics
+268,What do you say about probability distribution?,statistics
+269,What does probability distribution mean?,statistics
+270,Explain probability distribution?,statistics
+271,Define probability distribution?,statistics
+272,Can you explain about probability distribution?,statistics
+273,Can you say something about probability distribution?,statistics
+274,Can you explain briefly about probability distribution?,statistics
+275,Can you give a short summary about probability distribution?,statistics
+276,What is normal distribution?,statistics
+277,Tell me about normal distribution?,statistics
+278,What do you know about normal distribution?,statistics
+279,Do you know about normal distribution?,statistics
+280,What is the process of normal distribution?,statistics
+281,How normal distribution works ?,statistics
+282,Let me know about normal distribution?,statistics
+283,What do you say about normal distribution?,statistics
+284,What does normal distribution mean?,statistics
+285,Explain normal distribution?,statistics
+286,Define normal distribution?,statistics
+287,Can you explain about normal distribution?,statistics
+288,Can you say something about normal distribution?,statistics
+289,Can you explain briefly about normal distribution?,statistics
+290,Can you give a short summary about normal distribution?,statistics
+291,What is unimodal?,statistics
+292,Tell me about unimodal?,statistics
+293,What do you know about unimodal?,statistics
+294,Do you know about unimodal?,statistics
+295,What is the process of unimodal?,statistics
+296,How unimodal works ?,statistics
+297,Let me know about unimodal?,statistics
+298,What do you say about unimodal?,statistics
+299,What does unimodal mean?,statistics
+300,Explain unimodal?,statistics
+301,Define unimodal?,statistics
+302,Can you explain about unimodal?,statistics
+303,Can you say something about unimodal?,statistics
+304,Can you explain briefly about unimodal?,statistics
+305,Can you give a short summary about unimodal?,statistics
+306,What is bimodal?,statistics
+307,Tell me about bimodal?,statistics
+308,What do you know about bimodal?,statistics
+309,Do you know about bimodal?,statistics
+310,What is the process of bimodal?,statistics
+311,How bimodal works ?,statistics
+312,Let me know about bimodal?,statistics
+313,What do you say about bimodal?,statistics
+314,What does bimodal mean?,statistics
+315,Explain bimodal?,statistics
+316,Define bimodal?,statistics
+317,Can you explain about bimodal?,statistics
+318,Can you say something about bimodal?,statistics
+319,Can you explain briefly about bimodal?,statistics
+320,Can you give a short summary about bimodal?,statistics
+321,What is multimodal?,statistics
+322,Tell me about multimodal?,statistics
+323,What do you know about multimodal?,statistics
+324,Do you know about multimodal?,statistics
+325,What is the process of multimodal?,statistics
+326,How multimodal works ?,statistics
+327,Let me know about multimodal?,statistics
+328,What do you say about multimodal?,statistics
+329,What does multimodal mean?,statistics
+330,Explain multimodal?,statistics
+331,Define multimodal?,statistics
+332,Can you explain about multimodal?,statistics
+333,Can you say something about multimodal?,statistics
+334,Can you explain briefly about multimodal?,statistics
+335,Can you give a short summary about multimodal?,statistics
+336,What is six sigma?,statistics
+337,Tell me about six sigma?,statistics
+338,What do you know about six sigma?,statistics
+339,Do you know about six sigma?,statistics
+340,What is the process of six sigma?,statistics
+341,How six sigma works ?,statistics
+342,Let me know about six sigma?,statistics
+343,What do you say about six sigma?,statistics
+344,What does six sigma mean?,statistics
+345,Explain six sigma?,statistics
+346,Define six sigma?,statistics
+347,Can you explain about six sigma?,statistics
+348,Can you say something about six sigma?,statistics
+349,Can you explain briefly about six sigma?,statistics
+350,Can you give a short summary about six sigma?,statistics
+351,What is dpmo?,statistics
+352,Tell me about dpmo?,statistics
+353,What do you know about dpmo?,statistics
+354,Do you know about dpmo?,statistics
+355,What is the process of dpmo?,statistics
+356,How dpmo works ?,statistics
+357,Let me know about dpmo?,statistics
+358,What do you say about dpmo?,statistics
+359,What does dpmo mean?,statistics
+360,Explain dpmo?,statistics
+361,Define dpmo?,statistics
+362,Can you explain about dpmo?,statistics
+363,Can you say something about dpmo?,statistics
+364,Can you explain briefly about dpmo?,statistics
+365,Can you give a short summary about dpmo?,statistics
+366,What is standardization?,statistics
+367,Tell me about standardization?,statistics
+368,What do you know about standardization?,statistics
+369,Do you know about standardization?,statistics
+370,What is the process of standardization?,statistics
+371,How standardization works ?,statistics
+372,Let me know about standardization?,statistics
+373,What do you say about standardization?,statistics
+374,What does standardization mean?,statistics
+375,Explain standardization?,statistics
+376,Define standardization?,statistics
+377,Can you explain about standardization?,statistics
+378,Can you say something about standardization?,statistics
+379,Can you explain briefly about standardization?,statistics
+380,Can you give a short summary about standardization?,statistics
+381,What is z table?,statistics
+382,Tell me about z table?,statistics
+383,What do you know about z table?,statistics
+384,Do you know about z table?,statistics
+385,What is the process of z table?,statistics
+386,How z table works ?,statistics
+387,Let me know about z table?,statistics
+388,What do you say about z table?,statistics
+389,What does z table mean?,statistics
+390,Explain z table?,statistics
+391,Define z table?,statistics
+392,Can you explain about z table?,statistics
+393,Can you say something about z table?,statistics
+394,Can you explain briefly about z table?,statistics
+395,Can you give a short summary about z table?,statistics
+396,What is standard normal probabilities?,statistics
+397,Tell me about standard normal probabilities?,statistics
+398,What do you know about standard normal probabilities?,statistics
+399,Do you know about standard normal probabilities?,statistics
+400,What is the process of standard normal probabilities?,statistics
+401,How standard normal probabilities works ?,statistics
+402,Let me know about standard normal probabilities?,statistics
+403,What do you say about standard normal probabilities?,statistics
+404,What does standard normal probabilities mean?,statistics
+405,Explain standard normal probabilities?,statistics
+406,Define standard normal probabilities?,statistics
+407,Can you explain about standard normal probabilities?,statistics
+408,Can you say something about standard normal probabilities?,statistics
+409,Can you explain briefly about standard normal probabilities?,statistics
+410,Can you give a short summary about standard normal probabilities?,statistics
+411,What is percentile?,statistics
+412,Tell me about percentile?,statistics
+413,What do you know about percentile?,statistics
+414,Do you know about percentile?,statistics
+415,What is the process of percentile?,statistics
+416,How percentile works ?,statistics
+417,Let me know about percentile?,statistics
+418,What do you say about percentile?,statistics
+419,What does percentile mean?,statistics
+420,Explain percentile?,statistics
+421,Define percentile?,statistics
+422,Can you explain about percentile?,statistics
+423,Can you say something about percentile?,statistics
+424,Can you explain briefly about percentile?,statistics
+425,Can you give a short summary about percentile?,statistics
+426,What is quartile?,statistics
+427,Tell me about quartile?,statistics
+428,What do you know about quartile?,statistics
+429,Do you know about quartile?,statistics
+430,What is the process of quartile?,statistics
+431,How quartile works ?,statistics
+432,Let me know about quartile?,statistics
+433,What do you say about quartile?,statistics
+434,What does quartile mean?,statistics
+435,Explain quartile?,statistics
+436,Define quartile?,statistics
+437,Can you explain about quartile?,statistics
+438,Can you say something about quartile?,statistics
+439,Can you explain briefly about quartile?,statistics
+440,Can you give a short summary about quartile?,statistics
+441,What is q-q plot?,statistics
+442,Tell me about q-q plot?,statistics
+443,What do you know about q-q plot?,statistics
+444,Do you know about q-q plot?,statistics
+445,What is the process of q-q plot?,statistics
+446,How q-q plot works ?,statistics
+447,Let me know about q-q plot?,statistics
+448,What is q-q plot?,statistics
+449,What do you say about q-q plot?,statistics
+450,What does q-q plot mean?,statistics
+451,Explain q-q plot?,statistics
+452,Define q-q plot?,statistics
+453,Can you explain about q-q plot?,statistics
+454,Can you say something about q-q plot?,statistics
+455,Can you explain briefly about q-q plot?,statistics
+456,Can you give a short summary about q-q plot?,statistics
+457,What is histogram?,statistics
+458,Tell me about histogram?,statistics
+459,What do you know about histogram?,statistics
+460,Do you know about histogram?,statistics
+461,What is the process of histogram?,statistics
+462,How histogram works ?,statistics
+463,Let me know about histogram?,statistics
+464,What do you say about histogram?,statistics
+465,What does histogram mean?,statistics
+466,Explain histogram?,statistics
+467,Define histogram?,statistics
+468,Can you explain about histogram?,statistics
+469,Can you say something about histogram?,statistics
+470,Can you explain briefly about histogram?,statistics
+471,Can you give a short summary about histogram?,statistics
+472,What is sample variation?,statistics
+473,Tell me about sample variation?,statistics
+474,What do you know about sample variation?,statistics
+475,What is the process of sample variation?,statistics
+476,How sample variation works ?,statistics
+477,Let me know about sample variation?,statistics
+478,What do you say about sample variation?,statistics
+479,What does sample variation mean?,statistics
+480,Explain sample variation?,statistics
+481,Define sample variation?,statistics
+482,Can you say something about sample variation?,statistics
+483,Can you explain briefly about sample variation?,statistics
+484,Can you give a short summary about sample variation?,statistics
+485,What is sample mean?,statistics
+486,Tell me about sample mean?,statistics
+487,What do you know about sample mean?,statistics
+488,Do you know about sample mean?,statistics
+489,What is the process of sample mean?,statistics
+490,How sample mean works ?,statistics
+491,Let me know about sample mean?,statistics
+492,What does sample mean mean?,statistics
+493,Explain sample mean?,statistics
+494,Define sample mean?,statistics
+495,Can you explain about sample mean?,statistics
+496,Can you say something about sample mean?,statistics
+497,Can you explain briefly about sample mean?What is central limit theorem?,statistics
+498,Tell me about central limit theorem?,statistics
+499,What do you know about central limit theorem?,statistics
+500,Do you know about central limit theorem?,statistics
+501,What is the process of central limit theorem?,statistics
+502,How central limit theorem works ?,statistics
+503,Let me know about central limit theorem?,statistics
+504,What do you say about central limit theorem?,statistics
+505,What does central limit theorem mean?,statistics
+506,Explain central limit theorem?,statistics
+507,Define central limit theorem?,statistics
+508,Can you explain about central limit theorem?,statistics
+509,Can you say something about central limit theorem?,statistics
+510,Can you explain briefly about central limit theorem?,statistics
+511,Can you give a short summary about central limit theorem?,statistics
+512,What is global environment window?,statistics
+513,Tell me about global environment window?,statistics
+514,What do you know about global environment window?,statistics
+515,Do you know about global environment window?,statistics
+516,What is the process of global environment window?,statistics
+517,How global environment window works ?,statistics
+518,Let me know about global environment window?,statistics
+519,What do you say about global environment window?,statistics
+520,What does global environment window mean?,statistics
+521,Explain global environment window?,statistics
+522,Define global environment window?,statistics
+523,Can you explain about global environment window?,statistics
+524,Can you say something about global environment window?,statistics
+525,Can you explain briefly about global environment window?,statistics
+526,Can you give a short summary about global environment window?,statistics
+527,What is console ?,statistics
+528,Tell me about console window?,statistics
+529,What do you know about console ?,statistics
+530,Do you know about console window?,statistics
+531,What is the process of console ?,statistics
+532,How console window works ?,statistics
+533,Let me know about console ?,statistics
+534,What do you say about console window?,statistics
+535,What does console  mean?,statistics
+536,Explain console window?,statistics
+537,Define console window?,statistics
+538,Can you explain about console ?,statistics
+539,Can you say something about console ?,statistics
+540,Can you explain briefly about console ?,statistics
+541,Can you give a short summary about console window?,statistics
+542,What is script ?,statistics
+543,Tell me about script ?,statistics
+544,How script window works ?,statistics
+545,Let me know about script ?,statistics
+546,What does source  mean?,statistics
+547,Explain source window?,statistics
+548,Define source ?,statistics
+549,Can you explain about source window?,statistics
+550,Can you say something about source ?,statistics
+551,Can you explain briefly about source window?,statistics
+552,Can you give a short summary about source window?What is local maxima?,statistics
+553,Tell me about local maxima?,statistics
+554,What do you know about local maxima?,statistics
+555,Do you know about local maxima?,statistics
+556,What is the process of local maxima?,statistics
+557,How local maxima works ?,statistics
+558,Let me know about local maxima?,statistics
+559,What do you say about local maxima?,statistics
+560,What does local maxima mean?,statistics
+561,Explain local maxima?,statistics
+562,Define local maxima?,statistics
+563,Can you explain about local maxima?,statistics
+564,Can you say something about local maxima?,statistics
+565,Can you explain briefly about local maxima?,statistics
+566,Can you give a short summary about local maxima?,statistics
+567,What is upper quartile?,statistics
+568,Tell me about upper quartile?,statistics
+569,What do you know about upper quartile?,statistics
+570,Do you know about upper quartile?,statistics
+571,What is the process of upper quartile?,statistics
+572,How upper quartile works ?,statistics
+573,Let me know about upper quartile?,statistics
+574,What do you say about upper quartile?,statistics
+575,What does upper quartile mean?,statistics
+576,Explain upper quartile?,statistics
+577,Define upper quartile?,statistics
+578,Can you explain about upper quartile?,statistics
+579,Can you say something about upper quartile?,statistics
+580,Can you explain briefly about upper quartile?,statistics
+581,Can you give a short summary about upper quartile?,statistics
+582,What is lower quartile?,statistics
+583,Tell me about lower quartile?,statistics
+584,What do you know about lower quartile?,statistics
+585,Do you know about lower quartile?,statistics
+586,What is the process of lower quartile?,statistics
+587,How lower quartile works ?,statistics
+588,Let me know about lower quartile?,statistics
+589,What do you say about lower quartile?,statistics
+590,What does lower quartile mean?,statistics
+591,Explain lower quartile?,statistics
+592,Define lower quartile?,statistics
+593,Can you explain about lower quartile?,statistics
+594,Can you say something about lower quartile?,statistics
+595,Can you explain briefly about lower quartile?,statistics
+596,Can you give a short summary about lower quartile?,statistics
+597,What is random variable?,statistics
+598,Tell me about random variable?,statistics
+599,What do you know about random variable?,statistics
+600,Do you know about random variable?,statistics
+601,What is the process of random variable?,statistics
+602,How random variable works ?,statistics
+603,Let me know about random variable?,statistics
+604,What do you say about random variable?,statistics
+605,What does random variable mean?,statistics
+606,Explain random variable?,statistics
+607,Define random variable?,statistics
+608,Can you explain about random variable?,statistics
+609,Can you say something about random variable?,statistics
+610,Can you explain briefly about random variable?,statistics
+611,Can you give a short summary about random variable?,statistics
+612,What is simple random sampling?,statistics
+613,Tell me about simple random sampling?,statistics
+614,What do you know about simple random sampling?,statistics
+615,Do you know about simple random sampling?,statistics
+616,What is the process of simple random sampling?,statistics
+617,How simple random sampling works ?,statistics
+618,Let me know about simple random sampling?,statistics
+619,What do you say about simple random sampling?,statistics
+620,What does simple random sampling mean?,statistics
+621,Explain simple random sampling?,statistics
+622,Define simple random sampling?,statistics
+623,Can you explain about simple random sampling?,statistics
+624,Can you say something about simple random sampling?,statistics
+625,Can you explain briefly about simple random sampling?,statistics
+626,Can you give a short summary about simple random sampling?,statistics
+627,What is confidence interval?,statistics
+628,Tell me about confidence interval?,statistics
+629,What do you know about confidence interval?,statistics
+630,Do you know about confidence interval?,statistics
+631,What is the process of confidence interval?,statistics
+632,How confidence interval works ?,statistics
+633,Let me know about confidence interval?,statistics
+634,What is confidence interval?,statistics
+635,What do you say about confidence interval?,statistics
+636,What does confidence interval mean?,statistics
+637,Explain confidence interval?,statistics
+638,Define confidence interval?,statistics
+639,Can you explain about confidence interval?,statistics
+640,Can you say something about confidence interval?,statistics
+641,Can you explain briefly about confidence interval?,statistics
+642,Can you give a short summary about confidence interval?,statistics
+643,What is interval estimate?,statistics
+644,Tell me about interval estimate?,statistics
+645,What do you know about interval estimate?,statistics
+646,Do you know about interval estimate?,statistics
+647,What is the process of interval estimate?,statistics
+648,How interval estimate works ?,statistics
+649,Let me know about interval estimate?,statistics
+650,What do you say about interval estimate?,statistics
+651,What does interval estimate mean?,statistics
+652,Explain interval estimate?,statistics
+653,Define interval estimate?,statistics
+654,Can you explain about interval estimate?,statistics
+655,Can you say something about interval estimate?,statistics
+656,Can you explain briefly about interval estimate?,statistics
+657,Can you give a short summary about interval estimate?,statistics
+658,What is point estimate?,statistics
+659,Tell me about point estimate?,statistics
+660,What do you know about point estimate?,statistics
+661,Do you know about point estimate?,statistics
+662,What is the process of point estimate?,statistics
+663,How point estimate works ?,statistics
+664,Let me know about point estimate?,statistics
+665,What do you say about point estimate?,statistics
+666,What does point estimate mean?,statistics
+667,Explain point estimate?,statistics
+668,Define point estimate?,statistics
+669,Can you explain about point estimate?,statistics
+670,Can you say something about point estimate?,statistics
+671,Can you explain briefly about point estimate?,statistics
+672,Can you give a short summary about point estimate?,statistics
+673,What is margin of error?,statistics
+674,Tell me about margin of error?,statistics
+675,What do you know about margin of error?,statistics
+676,Do you know about margin of error?,statistics
+677,What is the process of margin of error?,statistics
+678,How margin of error works ?,statistics
+679,Let me know about margin of error?,statistics
+680,What do you say about margin of error?,statistics
+681,What does margin of error mean?,statistics
+682,Explain margin of error?,statistics
+683,Define margin of error?,statistics
+684,Can you explain about margin of error?,statistics
+685,Can you say something about margin of error?,statistics
+686,Can you explain briefly about margin of error?,statistics
+687,Can you give a short summary about margin of error?,statistics
+688,What is t-distribution?,statistics
+689,Tell me about t-distribution?,statistics
+690,What do you know about t-distribution?,statistics
+691,Do you know about t-distribution?,statistics
+692,What is the process of t-distribution?,statistics
+693,How t-distribution works ?,statistics
+694,Let me know about t-distribution?,statistics
+695,What do you say about t-distribution?,statistics
+696,What does t-distribution mean?,statistics
+697,Explain t-distribution?,statistics
+698,Define t-distribution?,statistics
+699,Can you explain about t-distribution?,statistics
+700,Can you say something about t-distribution?,statistics
+701,Can you explain briefly about t-distribution?,statistics
+702,Can you give a short summary about t-distribution?,statistics
+703,What is t-table?,statistics
+704,Tell me about t-table?,statistics
+705,What do you know about t-table?,statistics
+706,Do you know about t-table?,statistics
+707,What is the process of t-table?,statistics
+708,How t-table works ?,statistics
+709,Let me know about t-table?,statistics
+710,What do you say about t-table?,statistics
+711,What does t-table mean?,statistics
+712,Explain t-table?,statistics
+713,Define t-table?,statistics
+714,Can you explain about t-table?,statistics
+715,Can you say something about t-table?,statistics
+716,Can you explain briefly about t-table?,statistics
+717,Can you give a short summary about t-table?,statistics
+718,What is t-value?,statistics
+719,Tell me about t-value?,statistics
+720,What do you know about t-value?,statistics
+721,Do you know about t-value?,statistics
+722,What is the process of t-value?,statistics
+723,How t-value works ?,statistics
+724,Let me know about t-value?,statistics
+725,What do you say about t-value?,statistics
+726,What does t-value mean?,statistics
+727,Explain t-value?,statistics
+728,Define t-value?,statistics
+729,Can you explain about t-value?,statistics
+730,Can you say something about t-value?,statistics
+731,Can you explain briefly about t-value?,statistics
+732,Can you give a short summary about t-value?,statistics
+733,What is 1-proportion test?,statistics
+734,Tell me about 1-proportion test?,statistics
+735,What do you know about 1-proportion test?,statistics
+736,Do you know about 1-proportion test?,statistics
+737,What is the process of 1-proportion test?,statistics
+738,How 1-proportion test works ?,statistics
+739,Let me know about 1-proportion test?,statistics
+740,What do you say about 1-proportion test?,statistics
+741,What does 1-proportion test mean?,statistics
+742,Explain 1-proportion test?,statistics
+743,Define 1-proportion test?,statistics
+744,Can you explain about 1-proportion test?,statistics
+745,Can you say something about 1-proportion test?,statistics
+746,Can you explain briefly about 1-proportion test?,statistics
+747,Can you give a short summary about 1-proportion test?,statistics
+748,What is chi-square?,statistics
+749,Tell me about chi-square?,statistics
+750,What do you know about chi-square?,statistics
+751,Do you know about chi-square?,statistics
+752,What is the process of chi-square?,statistics
+753,How chi-square works ?,statistics
+754,Let me know about chi-square?,statistics
+755,What do you say about chi-square?,statistics
+756,What does chi-square mean?,statistics
+757,Explain chi-square?,statistics
+758,Define chi-square?,statistics
+759,Can you explain about chi-square?,statistics
+760,Can you say something about chi-square?,statistics
+761,Can you explain briefly about chi-square?,statistics
+762,Can you give a short summary about chi-square?,statistics
+763,What is one-sample t test?,statistics
+764,Tell me about one-sample t test?,statistics
+765,What do you know about one-sample t test?,statistics
+766,Do you know about one-sample t test?,statistics
+767,What is the process of one-sample t test?,statistics
+768,How one-sample t test works ?,statistics
+769,Let me know about one-sample t test?,statistics
+770,What do you say about one-sample t test?,statistics
+771,What does one-sample t test mean?,statistics
+772,Explain one-sample t test?,statistics
+773,Define one-sample t test?,statistics
+774,Can you explain about one-sample t test?,statistics
+775,Can you say something about one-sample t test?,statistics
+776,Can you explain briefly about one-sample t test?,statistics
+777,Can you give a short summary about one-sample t test?,statistics
+778,What is 2-proportion test?,statistics
+779,Tell me about 2-proportion test?,statistics
+780,What do you know about 2-proportion test?,statistics
+781,Do you know about 2-proportion test?,statistics
+782,What is the process of 2-proportion test?,statistics
+783,How 2-proportion test works ?,statistics
+784,Let me know about 2-proportion test?,statistics
+785,What do you say about 2-proportion test?,statistics
+786,What does 2-proportion test mean?,statistics
+787,Explain 2-proportion test?,statistics
+788,Define 2-proportion test?,statistics
+789,Can you explain about 2-proportion test?,statistics
+790,Can you say something about 2-proportion test?,statistics
+791,Can you explain briefly about 2-proportion test?,statistics
+792,Can you give a short summary about 2-proportion test?,statistics
+793,What is 1-sample z test?,statistics
+794,Tell me about 1-sample z test?,statistics
+795,What do you know about 1-sample z test?,statistics
+796,Do you know about 1-sample z test?,statistics
+797,What is the process of 1-sample z test?,statistics
+798,How 1-sample z test works ?,statistics
+799,Let me know about 1-sample z test?,statistics
+800,What do you say about 1-sample z test?,statistics
+801,What does 1-sample z test mean?,statistics
+802,Explain 1-sample z test?,statistics
+803,Define 1-sample z test?,statistics
+804,Can you explain about 1-sample z test?,statistics
+805,Can you say something about 1-sample z test?,statistics
+806,Can you explain briefly about 1-sample z test?,statistics
+807,Can you give a short summary about 1-sample z test?,statistics
+808,What is 2-sample z test?,statistics
+809,Tell me about 2-sample z test?,statistics
+810,What do you know about 2-sample z test?,statistics
+811,Do you know about 2-sample z test?,statistics
+812,What is the process of 2-sample z test?,statistics
+813,How 2-sample z test works ?,statistics
+814,Let me know about 2-sample z test?,statistics
+815,What do you say about 2-sample z test?,statistics
+816,What does 2-sample z test mean?,statistics
+817,Explain 2-sample z test?,statistics
+818,Define 2-sample z test?,statistics
+819,Can you explain about 2-sample z test?,statistics
+820,Can you say something about 2-sample z test?,statistics
+821,Can you explain briefly about 2-sample z test?,statistics
+822,Can you give a short summary about 2-sample z test?,statistics
+823,What is 2-sample t test?,statistics
+824,Tell me about 2-sample t test?,statistics
+825,What do you know about 2-sample t test?,statistics
+826,Do you know about 2-sample t test?,statistics
+827,What is the process of 2-sample t test?,statistics
+828,How 2-sample t test works ?,statistics
+829,Let me know about 2-sample t test?,statistics
+830,What do you say about 2-sample t test?,statistics
+831,What does 2-sample t test mean?,statistics
+832,Explain 2-sample t test?,statistics
+833,Define 2-sample t test?,statistics
+834,Can you explain about 2-sample t test?,statistics
+835,Can you say something about 2-sample t test?,statistics
+836,Can you explain briefly about 2-sample t test?,statistics
+837,Can you give a short summary about 2-sample t test?,statistics
+838,What are types of data?,statistics
+839,Tell me types of data?,statistics
+840,Do you know types of  data?,statistics
+841,Types of  data?,statistics
+842,Different types of  data?,statistics
+843,What are the different types of data?,statistics
+844,how many types of data are there?,statistics
+845,What are the important types of data?,statistics
+846,list out different types of data?,statistics
+847,what are the various types of data?,statistics
+848,list out various types of data?,statistics
+849,mention some data methods?,statistics
+850,say different data methods?,statistics
+851,do you know the various types of data?what is the primary difference between continous data and discrete data?,statistics
+852,How continous data is differ from discrete data?,statistics
+853,Tell me about continous data and discrete data?,statistics
+854,What do you know about continous data and discrete data?,statistics
+855,Do you know about continous data and discrete data?,statistics
+856,distinguish between continous data and discrete data?,statistics
+857,mention some differences between continous data and discrete data?,statistics
+858,what are main difeferences between  continous data and discrete data?,statistics
+859,tell me some differences between continous data and discrete data?,statistics
+860,list out some differences betwen continous data and discrete data?,statistics
+861,what is difference between continous data and discrete data?,statistics
+862,what is difference between continous data and discrete data?,statistics
+863,Differentiate between continous data and discrete data?,statistics
+864,comparison between continous data and discrete data?What is count variables?,statistics
+865,Tell me about count variables?,statistics
+866,What is the process of count variables?,statistics
+867,How count variables works ?,statistics
+868,What does count variablesmean?,statistics
+869,Explain count variables?,statistics
+870,Define count variables?,statistics
+871,Explain about count variables?,statistics
+872,Say something about count variables?,statistics
+873,Briefly give a note on count variables?,statistics
+874,Give a short summary about count variables?,statistics
+875,What is categorical variables?,statistics
+876,Tell me about categorical variables?,statistics
+877,What is the process of categorical variables?,statistics
+878,How categorical variables works ?,statistics
+879,What does categorical variablesmean?,statistics
+880,Explain categorical variables?,statistics
+881,Define categorical variables?,statistics
+882,Explain about categorical variables?,statistics
+883,Say something about categorical variables?,statistics
+884,Give a note on categorical variables?,statistics
+885,Short summary about categorical variables?What is nominal data?,statistics
+886,Tell me about nominal data?,statistics
+887,What is the process of nominal data?,statistics
+888,How nominal data works ?,statistics
+889,What does nominal datamean?,statistics
+890,Explain nominal data?,statistics
+891,Define nominal data?,statistics
+892,Say something about nominal data?,statistics
+893,Give a note on nominal data?,statistics
+894,Short summary about nominal data?What is ordinal data?,statistics
+895,Tell me about ordinal data?,statistics
+896,What is the process of ordinal data?,statistics
+897,How ordinal data works ?,statistics
+898,What does ordinal datamean?,statistics
+899,Explain ordinal data?,statistics
+900,Define ordinal data?,statistics
+901,Explain about ordinal data?,statistics
+902,Say something about ordinal data?,statistics
+903,Give a note on ordinal data?,statistics
+904,Short summary about ordinal data?,statistics
+905,What is interval data?,statistics
+906,Tell me about interval data?,statistics
+907,What is the process of interval data?,statistics
+908,How interval data works ?,statistics
+909,What does interval data mean?,statistics
+910,Explain interval data?,statistics
+911,Define interval data?,statistics
+912,Explain about interval data?,statistics
+913,Say something about interval data?,statistics
+914,Give a note on interval data?,statistics
+915,Short summary about interval data?,statistics
+916,What is ratio data?,statistics
+917,Tell me about ratio data?,statistics
+918,What is the process of ratio data?,statistics
+919,How ratio data works ?,statistics
+920,What does ratio data mean?,statistics
+921,Explain ratio data?,statistics
+922,Define ratio data?,statistics
+923,Explain about ratio data?,statistics
+924,Say something about ratio data?,statistics
+925,Give a note on ratio data?,statistics
+926,Short summary about ratio data?,statistics
+927,What is labeled data?,statistics
+928,Tell me about labeled data?,statistics
+929,What is the process of labeled data?,statistics
+930,How labeled data works ?,statistics
+931,What does labeled datamean?,statistics
+932,Explain labeled data?,statistics
+933,Define labeled data?,statistics
+934,Explain about labeled data?,statistics
+935,Say something about labeled data?,statistics
+936,Give a note on labeled data?,statistics
+937,Short summary about labeled data?,statistics
+938,What is event?,statistics
+939,Tell me about event?,statistics
+940,What is the process of event?,statistics
+941,How event works ?,statistics
+942,What does event mean?,statistics
+943,Explain event?,statistics
+944,Define event?,statistics
+945,Explain about event?,statistics
+946,Say something about event?,statistics
+947,Give a note on event?,statistics
+948,Short summary about event?,statistics
+949,What is sampling funnel?,statistics
+950,Tell me about sampling funnel?,statistics
+951,What is the process of sampling funnel?,statistics
+952,How sampling funnel works ?,statistics
+953,What does sampling funnel mean?,statistics
+954,Explain sampling funnel?,statistics
+955,Define sampling funnel?,statistics
+956,Explain about sampling funnel?,statistics
+957,Say something about sampling funnel?,statistics
+958,Give a note on sampling funnel?,statistics
+959,Short summary about sampling funnel?What is sampling frame?,statistics
+960,Tell me about sampling frame?,statistics
+961,What is the process of sampling frame?,statistics
+962,How sampling frame works ?,statistics
+963,What does sampling frame mean?,statistics
+964,Explain sampling frame?,statistics
+965,Define sampling frame?,statistics
+966,Explain about sampling frame?,statistics
+967,Say something about sampling frame?,statistics
+968,Give a note on sampling frame?,statistics
+969,Short summary about sampling frame?,statistics
+970,What is infrential statastics?,statistics
+971,Tell me about infrential statastics?,statistics
+972,What is the process of infrential statastics?,statistics
+973,How infrential statastics works ?,statistics
+974,What does infrential statastics mean?,statistics
+975,Explain infrential statastics?,statistics
+976,Define infrential statastics?,statistics
+977,Explain about infrential statastics?,statistics
+978,Say something about infrential statastics?,statistics
+979,Give a note on infrential statastics?,statistics
+980,Short summary about infrential statastics?What are the examples of continous data?,statistics
+981,give some examples of continous data?,statistics
+982,Tell me the examples of continous data?,statistics
+983,examples of continous data?,statistics
+984,What are the examples of categorical data?,statistics
+985,give some examples of categorical data?,statistics
+986,Tell me the examples of categorical data?,statistics
+987,examples of categorical data?,statistics
+988,What are the examples of count data?,statistics
+989,give some examples of count data?,statistics
+990,Tell me the examples of count data?,statistics
+991,examples of count data?What is hypothesis?,statistics
+992,Tell me about hypothesis?,statistics
+993,What do you know about hypothesis?,statistics
+994,Do you know about hypothesis?,statistics
+995,What is the process of hypothesis?,statistics
+996,How hypothesis works ?,statistics
+997,Tell me hypothesis?,statistics
+998,About hypothesis?,statistics
+999,Let me know about hypothesis?,statistics
+1000,What is hypothesis?,statistics
+1001,What do you say about hypothesis?,statistics
+1002,What does hypothesis mean?,statistics
+1003,Define hypothesis?,statistics
+1004,Can you say something about hypothesis?,statistics
+1005,short summary about hypothesis?,statistics
+1006,What is hypothesis testing?,statistics
+1007,Tell me about hypothesis testing?,statistics
+1008,What do you know about hypothesis testing?,statistics
+1009,Do you know about hypothesis testing?,statistics
+1010,What is the process of hypothesis testing?,statistics
+1011,How hypothesis testing works ?,statistics
+1012,Tell me hypothesis testing?,statistics
+1013,About hypothesis testing?,statistics
+1014,Let me know about hypothesis testing?,statistics
+1015,What is hypothesis testing?,statistics
+1016,What do you say about hypothesis testing?,statistics
+1017,What does hypothesis testing mean?,statistics
+1018,Explain hypothesis testing?,statistics
+1019,Define hypothesis testing?,statistics
+1020,Can you explain about hypothesis testing?,statistics
+1021,Can you say something about hypothesis testing?,statistics
+1022,Can you explain briefly about hypothesis testing?,statistics
+1023,Can you give a short summary about hypothesis testing?,statistics
+1024,What is confidence?,statistics
+1025,Tell me about confidence?,statistics
+1026,What do you know about confidence?,statistics
+1027,Do you know about confidence?,statistics
+1028,What is the process of confidence?,statistics
+1029,How confidence works ?,statistics
+1030,Tell me confidence?,statistics
+1031,About confidence?,statistics
+1032,Let me know about confidence?,statistics
+1033,What is confidence?,statistics
+1034,What do you say about confidence?,statistics
+1035,What does confidence mean?,statistics
+1036,Explain confidence?,statistics
+1037,Define confidence?,statistics
+1038,Can you explain about confidence?,statistics
+1039,Can you say something about confidence?,statistics
+1040,Can you explain briefly about confidence?,statistics
+1041,Can you give a short summary about confidence?,statistics
+1042,What is Null hypothesis?,statistics
+1043,Tell me about Null hypothesis?,statistics
+1044,What do you know about Null hypothesis?,statistics
+1045,Do you know about Null hypothesis?,statistics
+1046,What is the process of Null hypothesis?,statistics
+1047,How Null hypothesis works ?,statistics
+1048,Tell me Null hypothesis?,statistics
+1049,About Null hypothesis?,statistics
+1050,Let me know about Null hypothesis?,statistics
+1051,What is Null hypothesis?,statistics
+1052,What do you say about Null hypothesis?,statistics
+1053,What does Null hypothesis mean?,statistics
+1054,Explain Null hypothesis?,statistics
+1055,Define Null hypothesis?,statistics
+1056,Can you explain about Null hypothesis?,statistics
+1057,Can you say something about Null hypothesis?,statistics
+1058,Can you explain briefly about Null hypothesis?,statistics
+1059,Can you give a short summary about Null hypothesis?What is Type II error?,statistics
+1060,Tell me about Type II error?,statistics
+1061,What do you know about Type II error?,statistics
+1062,Do you know about Type II error?,statistics
+1063,What is the process of Type II error?,statistics
+1064,How Type II error works ?,statistics
+1065,Tell me Type II error?,statistics
+1066,About Type II error?,statistics
+1067,Let me know about Type II error?,statistics
+1068,What is Type II error?,statistics
+1069,What do you say about Type II error?,statistics
+1070,What does Type II error mean?,statistics
+1071,Explain Type II error?,statistics
+1072,Define Type II error?,statistics
+1073,Can you explain about Type II error?,statistics
+1074,Can you say something about Type II error?,statistics
+1075,Can you explain briefly about Type II error?,statistics
+1076,Can you give a short summary about Type II error?,statistics
+1077,What is Type I error?,statistics
+1078,Tell me about Type I error?,statistics
+1079,What do you know about Type I error?,statistics
+1080,Do you know about Type I error?,statistics
+1081,What is the process of Type I error?,statistics
+1082,How Type I error works ?,statistics
+1083,Tell me Type I error?,statistics
+1084,About Type I error?,statistics
+1085,Let me know about Type I error?,statistics
+1086,What is Type I error?,statistics
+1087,What do you say about Type I error?,statistics
+1088,What does Type I error mean?,statistics
+1089,Explain Type I error?,statistics
+1090,Define Type I error?,statistics
+1091,Can you explain about Type I error?,statistics
+1092,Can you say something about Type I error?,statistics
+1093,Can you explain briefly about Type I error?,statistics
+1094,Can you give a short summary about Type I error?,statistics
+1095,What is Power?,statistics
+1096,Tell me about Power?,statistics
+1097,What do you know about Power?,statistics
+1098,Do you know about Power?,statistics
+1099,What is the process of Power?,statistics
+1100,How Power works ?,statistics
+1101,Tell me Power?,statistics
+1102,About Power?,statistics
+1103,Let me know about Power?,statistics
+1104,What is Power?,statistics
+1105,What do you say about Power?,statistics
+1106,What does Power mean?,statistics
+1107,Explain Power?,statistics
+1108,Define Power?,statistics
+1109,Can you explain about Power?,statistics
+1110,Can you say something about Power?,statistics
+1111,Can you explain briefly about Power?,statistics
+1112,Can you give a short summary about Power?,statistics
+1113,What is Alternate hypothesis?,statistics
+1114,Tell me about Alternate hypothesis?,statistics
+1115,What do you know about Alternate hypothesis?,statistics
+1116,Do you know about Alternate hypothesis?,statistics
+1117,What is the process of Alternate hypothesis?,statistics
+1118,How Alternate hypothesis works ?,statistics
+1119,Tell me Alternate hypothesis?,statistics
+1120,About Alternate hypothesis?,statistics
+1121,Let me know about Alternate hypothesis?,statistics
+1122,What is Alternate hypothesis?,statistics
+1123,What do you say about Alternate hypothesis?,statistics
+1124,What does Alternate hypothesis mean?,statistics
+1125,Explain Alternate hypothesis?,statistics
+1126,Define Alternate hypothesis?,statistics
+1127,Can you explain about Alternate hypothesis?,statistics
+1128,Can you say something about Alternate hypothesis?,statistics
+1129,Can you explain briefly about Alternate hypothesis?,statistics
+1130,Can you give a short summary about Alternate hypothesis?,statistics
+1131,What is tukey test?,statistics
+1132,Tell me about tukey test?,statistics
+1133,What do you know about tukey test?,statistics
+1134,Do you know about tukey test?,statistics
+1135,What is the process of tukey test?,statistics
+1136,How tukey test works ?,statistics
+1137,Tell me tukey test?,statistics
+1138,About tukey test?,statistics
+1139,Let me know about tukey test?,statistics
+1140,What is tukey test?,statistics
+1141,What do you say about tukey test?,statistics
+1142,What does tukey test mean?,statistics
+1143,Explain tukey test?,statistics
+1144,Define tukey test?,statistics
+1145,Can you explain about tukey test?,statistics
+1146,Can you say something about tukey test?,statistics
+1147,Can you explain briefly about tukey test?,statistics
+1148,Can you give a short summary about tukey test?What is one way ANOVA?,statistics
+1149,Tell me about one way ANOVA?,statistics
+1150,What do you know about one way ANOVA?,statistics
+1151,Do you know about one way ANOVA?,statistics
+1152,What is the process of one way ANOVA?,statistics
+1153,How one way ANOVA works ?,statistics
+1154,Tell me one way ANOVA?,statistics
+1155,About one way ANOVA?,statistics
+1156,Let me know about one way ANOVA?,statistics
+1157,What is one way ANOVA?,statistics
+1158,What do you say about one way ANOVA?,statistics
+1159,What does one way ANOVA mean?,statistics
+1160,Explain one way ANOVA?,statistics
+1161,Define one way ANOVA?,statistics
+1162,Can you explain about one way ANOVA?,statistics
+1163,Can you say something about one way ANOVA?,statistics
+1164,Can you explain briefly about one way ANOVA?,statistics
+1165,Can you give a short summary about one way ANOVA?What is ANOM?,statistics
+1166,Tell me about ANOM?,statistics
+1167,What do you know about ANOM?,statistics
+1168,Do you know about ANOM?,statistics
+1169,What is the process of ANOM?,statistics
+1170,How ANOM works ?,statistics
+1171,Tell me ANOM?,statistics
+1172,About ANOM?,statistics
+1173,Let me know about ANOM?,statistics
+1174,What is ANOM?,statistics
+1175,What do you say about ANOM?,statistics
+1176,What does ANOM mean?,statistics
+1177,Explain ANOM?,statistics
+1178,Define ANOM?,statistics
+1179,Can you explain about ANOM?,statistics
+1180,Can you say something about ANOM?,statistics
+1181,Can you explain briefly about ANOM?,statistics
+1182,Can you give a short summary about ANOM?,statistics
+1183,What is correlation?,statistics
+1184,Tell me about correlation?,statistics
+1185,What do you know about correlation?,statistics
+1186,Do you know about correlation?,statistics
+1187,What is the process of correlation?,statistics
+1188,How correlation works ?,statistics
+1189,Tell me correlation?,statistics
+1190,About correlation?,statistics
+1191,Let me know about correlation?,statistics
+1192,What is correlation?,statistics
+1193,What do you say about correlation?,statistics
+1194,What does correlation mean?,statistics
+1195,Explain correlation?,statistics
+1196,Define correlation?,statistics
+1197,Can you explain about correlation?,statistics
+1198,Can you say something about correlation?,statistics
+1199,Can you explain briefly about correlation?,statistics
+1200,Can you give a short summary about correlation?,statistics
+1201,What is Positive correlation?,statistics
+1202,Tell me about Positive correlation?,statistics
+1203,What do you know about Positive correlation?,statistics
+1204,Do you know about Positive correlation?,statistics
+1205,What is the process of Positive correlation?,statistics
+1206,How Positive correlation works ?,statistics
+1207,Tell me Positive correlation?,statistics
+1208,About Positive correlation?,statistics
+1209,Let me know about Positive correlation?,statistics
+1210,What is Positive correlation?,statistics
+1211,What do you say about Positive correlation?,statistics
+1212,What does Positive correlation mean?,statistics
+1213,Explain Positive correlation?,statistics
+1214,Define Positive correlation?,statistics
+1215,Can you explain about Positive correlation?,statistics
+1216,Can you say something about Positive correlation?,statistics
+1217,Can you explain briefly about Positive correlation?,statistics
+1218,Can you give a short summary about Positive correlation?What is Negative correlation?,statistics
+1219,Tell me about Negative correlation?,statistics
+1220,What do you know about Negative correlation?,statistics
+1221,Do you know about Negative correlation?,statistics
+1222,What is the process of Negative correlation?,statistics
+1223,How Negative correlation works ?,statistics
+1224,Tell me Negative correlation?,statistics
+1225,About Negative correlation?,statistics
+1226,Let me know about Negative correlation?,statistics
+1227,What is Negative correlation?,statistics
+1228,What do you say about Negative correlation?,statistics
+1229,What does Negative correlation mean?,statistics
+1230,Explain Negative correlation?,statistics
+1231,Define Negative correlation?,statistics
+1232,Can you explain about Negative correlation?,statistics
+1233,Can you say something about Negative correlation?,statistics
+1234,Can you explain briefly about Negative correlation?,statistics
+1235,Can you give a short summary about Negative correlation?    ,statistics
+1236,What is Scatter plot?,statistics
+1237,Tell me about Scatter plot?,statistics
+1238,What do you know about Scatter plot?,statistics
+1239,Do you know about Scatter plot?,statistics
+1240,What is the process of Scatter plot?,statistics
+1241,How Scatter plot works ?,statistics
+1242,Tell me Scatter plot?,statistics
+1243,About Scatter plot?,statistics
+1244,Let me know about Scatter plot?,statistics
+1245,What is Scatter plot?,statistics
+1246,What do you say about Scatter plot?,statistics
+1247,What does Scatter plot mean?,statistics
+1248,Explain Scatter plot?,statistics
+1249,Define Scatter plot?,statistics
+1250,Can you explain about Scatter plot?,statistics
+1251,Can you say something about Scatter plot?,statistics
+1252,Can you explain briefly about Scatter plot?,statistics
+1253,Can you give a short summary about Scatter plot?,statistics
+1254,What is Correlation coefficent?,statistics
+1255,Tell me about Correlation coefficent?,statistics
+1256,What do you know about Correlation coefficent?,statistics
+1257,Do you know about Correlation coefficent?,statistics
+1258,What is the process of Correlation coefficent?,statistics
+1259,How Correlation coefficent works ?,statistics
+1260,Tell me Correlation coefficent?,statistics
+1261,About Correlation coefficent?,statistics
+1262,Let me know about Correlation coefficent?,statistics
+1263,What is Correlation coefficent?,statistics
+1264,What do you say about Correlation coefficent?,statistics
+1265,What does Correlation coefficentmean?,statistics
+1266,Explain Correlation coefficent?,statistics
+1267,Define Correlation coefficent?,statistics
+1268,Can you explain about Correlation coefficent?,statistics
+1269,Can you say something about Correlation coefficent?,statistics
+1270,Can you explain briefly about Correlation coefficent?,statistics
+1271,Can you give a short summary about Correlation coefficent?,statistics
+1272,What is range for moderate relationship?,statistics
+1273,Tell me about range for moderate relationship?,statistics
+1274,What do you know about range for moderate relationship?,statistics
+1275,Do you know about range for moderate relationship?,statistics
+1276,What is the process of range for moderate relationship?,statistics
+1277,How range for moderate relationship works ?,statistics
+1278,Tell me range for moderate relationship?,statistics
+1279,About range for moderate relationship?,statistics
+1280,Let me know about range for moderate relationship?,statistics
+1281,What is range for moderate relationship?,statistics
+1282,What do you say about range for moderate relationship?,statistics
+1283,What does range for moderate relationship mean?,statistics
+1284,Explain range for moderate relationship?,statistics
+1285,Define range for moderate relationship?,statistics
+1286,Can you explain about range for moderate relationship?,statistics
+1287,Can you say something about range for moderate relationship?,statistics
+1288,Can you explain briefly about range for moderate relationship?,statistics
+1289,Can you give a short summary about range for moderate relationship?,statistics
+1290,What is coefficent of determination?,statistics
+1291,Tell me about coefficent of determination?,statistics
+1292,What do you know about coefficent of determination?,statistics
+1293,Do you know about coefficent of determination?,statistics
+1294,What is the process of coefficent of determination?,statistics
+1295,How coefficent of determination works ?,statistics
+1296,Tell me coefficent of determination?,statistics
+1297,About coefficent of determination?,statistics
+1298,Let me know about coefficent of determination?,statistics
+1299,What is coefficent of determination?,statistics
+1300,What do you say about coefficent of determination?,statistics
+1301,What does coefficent of determination mean?,statistics
+1302,Explain coefficent of determination?,statistics
+1303,Define coefficent of determination?,statistics
+1304,Can you explain about coefficent of determination?,statistics
+1305,Can you say something about coefficent of determination?,statistics
+1306,Can you explain briefly about coefficent of determination?,statistics
+1307,Can you give a short summary about coefficent of determination?What is OLS?,statistics
+1308,Tell me about OLS?,statistics
+1309,What do you know about OLS?,statistics
+1310,Do you know about OLS?,statistics
+1311,What is the process of OLS?,statistics
+1312,How OLS works ?,statistics
+1313,Tell me OLS?,statistics
+1314,About OLS?,statistics
+1315,Let me know about OLS?,statistics
+1316,What is OLS?,statistics
+1317,What do you say about OLS?,statistics
+1318,What does OLSmean?,statistics
+1319,Explain OLS?,statistics
+1320,Define OLS?,statistics
+1321,Can you explain about OLS?,statistics
+1322,Can you say something about OLS?,statistics
+1323,Can you explain briefly about OLS?,statistics
+1324,Can you give a short summary about OLS?,statistics
+1325,What is Total Sum of square(SST)?,statistics
+1326,Tell me about Total Sum of square(SST)?,statistics
+1327,What do you know about Total Sum of square(SST)?,statistics
+1328,Do you know about Total Sum of square(SST)?,statistics
+1329,What is the process of Total Sum of square(SST)?,statistics
+1330,How Total Sum of square(SST) works ?,statistics
+1331,Tell me Total Sum of square(SST)?,statistics
+1332,About Total Sum of square(SST)?,statistics
+1333,Let me know about Total Sum of square(SST)?,statistics
+1334,What is Total Sum of square(SST)?,statistics
+1335,What do you say about Total Sum of square(SST)?,statistics
+1336,What does Total Sum of square(SST)mean?,statistics
+1337,Explain Total Sum of square(SST)?,statistics
+1338,Define Total Sum of square(SST)?,statistics
+1339,Can you explain about Total Sum of square(SST)?,statistics
+1340,Can you say something about Total Sum of square(SST)?,statistics
+1341,Can you explain briefly about Total Sum of square(SST)?,statistics
+1342,Can you give a short summary about Total Sum of square(SST)?,statistics
+1343,What is Regression sum of squares (SSR)?,statistics
+1344,Tell me about Regression sum of squares (SSR)?,statistics
+1345,What do you know about Regression sum of squares (SSR)?,statistics
+1346,Do you know about Regression sum of squares (SSR)?,statistics
+1347,What is the process of Regression sum of squares (SSR)?,statistics
+1348,How Regression sum of squares (SSR) works ?,statistics
+1349,Tell me Regression sum of squares (SSR)?,statistics
+1350,About Regression sum of squares (SSR)?,statistics
+1351,Let me know about Regression sum of squares (SSR)?,statistics
+1352,What is Regression sum of squares (SSR)?,statistics
+1353,What do you say about Regression sum of squares (SSR)?,statistics
+1354,What does Regression sum of squares (SSR)mean?,statistics
+1355,Explain Regression sum of squares (SSR)?,statistics
+1356,Define Regression sum of squares (SSR)?,statistics
+1357,Can you explain about Regression sum of squares (SSR)?,statistics
+1358,Can you say something about Regression sum of squares (SSR)?,statistics
+1359,Can you explain briefly about Regression sum of squares (SSR)?,statistics
+1360,Can you give a short summary about Regression sum of squares (SSR)?,statistics
+1361,What is Error sum of square(SSE)?,statistics
+1362,Tell me about Error sum of square(SSE)?,statistics
+1363,What do you know about Error sum of square(SSE)?,statistics
+1364,Do you know about Error sum of square(SSE)?,statistics
+1365,What is the process of Error sum of square(SSE)?,statistics
+1366,How Error sum of square(SSE) works ?,statistics
+1367,Tell me Error sum of square(SSE)?,statistics
+1368,About Error sum of square(SSE)?,statistics
+1369,Let me know about Error sum of square(SSE)?,statistics
+1370,What is Error sum of square(SSE)?,statistics
+1371,What do you say about Error sum of square(SSE)?,statistics
+1372,What does Error sum of square(SSE)mean?,statistics
+1373,Explain Error sum of square(SSE)?,statistics
+1374,Define Error sum of square(SSE)?,statistics
+1375,Can you explain about Error sum of square(SSE)?,statistics
+1376,Can you say something about Error sum of square(SSE)?,statistics
+1377,Can you explain briefly about Error sum of square(SSE)?,statistics
+1378,Can you give a short summary about Error sum of square(SSE)?,statistics
+1379,What is Prediction Interval?,statistics
+1380,Tell me about Prediction Interval?,statistics
+1381,What do you know about Prediction Interval?,statistics
+1382,Do you know about Prediction Interval?,statistics
+1383,What is the process of Prediction Interval?,statistics
+1384,How Prediction Interval works ?,statistics
+1385,Tell me Prediction Interval?,statistics
+1386,About Prediction Interval?,statistics
+1387,Let me know about Prediction Interval?,statistics
+1388,What is Prediction Interval?,statistics
+1389,What do you say about Prediction Interval?,statistics
+1390,What does Prediction Intervalmean?,statistics
+1391,Explain Prediction Interval?,statistics
+1392,Define Prediction Interval?,statistics
+1393,Can you explain about Prediction Interval?,statistics
+1394,Can you say something about Prediction Interval?,statistics
+1395,Can you explain briefly about Prediction Interval?,statistics
+1396,Can you give a short summary about Prediction Interval?,statistics
+1397,What is Confidence interval of prediction?,statistics
+1398,Tell me about Confidence interval of prediction?,statistics
+1399,What do you know about Confidence interval of prediction?,statistics
+1400,Do you know about Confidence interval of prediction?,statistics
+1401,What is the process of Confidence interval of prediction?,statistics
+1402,How Confidence interval of prediction works ?,statistics
+1403,Tell me Confidence interval of prediction?,statistics
+1404,About Confidence interval of prediction?,statistics
+1405,Let me know about Confidence interval of prediction?,statistics
+1406,What is Confidence interval of prediction?,statistics
+1407,What do you say about Confidence interval of prediction?,statistics
+1408,What does Confidence interval of predictionmean?,statistics
+1409,Explain Confidence interval of prediction?,statistics
+1410,Define Confidence interval of prediction?,statistics
+1411,Can you explain about Confidence interval of prediction?,statistics
+1412,Can you say something about Confidence interval of prediction?,statistics
+1413,Can you explain briefly about Confidence interval of prediction?,statistics
+1414,Can you give a short summary about Confidence interval of prediction?,statistics
+1415,what is the primary difference between SSR and SSE?,statistics
+1416,How SSR is differ from SSE?,statistics
+1417,Tell me about SSR and SSE?,statistics
+1418,What do you know about SSR and SSE?,statistics
+1419,Do you know about SSR and SSE?,statistics
+1420,distinguish between SSR and SSE?,statistics
+1421,mention some differences between SSR and SSE?,statistics
+1422,what are main difeferences between  SSR and SSE?,statistics
+1423,tell me some differences between SSR and SSE?,statistics
+1424,list out some differences betwen SSR and SSE?,statistics
+1425,what is difference between SSR and SSE?,statistics
+1426,what is difference between SSR and SSE?,statistics
+1427,Differentiate between SSR and SSE?,statistics
+1428,comparison between SSR and SSE?Different types of hypothesis that we will deal with,statistics
+1429,common types of hypothesis,statistics
+1430,Basic hypothesis that we will discuss,statistics
+1431,Most used hypothesis in hypothesis testing,statistics
+1432,Commonly used hypothesis in hypothesis testing,statistics
+1433,which hypothesis are used for testing ,statistics
+1434,    What is the output of hypothesis testing,statistics
+1435,What is the result of hypothesis testing ,statistics
+1436,Possible outcome of hypothesis testing,statistics
+1437,How are the End result of hypothesis testing ,statistics
+1438,What is the final result of hypothesis testing,statistics
+1439,What should be the probability value to take an action,statistics
+1440,What can be probability value to take an action,statistics
+1441,When should we take an action?,statistics
+1442,For what probability value should the action be taken?,statistics
+1443,Probability value for with action should be there?,statistics
+1444,When should be the alternate hypothesis performed,statistics
+1445,What should be the probability value to not take any action,statistics
+1446,What can be probability value to for not taking an action,statistics
+1447,When should there be no action taken?,statistics
+1448,For what probability value there is no need for an action?,statistics
+1449,Probability value for whcih action should  not be  there?,statistics
+1450,When should be the Null hypothesis performed,statistics
+1451,How do we decide that which hypothesis test should be performed?,statistics
+1452,What is the process to select the hypothesis test type ,statistics
+1453,Main factor to choose the hypothesis test,statistics
+1454,Factor to choose the hypothesis test Type,statistics
+1455,What helps to decide which hypothesis test to performed?,statistics
+1456,What is the main performance factor of hypothesis testingWhat are types of different test if we have the output variable (Y) as discrete?,statistics
+1457,Tell me types of different test if we have the output variable (Y) as discrete?,statistics
+1458,Do you know types of  different test if we have the output variable (Y) as discrete?,statistics
+1459,Types of  different test if we have the output variable (Y) as discrete?,statistics
+1460,Different types of  different test if we have the output variable (Y) as discrete?,statistics
+1461,What are the different types of different test if we have the output variable (Y) as discrete?,statistics
+1462,how many types of different test if we have the output variable (Y) as discrete are there?,statistics
+1463,What are the important types of different test if we have the output variable (Y) as discrete?,statistics
+1464,list out different types of different test if we have the output variable (Y) as discrete?,statistics
+1465,what are the various types of different test if we have the output variable (Y) as discrete?,statistics
+1466,list out various types of different test if we have the output variable (Y) as discrete?,statistics
+1467,mention some different test if we have the output variable (Y) as discretemethods?,statistics
+1468,say different different test if we have the output variable (Y) as discretemethods?,statistics
+1469,do you know the various types of different test if we have the output variable (Y) as discrete?,statistics
+1470,What are types of different test if we have the output variable (Y) as continuous?,statistics
+1471,Tell me types of different test if we have the output variable (Y) as continuous?,statistics
+1472,Do you know types of  different test if we have the output variable (Y) as continuous?,statistics
+1473,Types of  different test if we have the output variable (Y) as continuous?,statistics
+1474,Different types of  different test if we have the output variable (Y) as continuous?,statistics
+1475,What are the different types of different test if we have the output variable (Y) as continuous?,statistics
+1476,how many types of different test if we have the output variable (Y) as continuous are there?,statistics
+1477,What are the important types of different test if we have the output variable (Y) as continuous?,statistics
+1478,list out different types of different test if we have the output variable (Y) as continuous?,statistics
+1479,what are the various types of different test if we have the output variable (Y) as continuous?,statistics
+1480,list out various types of different test if we have the output variable (Y) as continuous?,statistics
+1481,mention some different test if we have the output variable (Y) as continuousmethods?,statistics
+1482,say different different test if we have the output variable (Y) as continuousmethods?,statistics
+1483,do you know the various types of different test if we have the output variable (Y) as continuous?,statistics
+1484,Where can 1 proportion  be used?,statistics
+1485,Uses of 1(one)proportion test ?,statistics
+1486,Main Uses of 1(one)proportion  ?,statistics
+1487,what are the Uses of 1(one)proportion test ?,statistics
+1488,where do we use 1(one)proportion  ?,statistics
+1489,tell me some uses of 1(one)proportion test ?,statistics
+1490,list out some Uses of 1(one)proportion  ?,statistics
+1491,what is the use of 1(one)proportion test ?,statistics
+1492,where is 1(one)proportion  Uses?,statistics
+1493,list me few uses of 1(one)proportion test ?,statistics
+1494,what are the real time examples of 1(one)proportion  ?,statistics
+1495,list some examples of 1(one)proportion  ?,statistics
+1496,Where can 2(two)proportion test be used?,statistics
+1497,Uses of 2(two)proportion test ?,statistics
+1498,Main Uses of 2(two)proportion test ?,statistics
+1499,what are the Uses of 2(two)proportion test ?,statistics
+1500,where do we use 2(two)proportion test ?,statistics
+1501,tell me some uses of 2(two)proportion test ?,statistics
+1502,list out some Uses of 2(two)proportion test ?,statistics
+1503,what is the use of 2(two)proportion test ?,statistics
+1504,where is 2(two)proportion test Uses?,statistics
+1505,list me few uses of 2(two)proportion test ?,statistics
+1506,what are the real time examples of 2(two)proportion test ?,statistics
+1507,list some examples of 2(two)proportion test ?,statistics
+1508,Where can chi-square  be used?,statistics
+1509,Uses of chi-square test ?,statistics
+1510,Main Uses of chi-square test ?,statistics
+1511,what are the Uses of chi-square  ?,statistics
+1512,where do we use chi-square test ?,statistics
+1513,tell me some uses of chi-square test ?,statistics
+1514,list out some Uses of chi-square  ?,statistics
+1515,what is the use of chi-square test ?,statistics
+1516,where is chi-square test Uses?,statistics
+1517,list me few uses of chi-square test ?,statistics
+1518,what are the real time examples of chi-square  ?,statistics
+1519,list some examples of chi-square  ?,statistics
+1520,Where can Paired T-test be applicable?,statistics
+1521,applications of Paired T-test ?,statistics
+1522,Main applications of Paired T-test ?,statistics
+1523,what are the applications of Paired T-test ?,statistics
+1524,where do we applicable Paired T-test ?,statistics
+1525,tell me some applications of Paired T-test ?,statistics
+1526,list out some applications of Paired T-test ?,statistics
+1527,what is the applications of Paired T-test ?,statistics
+1528,where is Paired T-test applicable?,statistics
+1529,list me few applications of Paired T-test ?,statistics
+1530,Why do we perform Paired T-test ?,statistics
+1531,What are the uses Paired T-test ?,statistics
+1532,Where can 2(two)sample T test be used?,statistics
+1533,Uses of 2(two)sample T test ?,statistics
+1534,Main Uses of 2(two)sample T test ?,statistics
+1535,what are the Uses of 2(two)sample T test ?,statistics
+1536,where do we use 2(two)sample T test ?,statistics
+1537,tell me some uses of 2(two)sample T test ?,statistics
+1538,list out some Uses of 2(two)sample T test ?,statistics
+1539,what is the use of 2(two)sample T test ?,statistics
+1540,where is 2(two)sample T test Uses?,statistics
+1541,list me few uses of 2(two)sample T test ?,statistics
+1542,what are the real time examples of 2(two)sample T test ?,statistics
+1543,list some examples of 2(two)sample T test ?,statistics
+1544,Why do we perform 2(two)sample T test ?,statistics
+1545,What are the uses 2(two)sample T test?,statistics
+1546,Where can ANOVA and ANOM  test be applicable?,statistics
+1547,applications of ANOVA and ANOM  test ?,statistics
+1548,Main applications of ANOVA and ANOM  test ?,statistics
+1549,what are the applications of ANOVA and ANOM  test ?,statistics
+1550,where do we applicable ANOVA and ANOM  test ?,statistics
+1551,tell me some applications of ANOVA and ANOM  test ?,statistics
+1552,list out some applications of ANOVA and ANOM  test ?,statistics
+1553,what is the applications of ANOVA and ANOM  test ?,statistics
+1554,where is ANOVA and ANOM  test applicable?,statistics
+1555,list me few applications of ANOVA and ANOM  test ?,statistics
+1556,What are types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1557,Tell me types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1558,Do you know types of  different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1559,Types of  different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1560,Different types of  different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1561,What are the different types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1562,how many types of different test that we perform if the output variable is not normal when  Y is continuous are there?,statistics
+1563,What are the important types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1564,list out different types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1565,what are the various types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1566,list out various types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1567,mention some different test that we perform if the output variable is not normal when  Y is continuousmethods?,statistics
+1568,say different different test that we perform if the output variable is not normal when  Y is continuousmethods?,statistics
+1569,do you know the various types of different test that we perform if the output variable is not normal when  Y is continuous?,statistics
+1570,What are types of different test under Normality test?,statistics
+1571,Tell me types of different test under Normality test?,statistics
+1572,Do you know types of  different test under Normality test?,statistics
+1573,Types of  different test under Normality test?,statistics
+1574,Different types of  different test under Normality test?,statistics
+1575,What are the different types of different test under Normality test?,statistics
+1576,how many types of different test under Normality test are there?,statistics
+1577,What are the important types of different test under Normality test?,statistics
+1578,list out different types of different test under Normality test?,statistics
+1579,what are the various types of different test under Normality test?,statistics
+1580,list out various types of different test under Normality test?,statistics
+1581,mention some different test under Normality testmethods?,statistics
+1582,say different different test under Normality testmethods?,statistics
+1583,do you know the various types of different test under Normality test?,statistics
+1584, What does one way or two way refer in ANOVA?, statistics
+1585, Tell me the meaning of one way or two way in ANOVAA, statistics
+1586, What does one or two signifies in ANOVA, statistics
+1587, Why is one or two used as a prefix in ANOVA?, statistics
+1588, What is the meaning of one or two in ANOVA?, statistics
+1589, Difference between one and two that is used in ANOVA?, statistics
+1590, How can we represent that correlation exists?, statistics
+1591, When can we say that there is correlation, statistics
+1592, How do we know that there is correlation, statistics
+1593, What makes sure that correlation exists?, statistics
+1594, What are the values for different correlation?, statistics
+1595, What are the different values if correlation is presents?How can we judge the strength of Correlation, statistics
+1596, What are the factors that shows the nature of correlation is strong?, statistics
+1597, How can we say what kind of correlation is present , statistics
+1598, By what can we judge the  strength of the correlation?, statistics
+1599, Best way to say that the correlation is strong or weak? , statistics
+1600, What are the different values if correlation is presents?, statistics
+1601, When can we say that input and output variables are strongly related?, statistics
+1602, When can we tell that input and output parameters are strongly related?, statistics
+1603, What proves the relationship between input and output variables , statistics
+1604, How the realtion between input and output parameter is proved strong, statistics
+1605, Which value tells about strong relationship among parameter, statistics
+1606, Tell the value for strong relationship among the variables, statistics
+1607, When can we say that input and output variables are moderatly related?, statistics
+1608, When can we tell that input and output parameters are moderatly related?, statistics
+1609, What proves moderate relationship between input and output variables , statistics
+1610, How the realtion between input and output parameter is proved moderate, statistics
+1611, Which value tells about moderate relationship among parameter, statistics
+1612, Tell the value for moderate relationship among the variablesWhen can we say that input(x) and output(y) variables are poorly related?, statistics
+1613, When can we tell that input and output parameters are poorly related?, statistics
+1614, What proves poor relationship between input and output variables , statistics
+1615, How the realtion between x and y parameter is proved poor, statistics
+1616, Which value tells about poor relationship among parameter, statistics
+1617, Tell the value for poor relationship among the variablesWhen do we say that model is good?, statistics
+1618, How can we say that the model is perfect?, statistics
+1619, What proves that model is good, statistics
+1620, What do we have to check to say that the model is good?, statistics
+1621, Which value should be looked in to know the model is perfect?, statistics
+1622, Value that should be verified to say that the mode is good?When do we say that the line is best fit?, statistics
+1623, How can we say that the line is best fit for our data?, statistics
+1624, What proves that our line is the best line, statistics
+1625, What do we have to check to say our line is the best fit for data?, statistics
+1626, Which value should be looked in so that we know taht its the best fit line?, statistics
+1627, Value that should be verified to tell that we have the best fit line., statistics
+1628, What is the name of the test that operate on median, statistics
+1629, Name the test that operate on median?, statistics
+1630, What are the different test which works on median, statistics
+1631, Which tests operate on median?, statistics
+1632, Test which operate on median?, statistics

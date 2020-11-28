@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Student Profile</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{url_for('static', filename='external/bootstrap.min.css')}}">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <nav class="navbar navbar-dark bg-primary">
+      <a class="navbar-brand" href="#">
+        AI Chatbot Recommendation
+      </a>
+    </nav>
+
+    <div class="row mt-5">
+      <div class="col-md-6 offset-md-3">
+        <div class="card p-5">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h3>Select a student</h3>
+              <select name="student" id="student-list">
+                <option value="" disabled selected>Select Student</option>
+                {% for student in students_list %}
+                <option value="{{student.id}}">{{student.first_name}} {{student.last_name}}</option>
+                {% endfor %}
+              </select>
+            </div>
+            <div class="col-md-12 mt-5">
+              <ul class="list-group">
+                <li class="list-group-item">Course Will Appear Here</li>
+              </ul>
+            </div>
+            <div class="col-md-12 mt-5 text-center submit-link">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="{{url_for('static', filename='external/jquery.min.js')}}"></script>
+<script src="{{url_for('static', filename='external/popper.min.js')}}"></script>
+<script src="{{url_for('static', filename='external/bootstrap.min.js')}}"></script>
+<script type=text/javascript src="{{url_for('static', filename='js/home.js')}}"></script>
+
+</html>
